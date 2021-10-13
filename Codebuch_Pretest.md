@@ -76,4 +76,12 @@ Das Niveau der Liga. Orientiert sich an der Fünf-Jahres-Wertung der UEFA sowie 
 2 = Platz 6 bis 22 der UEFA, dazu Brasilien, USA und China als attraktive außereuropäische Ligen  
 3 = Rest  
 
+SUCCESS
+Erfolg des Vereins während der Saisons im erhobenen Zeitraum anhand einer ewigen Tabelle.
+1 = Platz 1 bis 7
+2 = 8 bis 15
+3 = 16 bis 23
+4 = 24 bis 29
+
+
 ##
