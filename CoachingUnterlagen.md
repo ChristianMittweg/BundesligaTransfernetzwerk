@@ -17,6 +17,7 @@ Forschungsbericht befindet sich mitten in der Produktion. Wir versuchen die gesa
 
 # hilfreiches theoretisches Konzept mit Erklärungspotenzial
 
+Die Ntzerwerkmechanismen von Fuhse liefern mehrere Erklärungspotenziale für die Bildung des Bundesliga-Transfernetzwerks. So lässt sich vor dem Hintergrund der Aktivitätsfoki erklären, warum die Bundesligavereine so viel untereinander handeln. Als Mitglieder derselben Liga kommen die Vereine und deren Verantwortlichen zwangsläufig in den Kontakt untereinander und den Spielern der Klubs. Dabei können sie geschäftliche Beziehungen vertiefen oder ein besseres Bild von potenziellen Neuzugängen erhalten. Schaut man sich beispielsweise das Teilnetzwerk der "versteckten Riesen" an, lässt sich aber auch erkennen, was der Netzwerkeffekt "Macht" - bei unserem Beispiel in Form von Geld - auslöst. Die dort besonders präsenten Vereine, werden mit einer Ausnahme von großen Unternehmen finanziert und haben entsprechend viele finanzielle Möglichkeiten, um Transfers zu tätigen und damit auch eine zentrale Position in dem Netzwerk einzunehmen. Dabei sei aber auch gesagt: Mehr Macht bzw. Geld ist nicht gleichbedeutend mit mehr Zentralität, sondern nur ein verstärkender Faktor.
 
 # grundlegende Idee der Visualisierung (Vergleich, etc.)
 
