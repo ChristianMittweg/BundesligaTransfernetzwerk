@@ -25,6 +25,10 @@ Teilnetzwerke bilden die Grundlage unserer Visualisierung, da die igraph-Objekte
 
 # offene Fragen
 
-Es bleiben offene Fragen zum Code, die im Fragen-Etherpad auf Moodle festgehalten sind.
+Wir arbeiten bei der Visualisierung gerne mit Degree, um die Vertex-Size zu manipulieren. Aufgrund der drastischen Degree-Unterschiede in unserem Netzwerk/den Teilnetzwerken sorgt das häufig für sehr extreme Ansichten, die bis auf bspw. eine Erkenntnis zum Knoten mit dem höchsten Degree-Wert wenig Erkenntnisse liefern. Deswegen unsere Frage: Kann man eine Mindest- und Maximalgröße für Knoten einstellen?
+Kann man einem Teilnetzwerk nachträglich einzelne Knoten manuell hinzufügen?
+Wie können wir Netzwerke in der Visualiserung auseinanderziehen und verhindern, dass Label sich überlappen?
+
+Offene Fragen zu konkreten Code-Zeilen von uns sind im Fragen-Etherpad auf Moodle festgehalten.
 
 ##
