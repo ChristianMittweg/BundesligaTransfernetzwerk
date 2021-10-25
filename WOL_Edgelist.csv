@@ -1,0 +1,278 @@
+from,to,from_alt,to_alt,playername,transfersumme,weight,transfertype,season,year,transferfenster,ligaintern,transferid
+WOL,AUT1,VfL Wolfsburg,LASK,Pavao Pervan,500000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51977/transfer_id/2137450
+WOL,AUT1,VfL Wolfsburg,LASK,Joao Victor,3500000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/381724/transfer_id/2471394
+WOL,AUT1,VfL Wolfsburg,Red Bull Salzburg,Marin Pongracic,10000000,6,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/282144/transfer_id/2758869
+WOL,AUT1,VfL Wolfsburg,Red Bull Salzburg,Xaver Schlager,15000000,7,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/223979/transfer_id/2524562
+WOL,B04,VfL Wolfsburg,Bayer 04 Leverkusen,Patrick Helmes,5.000.000,5,1,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/6322/transfer_id/534180
+WOL,B04,VfL Wolfsburg,Bayer 04 Leverkusen,Admir Mehmedi,8.000.000,6,1,1718,2018,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/66058/transfer_id/2021876
+WOL,BEL1,VfL Wolfsburg,SV Zulte Waregem,Junior Malanda,1.700.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/129593/transfer_id/922193
+WOL,BEL1,VfL Wolfsburg,RSC Anderlecht,Jan Polak,3.000.000,5,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3530/transfer_id/534477
+WOL,BEL1,VfL Wolfsburg,KV Oostende,Landry Dimata,11.500.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/311489/transfer_id/1798322
+WOL,BMG,VfL Wolfsburg,Borussia Moenchengladbach,Max Kruse,12000000,7,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/36182/transfer_id/1243278
+WOL,BRA1,VfL Wolfsburg,Vasca da Gama Rio de Janeiro,Fagner,3000000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47592/transfer_id/755911
+WOL,BRA1,VfL Wolfsburg,SC Internacional Porto Alegre,Wiliam,5.000.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/341710/transfer_id/1794111
+WOL,BRA2,VfL Wolfsburg,Tombense Futebol Clube,Cicero,800.000,4,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17663/transfer_id/448469
+WOL,BRA2,VfL Wolfsburg,Goias FC,Bruno Henrique,4500000,5,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/353108/transfer_id/1422294
+WOL,BRE,VfL Wolfsburg,SV Werder Bremen,Aaron Hunt,0,1,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/4687/transfer_id/1042568
+WOL,BRE,VfL Wolfsburg,SV Werder Bremen,Naldo,4800000,5,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/32213/transfer_id/755695
+WOL,BSC,VfL Wolfsburg,Hertha BSC,John Anthony Brooks,17.000.000,7,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/124732/transfer_id/1779255
+WOL,BVB,VfL Wolfsburg,Borussia Dortmund,Jakub Blaszczykowski,5.000.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/29835/transfer_id/1556142
+WOL,BVB,VfL Wolfsburg,Borussia Dortmund,Ivan Perisic,8000000,6,1,1213,2013,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/42460/transfer_id/818103
+WOL,CHN1,VfL Wolfsburg,Beijing Guoan,Xizhe Zhang,1.500.000,5,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/150163/transfer_id/1160649
+WOL,CRO1,VfL Wolfsburg,GNK Dinamo Zagreb,Mario Mandzukic,7.000.000,6,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34572/transfer_id/450756
+WOL,CRO1,VfL Wolfsburg,GNK Dinamo Zagreb,Josip Brekalo,10.000.000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/293169/transfer_id/1483616
+WOL,CZE1,VfL Wolfsburg,FC Hradec Kralove,Vaclav Pilar,1500000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63955/transfer_id/672099
+WOL,CZE1,VfL Wolfsburg,FC Viktoria Pilsen,Petr Jiracek,3500000,5,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63737/transfer_id/661116
+WOL,ENG1,VfL Wolfsburg,FC Liverpool,Sotiris Kyrgiakos,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/9706/transfer_id/626125
+WOL,ENG1,VfL Wolfsburg,FC Arsenal,Nicklas Bendtner,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34557/transfer_id/1111968
+WOL,ENG1,VfL Wolfsburg,Manchester City,Lukas Nmecha,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/314288/transfer_id/2587826
+WOL,ENG1,VfL Wolfsburg,Tottenham Hotspur,Ismail Azzaoui,1000000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/289507/transfer_id/1332834
+WOL,ENG1,VfL Wolfsburg,Stoke City,Philipp Wollscheid,1.500.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53173/transfer_id/1588152
+WOL,ENG1,VfL Wolfsburg,FC Arsenal,Kaylen Hinds,1.500.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/290788/transfer_id/1827201
+WOL,ENG1,VfL Wolfsburg,Stoke City,Tuncay Sanli,4.500.000,5,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6934/transfer_id/534181
+WOL,ENG1,VfL Wolfsburg,FC Liverpool,Divock Origi,6.500.000,6,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148368/transfer_id/1899691
+WOL,ENG1,VfL Wolfsburg,FC Chelsea,Kevin De Bruyne,22.000.000,7,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/88755/transfer_id/1002114
+WOL,ENG1,VfL Wolfsburg,FC Chelsea,Andre Schuerrle,32.000.000,7,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58205/transfer_id/1185960
+WOL,ENG2,VfL Wolfsburg,West Ham United,Thomas Hitzlsperger,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1573/transfer_id/598799
+WOL,ESP1,VfL Wolfsburg,FC Barcelona,Aleksandr Hleb,700000,4,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/597/transfer_id/630049
+WOL,ESP1,VfL Wolfsburg,Real Madrid,Borja Mayoral,3.000.000,5,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/298976/transfer_id/1544806
+WOL,ESP1,VfL Wolfsburg,Atletico Madrid,Josuha Guilavogui,3.000.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93704/transfer_id/1484627
+WOL,ESP1,VfL Wolfsburg,Atletico Madrid,Josuha Guilavogui,6.800.000,6,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93704/transfer_id/1106579
+WOL,ESP1,VfL Wolfsburg,FC Malaga,Ignacio Camacho,14.000.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58874/transfer_id/1827387
+WOL,FCA,VfL Wolfsburg,FC Augsburg,Paul Verhaegh,1.500.000,5,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/18021/transfer_id/1869746
+WOL,FCB,VfL Wolfsburg,FC Bayern Muenchen,Ivica Olic,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/7427/transfer_id/712463
+WOL,FCB,VfL Wolfsburg,FC Bayern Muenchen,Dante,4500000,5,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16136/transfer_id/1332287
+WOL,FCB,VfL Wolfsburg,FC Bayern Muenchen,Luiz Gustavo,16.000.000,7,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/10471/transfer_id/932236
+WOL,FCK,VfL Wolfsburg,1.FC Kaiserslautern,Srdjan Lakic,0,1,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/34579/transfer_id/532302
+WOL,FCN,VfL Wolfsburg,1.FC Nuernberg,Noah Korczowski,0,1,1,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119194/transfer_id/1010593
+WOL,FCN,VfL Wolfsburg,1.FC Nuernberg,Timm Klose,6.000.000,6,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/65255/transfer_id/897177
+WOL,FRA1,VfL Wolfsburg,AS Monaco,Dieumerci Mbokani,1.000.000,4,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44624/transfer_id/532238
+WOL,FRA1,VfL Wolfsburg,FC Stade Rennes,Paul Georges Ntep,5.000.000,5,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148955/transfer_id/1667856
+WOL,FRA1,VfL Wolfsburg,Montpellier HSC,Jerome Roussillon,5000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/127076/transfer_id/2213235
+WOL,FRA2,VfL Wolfsburg,FC Sochaux Montbeliard,Maxence Lacroix,5000000,5,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/434224/transfer_id/3028156
+WOL,GER2,VfL Wolfsburg,VfB Stuttgart,Daniel Didavi,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/57995/transfer_id/1464912
+WOL,GER2,VfL Wolfsburg,FC Hansa Rostock,Kevin Pannewitz,300000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/64431/transfer_id/727614
+WOL,GER2,VfL Wolfsburg,SpVgg Greuther Fuerth,Max Gruen,400.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32779/transfer_id/876994
+WOL,GER2,VfL Wolfsburg,SG Dynamo Dresden,Marvin Stefaniak,2.000.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196421/transfer_id/1599960
+WOL,GER2,VfL Wolfsburg,Hertha BSC,Arne Friedrich,2.500.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/698/transfer_id/714247
+WOL,GER2,VfL Wolfsburg,Eintracht Frankfurt,Patrick Ochs,3000000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2358/transfer_id/569460
+WOL,GER2,VfL Wolfsburg,Eintracht Frankfurt,Marco Russ,3000000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16520/transfer_id/604079
+WOL,GER2,VfL Wolfsburg,FC Ingolstadt 04,Marcel Tisserand,3.000.000,5,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170463/transfer_id/1888868
+WOL,GER2,VfL Wolfsburg,FC Ingolstadt 04,Marcel Tisserand,7000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170463/transfer_id/1961054
+WOL,GER3,VfL Wolfsburg,RasenBallsport Leipzig,Stefan Kutschke,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51069/transfer_id/850417
+WOL,GER3,VfL Wolfsburg,FC Ingolstadt 04,Paulo Otavio,1100000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/221611/transfer_id/2504495
+WOL,GER4,VfL Wolfsburg,TSV 1860 Muenchen,Felix Uduokhai,1.000.000,4,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/278343/transfer_id/1816501
+WOL,GRE1,VfL Wolfsburg,PAOK Thessaloniki,Vieirinha,4000000,5,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/35247/transfer_id/665593
+WOL,H96,VfL Wolfsburg,Hannover 96,Emanuel Pogatetz,2500000,5,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1094/transfer_id/732982
+WOL,H96,VfL Wolfsburg,Hannover 96,Felix Klaus,3000000,5,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/89591/transfer_id/2025777
+WOL,HSV,VfL Wolfsburg,Hamburger SV,Alexander Brunst,200000,3,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/146693/transfer_id/1276441
+WOL,ITA1,VfL Wolfsburg,Juventus Turin,Hasan Salihamidzic,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/214/transfer_id/564914
+WOL,ITA1,VfL Wolfsburg,AC Florenz,Mario Gomez,1.050.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6288/transfer_id/1573203
+WOL,ITA1,VfL Wolfsburg,Palermo FC,Simon Kjaer,12.500.000,7,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/48859/transfer_id/444760
+WOL,ITA1,VfL Wolfsburg,Juventus Turin,Diego,15.500.000,7,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4248/transfer_id/472920
+WOL,KOE,VfL Wolfsburg,1.FC Koeln,Yannick Gerhardt,13.000.000,7,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119277/transfer_id/1490436
+WOL,KOR1,VfL Wolfsburg,Jeju United,Ja cheol Koo,2.000.000,5,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/91841/transfer_id/534277
+WOL,M05,VfL Wolfsburg,1.FSV Mainz 05,Ridle Baku,10000000,6,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/327251/transfer_id/3083345
+WOL,M05,VfL Wolfsburg,1.FSV Mainz 05,Yunus Malli,12.500.000,7,1,1617,2017,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85352/transfer_id/1664992
+WOL,MAZ1,VfL Wolfsburg,Shkendija Tetovo,Ferhan Hasani,400000,3,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/151582/transfer_id/665102
+WOL,NED1,VfL Wolfsburg,PEC Zwolle,Mateusz Klich,750.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92738/transfer_id/1071003
+WOL,NED1,VfL Wolfsburg,SC Heerenveen,Bas Dost,7000000,6,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/56331/transfer_id/723918
+WOL,NED1,VfL Wolfsburg,AZ Alkmaar,Wout Weghorst,10500000,7,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/228645/transfer_id/2149267
+WOL,NED1,VfL Wolfsburg,PSV Eindhoven,Jeffrey Bruma,11.500.000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/88721/transfer_id/1514967
+WOL,NED1,VfL Wolfsburg,Ajax Amsterdam,Riechedly Bazoer,12.000.000,7,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/216443/transfer_id/1647433
+WOL,NIG1,VfL Wolfsburg,Ultimate Strikers Academy,Victor Osimhen,3.500.000,5,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/401923/transfer_id/1420896
+WOL,PER1,VfL Wolfsburg,FBC Melgar,Carlos Ascues,1500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189283/transfer_id/1297162
+WOL,POL1,VfL Wolfsburg,Cracovia,Mateusz Klich,1500000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92738/transfer_id/584128
+WOL,POL1,VfL Wolfsburg,Zaglebie Lubin,Martosz Bialek,5000000,5,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/535551/transfer_id/3020034
+WOL,POR1,VfL Wolfsburg,Academica Coimbra,Ibrahim Sissoko,1500000,5,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/157058/transfer_id/667569
+WOL,POR1,VfL Wolfsburg,CD Nacional,Felipe Lopes,2500000,5,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45448/transfer_id/667570
+WOL,QAT1,VfL Wolfsburg,Al Arabi SC,Ashkan Dejagah,0,1,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/13979/transfer_id/1690051
+WOL,RUS1,VfL Wolfsburg,Dinamo Moskau,Maximilian Philipp,2000000,5,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/143891/transfer_id/3085142
+WOL,S04,VfL Wolfsburg,FC Schalke 04,Julian Draxler,43000000,7,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85148/transfer_id/1333089
+WOL,SCF,VfL Wolfsburg,SC Freiburg,Michael Mueller,10.000,2,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/43498/transfer_id/462534
+WOL,SCF,VfL Wolfsburg,SC Freiburg,Daniel Caliguri,4.500.000,5,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38410/transfer_id/864141
+WOL,SGE,VfL Wolfsburg,Eintracht Frankfurt,Sebastian Jung,2.500.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49730/transfer_id/1064110
+WOL,SRB1,VfL Wolfsburg,FK Vojvodina Novi Sad,Slobodan Medojevic,2000000,5,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/48164/transfer_id/665100
+WOL,SUI1,VfL Wolfsburg,Grasshoppers Club Zuerich,Nassim Ben Khalifa,1.600.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/74288/transfer_id/394085
+WOL,SUI1,VfL Wolfsburg,FC Zuerich,Francisco Rodriguez,1600000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227967/transfer_id/1293793
+WOL,SUI1,VfL Wolfsburg,FC Basel 1893,Renato Steffen,1.750.000,5,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/194638/transfer_id/1997881
+WOL,SUI1,VfL Wolfsburg,FC Sion,Givanni Sio,5800000,6,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/76293/transfer_id/666341
+WOL,SUI1,VfL Wolfsburg,FC Zuerich,Ricardo Rodriguez,8500000,6,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/86784/transfer_id/670191
+WOL,SUI1,VfL Wolfsburg,BSC Young Boys,Kevin Mbabu,9200000,6,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183321/transfer_id/2460587
+WOL,SWE1,VfL Wolfsburg,Helsingborg IF,Rasmus Joensson,3400000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72457/transfer_id/628850
+WOL,TSG,VfL Wolfsburg,TSG Hoffenheim,Koen Casteels,1.500.000,5,1,1415,2015,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/108880/transfer_id/1178331
+WOL,TUR1,VfL Wolfsburg,Trabzonspor,Hrvoje Cale,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/24609/transfer_id/606673
+WOL,VEN1,VfL Wolfsburg,Zulia FC,Yohandry Orozoco,750.000,4,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72638/transfer_id/534183
+WOL,VFB,VfL Wolfsburg,VfB Stuttgart,Christian Traesch,9000000,6,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38440/transfer_id/610081
+WOL,VFB,VfL Wolfsburg,VfB Stuttgart,Daniel Ginczek,14000000,7,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/79501/transfer_id/2152770
+AND1,WOL,Deportivo Tachira,VfL Wolfsburg,Yohandry Orozco,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72638/transfer_id/877466
+AUT1,WOL,FBC Melgar,VfL Wolfsburg,Carlos Ascues,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189283/transfer_id/1661699
+AUT2,WOL,SK Austria Klagenfurt,VfL Wolfsburg,Philip Menzel,99,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284346/transfer_id/2966633
+B04,WOL,Bayer 04 Leverkusen,VfL Wolfsburg,Julian Brandt,500.000,3,1,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/187492/transfer_id/984565
+BEL1,WOL,RSC Charleroi,VfL Wolfsburg,Victor Osimhen,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/401923/transfer_id/2235476
+BEL1,WOL,RSC Anderlecht,VfL Wolfsburg,Landry Dimata,500000,3,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/311489/transfer_id/2156806
+BEL1,WOL,RSC Charleroi,VfL Wolfsburg,Victor Osimhen,3500000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/401923/transfer_id/2490988
+BEL1,WOL,RSC Anderlecht,VfL Wolfsburg,Landry Dimata,5000000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/311489/transfer_id/2392275
+BMG,WOL,Borussia Moenchengladbach,VfL Wolfsburg,Tolga Cigerci,350000,3,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/94199/transfer_id/665467
+BRA1,WOL,Club Atletico Mineiro,VfL Wolfsburg,Josue,0,1,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/52910/transfer_id/853210
+BRA1,WOL,Corinthians Sao Paulo,VfL Wolfsburg,Fagner,0,1,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47592/transfer_id/1171199
+BRA1,WOL,Vasco da Gama Rio de Janeiro,VfL Wolfsburg,Fagner,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47592/transfer_id/913021
+BRA1,WOL,Corinthians,VfL Wolfsburg,Fagner,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47592/transfer_id/1007187
+BRA1,WOL,Clube Atletico Mineiro,VfL Wolfsburg,Rever,3.000.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72489/transfer_id/453011
+BRE,WOL,SV Werder Bremen,VfL Wolfsburg,Koen Casteels,150.000,3,2,1415,2015,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/108880/transfer_id/1178776
+BRE,WOL,SV Werder Bremen,VfL Wolfsburg,Florian Hartherz,200000,3,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/93571/transfer_id/629833
+BRE,WOL,SV Werder Bremen,VfL Wolfsburg,Max Kruse,7.500.000,6,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/36182/transfer_id/1557432
+BSC,WOL,Hertha BSC,VfL Wolfsburg,Tolga Cigerci,300.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/94199/transfer_id/1023675
+BSC,WOL,Hertha BSC,VfL Wolfsburg,Tolga Cigerci,1.500.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/94199/transfer_id/1049363
+BVB,WOL,Borussia Dortmund,VfL Wolfsburg,Andre Schuerrle,30000000,7,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58205/transfer_id/1546492
+CHN1,WOL,Beijing Guoan,VfL Wolfsburg,Xizhe Zhang,2000000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/150163/transfer_id/1287396
+CZE1,WOL,FC Viktoria Pilsen,VfL Wolfsburg,Vaclav Pilar,99,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63955/transfer_id/1161181
+CZE1,WOL,Viktoria Pilsen,VfL Wolfsburg,Vaclav Pilar,250.000,3,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63955/transfer_id/1071720
+DNK1,WOL,Broendby IF,VfL Wolfsburg,Thomas Kahlenberg,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15052/transfer_id/858333
+DNK1,WOL,Aalborg BK,VfL Wolfsburg,Rasmus Joensson,100.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72457/transfer_id/927770
+DNK1,WOL,Aalborg BK,VfL Wolfsburg,Rasmus Joensson,150.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72457/transfer_id/1091387
+DNK1,WOL,Broendby IF,VfL Wolfsburg,Ferhan Hasani,350.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/151582/transfer_id/943638
+ENG1,WOL,West Ham United,VfL Wolfsburg,Emanuel Pogatetz,300000,3,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1094/transfer_id/830082
+ENG1,WOL,FC Fulham,VfL Wolfsburg,Ashkan Dejagah,2500000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/13979/transfer_id/778326
+ENG1,WOL,Norwich City,VfL Wolfsburg,Timm Klose,11000000,7,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/65255/transfer_id/1411172
+ENG1,WOL,Manchester City,VfL Wolfsburg,Edin Dzeko,37.000.000,7,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/28396/transfer_id/520188
+ENG1,WOL,Manchester City,VfL Wolfsburg,Kevin De Bruyne,76000000,7,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/88755/transfer_id/1332477
+ENG2,WOL,AFC Sunderland,VfL Wolfsburg,Sotiris Kyrgiakos,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/9706/transfer_id/681112
+ENG2,WOL,Bolton Wanderers,VfL Wolfsburg,Tuncay Sanli,1000000,4,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6934/transfer_id/620768
+ESP1,WOL,Atletico Madrid,VfL Wolfsburg,Diego,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4248/transfer_id/630009
+ESP1,WOL,Atletico Madrid,VfL Wolfsburg,Diego,1.500.000,5,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4248/transfer_id/1012307
+F95,WOL,Fortuna Duesseldorf,VfL Wolfsburg,Andre Fomitschow,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/56510/transfer_id/727649
+FCA,WOL,FC Augsburg,VfL Wolfsburg,Marwin Hitz,0,1,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/59238/transfer_id/876390
+FCA,WOL,FC Augsburg,VfL Wolfsburg,Akaki Gogia,99,1,2,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/92472/transfer_id/624038
+FCA,WOL,FC Augsburg,VfL Wolfsburg,Giovanni Sio,100000,2,2,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/76293/transfer_id/746417
+FCA,WOL,FC Augsburg,VfL Wolfsburg,Ja cheol Koo,125000,3,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/91841/transfer_id/680875
+FCA,WOL,FC Augsburg,VfL Wolfsburg,Felix Uduokhai,1500000,5,2,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/278343/transfer_id/2624871
+FCA,WOL,FC Augsburg,VfL Wolfsburg,Felix Uduokhai,7000000,6,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/278343/transfer_id/2918908
+FCB,WOL,FC Bayern Muenchen,VfL Wolfsburg,Mario Mandzukic,13000000,7,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/34572/transfer_id/736984
+FCK,WOL,1.FC Kaiserslautern,VfL Wolfsburg,Jan Simunek,850.000,4,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/56360/transfer_id/437908
+FCN,WOL,1.FC Nuernberg,VfL Wolfsburg,Emanuel Pogatetz,0,1,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1094/transfer_id/899283
+FCN,WOL,1.FC Nuernberg,VfL Wolfsburg,Nassim Ben Khalifa,99,1,2,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/74288/transfer_id/524158
+FCN,WOL,1.FC Nuernberg,VfL Wolfsburg,Sebastian Polter,200000,3,2,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/60957/transfer_id/720081
+FCN,WOL,1.FC Nuernberg,VfL Wolfsburg,Makoto Hasebe,2.500.000,5,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39259/transfer_id/942595
+FRA1,WOL,AS Monaco,VfL Wolfsburg,Diego Benaglio,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1667/transfer_id/1794988
+FRA1,WOL,FC Evian,VfL Wolfsburg,Thomas Kahlenberg,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15052/transfer_id/667842
+FRA1,WOL,AS St. Etienne,VfL Wolfsburg,Paugel Georges Ntep,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148955/transfer_id/2007001
+FRA1,WOL,AS Saint Etienne,VfL Wolfsburg,Ibrahim Sissoko,100.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/157058/transfer_id/920332
+FRA1,WOL,FC Sochaux Montbeliard,VfL Wolfsburg,Giovanni Sio,200000,3,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/76293/transfer_id/831928
+FRA1,WOL,LOSC Lille,VfL Wolfsburg,Simon Kjaer,2.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/48859/transfer_id/901363
+FRA1,WOL,OGC Nizza,VfL Wolfsburg,Daniel Caligiuri,2.500.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16136/transfer_id/1577964
+FRA1,WOL,Olympique Marseille,VfL Wolfsburg,Luiz Gustavo,10.000.000,6,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/10471/transfer_id/1821125
+FRA1,WOL,FC Paris Saint Germain,VfL Wolfsburg,Julian Draxler,36.000.000,7,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85148/transfer_id/1654244
+FRA2,WOL,EA Guingamp,VfL Wolfsburg,Paul Georges Ntep,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148955/transfer_id/2897101
+GER2,WOL,Hertha BSC,VfL Wolfsburg,Peter Pekarik,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51100/transfer_id/778070
+GER2,WOL,FC Ingolstadt 04,VfL Wolfsburg,Caiuby,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54137/transfer_id/732997
+GER2,WOL,1.FC Koeln,VfL Wolfsburg,Patrick Helmes,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6322/transfer_id/942364
+GER2,WOL,1.FC Kaiserslautern,VfL Wolfsburg,Srdjan Lakic,0,1,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34579/transfer_id/1011502
+GER2,WOL,1.FC Nuernberg,VfL Wolfsburg,Jan Polak,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3530/transfer_id/1060143
+GER2,WOL,Arminia Bielefeld,VfL Wolfsburg,Leandro Putaro,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237732/transfer_id/1560765
+GER2,WOL,VfB Stuttgart,VfL Wolfsburg,Josip Brekalo,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/293169/transfer_id/1691035
+GER2,WOL,Hannover 96,VfL Wolfsburg,Sebastian Jung,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49730/transfer_id/2475739
+GER2,WOL,FC Ingolstadt 04,VfL Wolfsburg,Caiuby,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54137/transfer_id/530808
+GER2,WOL,Arminia Bielefeld,VfL Wolfsburg,Francisco Rodriguez,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227967/transfer_id/1415383
+GER2,WOL,Arminia Bielefeld,VfL Wolfsburg,Leandro Putaro,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237732/transfer_id/1816491
+GER2,WOL,FC Ingolstadt 04,VfL Wolfsburg,Christian Traesch,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38440/transfer_id/1897517
+GER2,WOL,SG Dynamo Dresden,VfL Wolfsburg,Paul Seguin,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183780/transfer_id/1897988
+GER2,WOL,Holstein Kiel,VfL Wolfsburg,Amara Conde,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207580/transfer_id/1800581
+GER2,WOL,1.FC Nuernberg,VfL Wolfsburg,Marvin Stefaniak,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196421/transfer_id/2000347
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Kaylen Hinds,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/290788/transfer_id/2022944
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Marvin Stefaniak,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196421/transfer_id/2489942
+GER2,WOL,FC St. Pauli,VfL Wolfsburg,Akaki Gogia,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92472/transfer_id/746710
+GER2,WOL,SG Dynamo Dresden,VfL Wolfsburg,Bjarne Thoelke,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94210/transfer_id/732113
+GER2,WOL,FC Energie Cottbus,VfL Wolfsburg,Michael Schulze,50000,2,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45758/transfer_id/830284
+GER2,WOL,VfL Bochum,VfL Wolfsburg,Kevin Scheidhauer,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94205/transfer_id/721119
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Paul Seguin,100000,2,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183780/transfer_id/2372608
+GER2,WOL,FC St Pauli,VfL Wolfsburg,Omar Marmoush,100000,2,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/445939/transfer_id/3190863
+GER2,WOL,FC Energie Cottbus,VfL Wolfsburg,Daniel Adlung,150.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31469/transfer_id/461202
+GER2,WOL,FC Energie Cottbus,VfL Wolfsburg,Michael Schulze,150.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45758/transfer_id/883555
+GER2,WOL,VfL Bochum,VfL Wolfsburg,Mahir Saglik,200.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2453/transfer_id/460127
+GER2,WOL,FSV Frankfurt,VfL Wolfsburg,Rasmus Joensson,200000,3,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72457/transfer_id/830322
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Paul Jaeckel,200000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284248/transfer_id/2245838
+GER2,WOL,1.FC Kaiserslautern,VfL Wolfsburg,Mateusz Klich,250.000,3,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92738/transfer_id/1168566
+GER2,WOL,1.FC Nuernberg,VfL Wolfsburg,Stefan Kutschke,250000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51069/transfer_id/1260099
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Paul Seguin,300000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183780/transfer_id/2468428
+GER3,WOL,Hallescher FC,VfL Wolfsburg,Akaki Gogia,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92472/transfer_id/910118
+GER3,WOL,MSV Duisburg,VfL Wolfsburg,Kevin Schneidhauer,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94205/transfer_id/1121780
+GER3,WOL,Wuerzburger Kickers,VfL Wolfsburg,Patrick Drewes,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94192/transfer_id/1816409
+GER3,WOL,SG Dynamo Dresden,VfL Wolfsburg,Marvin Stefaniak,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196421/transfer_id/3088888
+GER3,WOL,SG Dynamo Dresden,VfL Wolfsburg,Alexander Esswein,50.000,2,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45662/transfer_id/467892
+GER3,WOL,1.FC Magdeburg,VfL Wolfsburg,Moritz Sprenger,50.000,2,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/158055/transfer_id/1507434
+GER3,WOL,Preussen Münster,VfL Wolfsburg,Patrick Drewes,50.000,2,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94192/transfer_id/1504989
+GER4,WOL,RasenBallsport Leipzig,VfL Wolfsburg,Alexander Laas,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2852/transfer_id/426351
+GRE1,WOL,Panathinaikos Athen,VfL Wolfsburg,Ibrahim Sissoko,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/157058/transfer_id/742189
+GRE1,WOL,PAOK Saloniki,VfL Wolfsburg,Vieirinha,1.000.000,4,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/35247/transfer_id/1899766
+HSV,WOL,Hamburger SV,VfL Wolfsburg,Ivica Olic,2.000.000,5,1,1415,2015,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/7427/transfer_id/1183698
+HSV,WOL,Hamburger SV,VfL Wolfsburg,Aaron Hunt,3000000,5,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/4687/transfer_id/1333126
+HSV,WOL,Hamburger SV,VfL Wolfsburg,Petr Jiracek,4000000,5,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/63737/transfer_id/776313
+ITA1,WOL,Juventus Turin,VfL Wolfsburg,Andra Barzagli,300.000,3,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/7109/transfer_id/531883
+ITA1,WOL,AS Rom,VfL Wolfsburg,Simon Kjaer,3000000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/48859/transfer_id/629630
+ITA1,WOL,FC Santos,VfL Wolfsburg,Bruno Henrique,4.000.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/353108/transfer_id/1683823
+ITA1,WOL,AC Mailand,VfL Wolfsburg,Ricardo Rodriguez,15.000.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/86784/transfer_id/1786939
+ITA1,WOL,Inter Mailand,VfL Wolfsburg,Ivan Perisic,19000000,7,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42460/transfer_id/1332529
+KOE,WOL,1.FC Koeln,VfL Wolfsburg,Elvis Rexhbecaj,99,1,2,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/280575/transfer_id/2745997
+KOE,WOL,1.FC Koeln,VfL Wolfsburg,Sascha Riether,2800000,5,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1662/transfer_id/600558
+KOE,WOL,1.FC Koeln,VfL Wolfsburg,Jannes Horn,7.000.000,6,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/231586/transfer_id/1787308
+M05,WOL,1.FSV Mainz 05,VflL Wolfsburg,Jeffrey Bruma,99,1,2,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/88721/transfer_id/2777983
+M05,WOL,1.FSV Mainz 05,VfL Wolfsburg,Sebastian Polter,750.000,4,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/60957/transfer_id/890458
+M05,WOL,1.FSV Mainz 05,VfL Wolfsburg,Ja cheol Koo,5.000.000,5,1,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/91841/transfer_id/1001736
+NED1,WOL,FC Twente Enschede,VfL Wolfsburg,Paul Verhaegh,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/18021/transfer_id/2496839
+NED1,WOL,FC Twente Enschede,VfL Wolfsburg,Oskar Zawada,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/232015/transfer_id/1425378
+NED1,WOL,Willem II,VfL Wolfsburg,Ismail Azzaoui,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/290788/transfer_id/20229444
+NED1,WOL,FC Utrecht,VfL Wolfsburg,Riechedly Bazoer,99,1,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/216443/transfer_id/2360450
+NED1,WOL,VVVVenlo,VfL Wolfsburg,John Yeboah,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/439914/transfer_id/2631131
+NED1,WOL,Willem II Tilburg,VfL Wolfsburg,John Yeboah,99,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/439914/transfer_id/3061433
+NED1,WOL,PEC Zwolle,VfL Wolfsburg,Mateusz Klich,100000,2,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92738/transfer_id/831569
+NED1,WOL,PEC Zwolle,VfL Wolfsburg,Mateusz Klich,200.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92738/transfer_id/893934
+NED1,WOL,Vitesse Arnheim,VfL Wolfsburg,Riechedly Bazoer,1500000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/216443/transfer_id/2552381
+PAD,WOL,SC Paderborn 07,VfL Wolfsburg,Stefan Kutschke,300.000,3,2,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/51069/transfer_id/1071722
+PER1,WOL,Alianza Lima,VfL Wolfsburg,Carlos Ascues,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189283/transfer_id/1899780
+POL1,WOL,Wisla Krakau,VfL Wolfsburg,Jakub Blaszczykowski,0,1,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/29835/transfer_id/2356579
+POR1,WOL,GD Chaves,VfL Wolfsburg,Felipe Lopes,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45448/transfer_id/1524353
+POR1,WOL,FC Porto,VfL Wolfsburg,Riechedly Bazoer,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/216443/transfer_id/2247590
+POR1,WOL,Sporting Lissabon,VfL Wolfsburg,Bas Dost,11.850.000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/56331/transfer_id/1582797
+QAT1,WOL,El Jaish Sports Club,VfL Wolfsburg,Karim Ziani,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/25976/transfer_id/598697
+ROU1,WOL,FC Dinamo Bukarest,VfL Wolfsburg,Vlad Munteanu,0,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/26041/transfer_id/527889
+RUS1,WOL,Rubin Kazan,VfL Wolfsburg,Obafemi Martins,9.000.000,6,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/5794/transfer_id/446237
+S04,WOL,FC Schalke 04,VfL Wolfsburg,Naldo,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32213/transfer_id/1483506
+S04,WOL,FC Schalke 04,VfL Wolfsburg,Jeffrey Bruma,99,1,2,1819,2019,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/88721/transfer_id/2388764
+S04,WOL,FC Schalke 04,VfL Wolfsburg,William,99,1,2,2021,2021,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/341710/transfer_id/3220240
+S04,WOL,FC Schalke 04,VfL Wolfsburg,Daniel Caligiuri,2.500.000,5,1,1617,2017,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38410/transfer_id/1685472
+SCF,WOL,SC Freiburg,VfL Wolfsburg,Vaclav Pilar,200.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/63955/transfer_id/897181
+SCF,WOL,SC Freiburg,VfL Wolfsburg,Luca Itter,2500000,5,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/296378/transfer_id/2487061
+SGE,WOL,Eintracht Frankfurt,VfL Wolfsburg,Srdjan Lakic,99,1,2,1213,2013,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/34579/transfer_id/830162
+SGE,WOL,Eintracht Frankfurt,VfL Wolfsburg,Marco Russ,400.000,3,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16520/transfer_id/894322
+SGE,WOL,Eintracht Frankfurt,VfL Wolfsburg,Marco Russ,500000,3,2,1213,2013,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16520/transfer_id/816464
+SGE,WOL,Eintracht Frankfurt,VfL Wolfsburg,Slobodan Medojevic,1.500.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/48164/transfer_id/1122047
+SGF,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Jung bin Park,99,1,2,1213,2013,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/217684/transfer_id/817931
+SUI1,WOL,FC Luzern,VfL Wolfsburg,Francisco Rodriguez,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227967/transfer_id/1588284
+SUI1,WOL,BSC Young Boys,VfL Wolfsburg,Nassim Ben Khalifa,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/74288/transfer_id/593632
+SUI1,WOL,Grasshopper Club Zuerich,VfL Wolfsburg,Nassim Ben Khalifa,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/74288/transfer_id/734700
+SUI1,WOL,FC Luzern,VfL Wolfsburg,Francisco Rodriguez,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227967/transfer_id/1805239
+SUI1,WOL,Grasshopper Club Zuerich,VfL Wolfsburg,Nassim Ben Khalifa,150.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/74288/transfer_id/1058096
+SUI1,WOL,FC Basel 1893,VfL Wolfsburg,Giovanni Sio,2.000.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/76293/transfer_id/932653
+SUI2,WOL,FC Wil 1900,VfL Wolfsburg,Patrick Drewes,50000,2,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94192/transfer_id/1278766
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Chris,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/3233/transfer_id/718309
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Patrick Ochs,100000,2,2,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/2358/transfer_id/777959
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Fabian Johnson,700000,4,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/31041/transfer_id/579055
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Srdjan Lakic,1000000,4,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/34579/transfer_id/680596
+TUR1,WOL,Buraspor,VfL Wolfsburg,Tuncay Sanli,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6934/transfer_id/791030
+TUR1,WOL,Eskisehirspor,VfL Wolfsburg,Ibrahim Sissoko,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/157058/transfer_id/1118772
+TUR1,WOL,Trabzonspor,VfL Wolfsburg,Yunus Malli,0,1,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85352/transfer_id/3230139
+TUR1,WOL,Kayserispor,VfL Wolfsburg,Karim Ziani,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/25976/transfer_id/524281
+TUR1,WOL,Kayserispor,VfL Wolfsburg,PaulGeorges Ntep,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148955/transfer_id/2620731
+TUR1,WOL,Kayserispor,VfL Wolfsburg,Peter Pekarik,150000,3,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51100/transfer_id/629345
+TUR1,WOL,Kayserispor,VfL Wolfsburg,Jonathan Santana,600.000,4,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20000/transfer_id/449652
+TUR1,WOL,Fenerbahce Istanbul,VfL Wolfsburg,Marcel Tisserand,4000000,5,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170463/transfer_id/3062178
+TUR1,WOL,Galatasaray Istanbul,VfL Wolfsburg,Zvjezdan Misimobic,8.500.000,6,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2309/transfer_id/474646
+UNI,WOL,1.FC Union Berlin,VfL Wolfsburg,Yunua Malli,99,1,2,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85352/transfer_id/2762546
+UNI,WOL,1.FC Union Berlin,VfL Wolfsburg,Robin Knoche,99,1,2,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/94201/transfer_id/2915096
+USA2,WOL,Tampa Bay Rowdies,VfL Wolfsburg,Marcel Schaefer,99,1,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/8317/transfer_id/1716966
+VAE1,WOL,Al Ahli Dubai Club,VfL Wolfsburg,Grafite,3000000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37772/transfer_id/586177
+VFB,WOL,VfB Stuttgart,VfL Wolfsburg,Christian Gentner,0,1,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/19112/transfer_id/376716
+VFB,WOL,VfB Stuttgart,VfL Wolfsburg,Felipe Lopes,300000,3,2,1213,2013,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/45448/transfer_id/826375
+VFB,WOL,VfB Stuttgart,VfL Wolfsburg,Mario Gomez,3.000.000,5,1,1718,2018,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/6288/transfer_id/1979183
+VFB,WOL,VfB Stuttgart,VfL Wolfsburg,Daniel Didavi,4000000,5,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57995/transfer_id/2152768

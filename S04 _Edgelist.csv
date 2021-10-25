@@ -1,0 +1,245 @@
+from,to,from_alt,to_alt,playername,transfersumme,weight,transfertype,season,year,transferfenster,ligaintern,transferid
+S04,AUT1,FC Schalke 04,Red Bull Salzburg,Kilian Ludewig,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/361516/transfer_id/3088691
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Tranquillo Barnetta,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/6645/transfer_id/720042
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Andrejs Ciganiks,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/202659/transfer_id/1778662
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Hans Sarpei,400.000,2,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/707/transfer_id/472549
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Sidney Sam,2.500.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39102/transfer_id/995412
+S04,BMG,FC Schalke 04,Borussia Moenchengladbach,Roman Neustaedter,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/40478/transfer_id/669714
+S04,BRE,FC Schalke 04,SV Werder Bremen,Franco Di Santo,6000000,6,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/59783/transfer_id/1299999
+S04,BSC,FC Schalke 04,Hertha BSC,Vedad Ibisevic,0,1,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/21175/transfer_id/2958345
+S04,BVB,FC Schalke 04,Borussia Dortmund,Felipe Santana,1.000.000,4,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/54312/transfer_id/875513
+S04,ENG1,FC Schalke 04,Tottenham Hotspur,Nabil Bentaleb,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/245537/transfer_id/1580481
+S04,ENG1,FC Schalke 04,FC Arsenal,Shkodran Mustafi,0,1,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/88590/transfer_id/3233701
+S04,ENG1,FC Schalke 04,Manchester City,Matija Nastasic,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/143559/transfer_id/1173058
+S04,ENG1,FC Schalke 04,FC Chelsea,Abdul Rahman Baba,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/224884/transfer_id/2019161
+S04,ENG1,FC Schalke 04,FC Everton,Jonjoe Kenny,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/258883/transfer_id/2503517
+S04,ENG1,FC Schalke 04,FC Arsenal,Sead Kolasinac,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94005/transfer_id/3186488
+S04,ENG1,FC Schalke 04,FC Chelsea,Abdul Rahman Baba,500.000,3,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/224884/transfer_id/1556713
+S04,ENG1,FC Schalke 04,Manchester City,Rabbi Matondo,9000000,6,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/404384/transfer_id/2387520
+S04,ENG1,FC Schalke 04,Manchester City,Matija Nastasic,9500000,6,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/143559/transfer_id/1210835
+S04,ENG1,FC Schalke 04,Tottenham Hotspur,Nabil Bentaleb,19.000.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/245537/transfer_id/1712809
+S04,ESP1,FC Schalke 04,Real Madrid,Raul,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123/transfer_id/414024
+S04,ESP1,FC Schalke 04,Real Madrid,Christoph Metzelder,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123/transfer_id/4140244
+S04,ESP1,FC Schalke 04,FC Sevilla,Yevgen Konoplyanka,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58949/transfer_id/1586912
+S04,ESP1,FC Schalke 04,FC Barcelona,Juan Miranda,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/341227/transfer_id/2628095
+S04,ESP1,FC Schalke 04,FC Barcelona,Ibrahim Affelay,500000,3,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15760/transfer_id/777709
+S04,ESP1,FC Schalke 04,FC Barcelona,Jean Clair Todibo,1500000,5,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/605184/transfer_id/2759732
+S04,ESP1,FC Schalke 04,Deportivo La Coruna,Pablo Insua,3.500.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/171362/transfer_id/1815018
+S04,ESP1,FC Schalke 04,FC Sevilla,Coke,4.000.000,6,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/71905/transfer_id/1555416
+S04,ESP1,FC Schalke 04,Real Madrid,Omar Mascarell,10000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/142031/transfer_id/2151819
+S04,ESP1,FC Schalke 04,Atletico Madrid,Jose Manuel Jurado,11.000.000,7,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/28261/transfer_id/474454
+S04,ESP1,FC Schalke 04,FC Sevilla,Yevgen Konoplyanka,12.500.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58949/transfer_id/1764329
+S04,ESP3,FC Schalke 04,Real Murcia,Sergio Escudero,2.300.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93935/transfer_id/460719
+S04,F95,FC Schalke 04,Fortuna Duesseldorf,Benito Raman,10000000,6,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/112930/transfer_id/2539874
+S04,FCA,FC Schalke 04,FC Augsburg,Michael Gregoritsch,500000,3,2,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/2731546
+S04,FCB,FC Schalke 04,FC Bayern Muenchen,Holger Badstuber,0,1,2,1617,2017,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/54659/transfer_id/1669481
+S04,FCB,FC Schalke 04,FC Bayern Muenchen,Jan Kirchhoff,500.000,3,2,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49734/transfer_id/990099
+S04,FCB,FC Schalke 04,FC Bayern Muenchen,Pierre Emile Hoejbjerg,1000000,4,2,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/167799/transfer_id/1330790
+S04,FCB,FC Schalke 04,FC Bayern Muenchen,Sebastian Rudy,16000000,7,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/2241204
+S04,FCK,FC Schalke 04,1.FC Kaiserslautern,Erik Jendrisek,0,1,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/41369/transfer_id/416691
+S04,FCN,FC Schalke 04,1.FC Nuernberg,Guido Burgstaller,1.500.000,5,1,1617,2017,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49239/transfer_id/1668532
+S04,FIN1,FC Schalke 04,HJK Helsinki,Teemu Pukki,1500000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46972/transfer_id/630060
+S04,FRA1,FC Schalke 04,LOSC Lille,Nicolas Plestan,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15276/transfer_id/474497
+S04,FRA1,FC Schalke 04,Olympique Lyon,Michel Bastos,1000000,4,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/12142/transfer_id/830476
+S04,FRA1,FC Schalke 04,LOSC Lille,Hamza Mendyl,6000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/447221/transfer_id/2228084
+S04,FRA1,FC Schalke 04,FC Paris Saint Germain,Benjamin Stambouli,8.000.000,6,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/127160/transfer_id/1581564
+S04,FRA1,FC Schalke 04,FC Nantes,Amine Harit,8.000.000,6,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/372711/transfer_id/1830061
+S04,GER2,FC Schalke 04,Eintracht Frankfurt,Ralf Faehrmann,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39015/transfer_id/578648
+S04,GER2,FC Schalke 04,Fortuna Duesseldorf,Fabian Giefer,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53408/transfer_id/1061330
+S04,GER2,FC Schalke 04,SV Darmstadt 98,Christian Wetklo,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1363/transfer_id/1099428
+S04,GER2,FC Schalke 04,SC Freiburg,Sascha Riether,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1662/transfer_id/1296262
+S04,GER2,FC Schalke 04,SG Dynamo Dresden,Markus Schubert,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/296741/transfer_id/2540340
+S04,GER2,FC Schalke 04,1.FC Heidenheim 1846,Robert Leipertz,300.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119120/transfer_id/1494821
+S04,GER2,FC Schalke 04,SC Paderborn 07,Alexander Nuebel,600000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195778/transfer_id/1331360
+S04,GER2,FC Schalke 04,1.FC Nuernberg,Cedric Teuchert,1.000.000,4,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207597/transfer_id/1989807
+S04,GER2,FC Schalke 04,Alemanni Aachen,Marco Hoeger,1500000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55510/transfer_id/581135
+S04,GER2,FC Schalke 04,1.FC Koeln,Christian Clemens,2.800.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44713/transfer_id/887733
+S04,GER2,FC Schalke 04,1.FC Union Berlin,Steven Skrzybski,3200000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93827/transfer_id/2119350
+S04,GER2,FC Schalke 04,VfL Bochum,Leon Goretzka,3.250.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153084/transfer_id/899104
+S04,GER2,FC Schalke 04,1.FC Nuernberg,Alessandro Schoepf,5000000,5,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/118397/transfer_id/1399274
+S04,GER2,FC Schalke 04,VfB Stuttgart,Ozan Kabak,15000000,7,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/361260/transfer_id/2530001
+S04,GRE1,FC Schalke 04,Olympiakos Piraeus,Kyriakos Papadopoulos,2.000.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/435940
+S04,H96,FC Schalke 04,Hannover 96,Salif Sane,7000000,6,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/126534/transfer_id/2084843
+S04,HSV,FC Schalke 04,Hamburger SV,Dennis Aogo,500.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/19354/transfer_id/939739
+S04,HSV,FC Schalke 04,Hamburger SV,Dennis Aogo,1.900.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/19354/transfer_id/1024958
+S04,IRA1,FC Schalke 04,Steel Azin FC,Ali Karimi,0,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15412/transfer_id/534393
+S04,ITA1,FC Schalke 04,Juventus Turin,Marko Pjaca,800.000,4,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/205940/transfer_id/1991700
+S04,ITA1,FC Schalke 04,AC Mailand,Kevin Prince Boateng,10.000.000,6,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16922/transfer_id/940485
+S04,ITA1,FC Schalke 04,AC Mailand,Klaas Jan Huntelaar,14.000.000,7,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4357/transfer_id/474259
+S04,JAP1,FC Schalke 04,Kashima Antlers,Atsuto Uchida,1.300.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/27800/transfer_id/430986
+S04,M05,FC Schalke 04,1.FSV Mainz 05,Tim Hoogland,0,1,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/18833/transfer_id/377764
+S04,M05,FC Schalke 04,1.FSV Mainz 05,Eric Maxim Choupo Moting,0,1,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/45660/transfer_id/1078969
+S04,M05,FC Schalke 04,1.FSV Mainz 05,Christian Fuchs,3800000,5,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/6636/transfer_id/580263
+S04,M05,FC Schalke 04,1.FSV Mainz 05,Adam Szalai,8.000.000,6,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39106/transfer_id/894920
+S04,M05,FC Schalke 04,1.FSV Mainz 05,Johannes Geis,10500000,7,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/89650/transfer_id/1266154
+S04,M05,FC Schalke 04,1.FSV Mainz 05,Suat Serdar,11000000,7,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/261905/transfer_id/2109859
+S04,NED1,FC Schalke 04,Ajax Amsterdam,Klaas Jan Huntelaar,0,1,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4357/transfer_id/3211986
+S04,NOR1,FC Schalke 04,Rosenborg BK,Anthony Annan,2.000.000,5,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/29122/transfer_id/532731
+S04,PAD,FC Schalke 04,SC Paderborn 07,Bernard Tekpetey,2500000,5,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/422380/transfer_id/2485234
+S04,ROU1,FC Schalke 04,CFR Cluj,Ciprian Deac,3.000.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/43300/transfer_id/472986
+S04,RUS1,FC Schalke 04,PFC Ludogorets Razgrad,Junior Caicara,4500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/112062/transfer_id/1267451
+S04,SGE,FC Schalke 04,Eintracht Frankfurt,Frederik Roennow,99,1,2,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/107775/transfer_id/3082374
+S04,SGE,FC Schalke 04,Eintracht Frankfurt,Goncalo Paciencia,2000000,5,2,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/181547/transfer_id/3062006
+S04,SGE,FC Schalke 04,Eintracht Frankfurt,Bastian Oczipka,4.500.000,5,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53437/transfer_id/1837256
+S04,SUI1,FC Schalke 04,FC Basel 1893,Breel Embolo,26.500.000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237662/transfer_id/1514407
+S04,SWE1,FC Schalke 04,IFK Norrkoeping,Michael Langer,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19114/transfer_id/1866706
+S04,TSG,FC Schalke 04,TSG 1899 Hoffenheim,Mark Uth,0,1,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/112935/transfer_id/1996837
+S04,TSG,FC Schalke 04,TSG 1899 Hoffenheim,Chinedu Obasi,500000,3,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/41663/transfer_id/661402
+S04,TSG,FC Schalke 04,TSG 1899 Hoffenheim,Chinedu Obasi,4000000,5,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/41663/transfer_id/703493
+S04,UKR1,FC Schalke 04,Dynamo Kiew,Younes Belhanda,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/118022/transfer_id/1398334
+S04,UKR1,FC Schalke 04,Karpaty Lviv,Danilo Avelar,100.000,2,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/140748/transfer_id/530510
+S04,UKR1,FC Schalke 04,Dynamo Kiew,Raffael,1000000,4,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19819/transfer_id/823406
+S04,VFB,FC Schalke 04,VfB Stuttgart,Ciprian Marica,0,1,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16833/transfer_id/601522
+S04,WOL,FC Schalke 04,VfL Wolfsburg,Naldo,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32213/transfer_id/1483506
+S04,WOL,FC Schalke 04,VfL Wolfsburg,Jeffrey Bruma,99,1,2,1819,2019,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/88721/transfer_id/2388764
+S04,WOL,FC Schalke 04,VfL Wolfsburg,William,99,1,2,2021,2021,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/341710/transfer_id/3220240
+S04,WOL,FC Schalke 04,VfL Wolfsburg,Daniel Caligiuri,2.500.000,5,1,1617,2017,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38410/transfer_id/1685472
+AUT1,S04,SV Groedig,FC Schalke 04,Pascal Itter,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161544/transfer_id/1310153
+AUT1,S04,SK Sturm Graz,FC Schalke 04,Donis Avdijaj,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196227/transfer_id/1173162
+AUT1,S04,SCR Altach,FC Schalke 04,Bernard Tekpetey,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/422380/transfer_id/1885375
+B04,S04,Bayer 04 Leverkusen,FC Schalke 04,Kyriakos Papadopoulos,1.000.000,4,2,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1102300
+B04,S04,Bayer 04 Leverkusen,FC Schalke 04,Kyriakos Papadopoulos,6500000,6,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1255646
+BMG,S04,Borussia Moenchengladbach,FC Schalke 04,Breel Embolo,11000000,7,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/237662/transfer_id/2527872
+BRA1,S04,Vasco da Gama Rio de Janeiro,FC Schalke 04,Ze Roberto,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/52708/transfer_id/418062
+BRE,S04,SV Werder Bremen,FC Schalke 04,Aleksandr Stevanovic,0,1,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/86895/transfer_id/588791
+BRE,S04,SV Werder Bremen,FC Schalke 04,Benjamin Goller,0,1,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/388058/transfer_id/2463364
+BRE,S04,SV Werder Bremen,FC Schalke 04,Predrag Stevanovic,100.000,2,1,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/68649/transfer_id/532396
+BRE,S04,SV Werder Bremen,FC Schalke 04,Lukas Schmitz,1000000,4,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49867/transfer_id/585615
+BUL1,S04,PFC Ludogorets Razgrad,FC Schalke 04,Bernard Tekpetey,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/422380/transfer_id/2992849
+CHN1,S04,Liaoning FC,FC Schalke 04,Edu,0,1,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/9543/transfer_id/845529
+CHN1,S04,Shandong Taishan,FC Schalke 04,Junmin Hao,1100000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63549/transfer_id/598403
+D98,S04,SV Darmstadt 98,FC Schalke 04,Sidney Sam,0,1,2,1617,2017,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39102/transfer_id/1674381
+D98,S04,SV Darmstadt 98,FC Schalke 04,Felix Platte,99,1,2,1516,2016,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/195782/transfer_id/1424500
+DNK1,S04,Odense Boldklub,FC Schalke 04,Tore Reginiussen,400000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41328/transfer_id/583291
+ENG1,S04,Leicester City,FC Schalke 04,Christian Fuchs,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6636/transfer_id/1250744
+ENG1,S04,FC Schalke 04,FC Liverpool,Joel Matip,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82105/transfer_id/1437188
+ENG1,S04,FC Arsenal,FC Schalke 04,Sead Kolasinac,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94005/transfer_id/1784133
+ENG1,S04,Stoke City,FC Schalke 04,Eric Maxim Choupo Moting,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45660/transfer_id/1817585
+ENG1,S04,Crystal Palace,FC Schalke 04,Max Meyer,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/146164/transfer_id/2207766
+ENG1,S04,UD Levante,FC Schalke 04,Coke,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/71905/transfer_id/1974764
+ENG1,S04,Blackburn Rovers,FC Schalke 04,Jermaine Jones,700.000,4,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1321/transfer_id/526500
+ENG1,S04,Newcastle United,FC Schalke 04,Nabil Bentaleb,1000000,4,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/245537/transfer_id/2767307
+ENG1,S04,FC Liverpool,FC Schalke 04,Ozan Kabak,1100000,5,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/361260/transfer_id/3233712
+ENG1,S04,Tottenham Hotspur,FC Schalke 04,Lewis Holtby,1750000,5,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55508/transfer_id/817219
+ENG1,S04,Norwich City,FC Schalke 04,Ralf Faehrmann,3000000,5,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39015/transfer_id/2540334
+ENG1,S04,FC Schalke 04,Manchester City,Leroy Sane,52.000.000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/192565/transfer_id/1556750
+ENG2,S04,FC Fulham,FC Schalke 04,Tim Hoogland,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/18833/transfer_id/1057694
+ENG2,S04,FC Schalke 04,Bristol City,Fabian Giefer,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53408/transfer_id/1679454
+ENG2,S04,Stoke City,FC Schalke 04,Rabbi Matondo,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/404384/transfer_id/3194593
+ESP1,S04,Rayo Vallecano,FC Schalke 04,Franco Di Santo,0,1,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/59783/transfer_id/2390639
+ESP1,S04,SD Huesca,FC Schalke 04,Pablo Insua,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/171362/transfer_id/2186684
+ESP1,S04,FC Getafe,FC Schalke 04,Sergio Escudero,200000,3,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93935/transfer_id/827758
+ESP1,S04,SD Huesca,FC Schalke 04,Pablo Insua,250000,3,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/171362/transfer_id/2995925
+ESP1,S04,CA Osasuna,FC Schalke 04,Anthony Annan,300000,3,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/29122/transfer_id/773386
+ESP1,S04,FC Getafe,FC Schalke 04,Sergio Escudero,1.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93935/transfer_id/906717
+ESP1,S04,UD Levante,FC Schalke 04,Coke,1500000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/71905/transfer_id/2156943
+ESP1,S04,FC Sevilla,FC Schalke 04,Johannes Geis,2.000.000,5,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89650/transfer_id/1901790
+ESP1,S04,FC Sevilla,FC Schalke 04,Ivan Rakitic,2.500.000,5,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32467/transfer_id/532850
+ESP2,S04,RCD Mallorca,FC Schalke 04,Timon Wellenreuther,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196829/transfer_id/1268421
+ESP2,S04,SD Huesca,FC Schalke 04,Pablo Insua,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/171362/transfer_id/2616624
+F95,S04,Fortuna Duesseldorf,FC Schalke 04,Steven Skrzybski,99,1,2,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/93827/transfer_id/2742982
+F95,S04,Fortuna Duesseldorf,FC Schalke 04,Bernard Tekpetey,500000,3,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/422380/transfer_id/2539884
+FCA,S04,FC Augsburg,FC Schalke 04,Daniel Caligiuri,0,1,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38410/transfer_id/2948719
+FCA,S04,FC Augsburg,FC Schalke 04,Jan Moravek,75000,2,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/63022/transfer_id/663741
+FCA,S04,FC Augsburg,FC Schalke 04,Jan Moravek,700000,4,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/63022/transfer_id/718404
+FCA,S04,FC Augsburg,FC Schalke 04,Fabian Giefer,750.000,4,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53408/transfer_id/1786924
+FCA,S04,FC Augsburg,FC Schalke 04,Marvin Friedrich,1.000.000,4,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/196231/transfer_id/1507235
+FCB,S04,FC Bayern Muenchen,FC Schalke 04,Lukas Raeder,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/125172/transfer_id/707386
+FCB,S04,FC Bayern Muenchen,FC Schalke 04,Leon Goretzka,0,1,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/153084/transfer_id/2008415
+FCB,S04,FC Bayern Muenchen,FC Schalke 04,Alexander Nuebel,0,1,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/195778/transfer_id/2744120
+FCB,S04,FC Bayern Muenchen,FC Schalke 04,Manuel Neuer,30000000,7,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/17259/transfer_id/578657
+FCI,S04,FC Ingolstadt 04,FC Schalke 04,Maurice Multhaup,500000,3,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/187496/transfer_id/1332933
+FCI,S04,FC Ingolstadt 04,FC Schalke 04,Robert Leipertz,1.500.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119120/transfer_id/1522656
+FCK,S04,1.FC Kaiserslautern,FC Schalke 04,Jan Moravek,150.000,3,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/63022/transfer_id/439468
+FCN,S04,1.FC Nuernberg,FC Schalke 04,Noah Korczowski,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119194/transfer_id/680720
+FCN,S04,1.FC Nuernberg,FC Schalke 04,Patrick Rakovsky,100000,2,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85201/transfer_id/590267
+FRA1,S04,Dijon FCO,FC Schalke 04,Hamza Mendyl,500000,3,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/447221/transfer_id/2616655
+FRA1,S04,AS Monaco,FC Schalke 04,Naldo,2000000,5,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32213/transfer_id/2356427
+FRA1,S04,FC Paris Saint Germain,FC Schalke 04,Thilo Kehrer,37000000,7,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/228948/transfer_id/2226739
+GER2,S04,1.FC Kaiserslautern,FC Schalke 04,Alexander Baumjohann,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16474/transfer_id/772392
+GER2,S04,FC Erzgebirge Aue,FC Schalke 04,Andreas Wiegel,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45698/transfer_id/760911
+GER2,S04,FC Schalke 04,1.FC Union Berlin,Michael Gspurning,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17029/transfer_id/1519538
+GER2,S04,FC Schalke 04,Karlsruher SC,Fabian Reese,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227102/transfer_id/1689448
+GER2,S04,VfL Bochum,FC Schalke 04,Sidney Sam,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39102/transfer_id/1899630
+GER2,S04,FC Ingolstadt 04,FC Schalke 04,Phil Neumann,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/265176/transfer_id/1675994
+GER2,S04,1.FC Union Berlin,FC Schalke 04,Atsuto Uchida,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/27800/transfer_id/1888326
+GER2,S04,FC Erzgebirge Aue,FC Schalke 04,Luke Hemmerich,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/300502/transfer_id/2148208
+GER2,S04,FC St Pauli,FC Schalke 04,Guido Burgstaller,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49239/transfer_id/3082126
+GER2,S04,SV Sandhausen,FC Schalke 04,Haji Wright,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/315291/transfer_id/1876028
+GER2,S04,VfL Bochum,FC Schalke 04,Luke Hemmerich,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/300502/transfer_id/1895947
+GER2,S04,SpVgg Greuther Fuerth,FC Schalke 04,Fabian Reese,50.000,2,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227102/transfer_id/2010171
+GER2,S04,MSV Duisburg,FC Schalke 04,Vasilios Pliatsikas,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34186/transfer_id/578601
+GER2,S04,SC Paderborn 07,FC Schalke 04,Philipp Hofmann,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119037/transfer_id/760093
+GER2,S04,Holstein Kiel,FC Schalke 04,Fabian Reese,100000,2,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227102/transfer_id/2743566
+GER2,S04,SC Paderborn 07,FC Schalke 04,Bernard Tekpetey,150000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/422380/transfer_id/2194783
+GER2,S04,FC Ingolstadt 04,FC Schalke 04,Philipp Hofmann,200.000,3,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119037/transfer_id/908920
+GER2,S04,Fortuna Duesseldorf,FC Schalke 04,Lars Unnerstall,200.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53696/transfer_id/1064560
+GER2,S04,Fortuna Duesseldorf,FC Schalke 04,Marcel Sobottka,200000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119044/transfer_id/1289388
+GER2,S04,Hertha BSC,FC Schalke 04,Peer Kluge,250000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1095/transfer_id/736549
+GER2,S04,1.FC Koeln,FC Schalke 04,Johannes Geis,500000,3,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89650/transfer_id/2367808
+GER2,S04,Hannover 96,FC Schalke 04,Cedric Teuchert,500000,3,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207597/transfer_id/2533733
+GER2,S04,FC St. Pauli,FC Schalke 04,Carlos Zambrano,750000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53533/transfer_id/704547
+GER2,S04,SV Darmstadt 98,FC Schalke 04,Felix Platte,800.000,4,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195782/transfer_id/1894235
+GER2,S04,1.FC Kaiserslautern,FC Schalke 04,Philipp Hofmann,1.000.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119037/transfer_id/1067064
+GER3,S04,Viktoria Koeln,FC Schalke 04,Jonas Carls,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/239972/transfer_id/2768382
+GRE1,S04,Panetolikos GFS,FC Schalke 04,Angelos Charisteas,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1519/transfer_id/570005
+GRE1,S04,Olympiakos Piraeus,FC Schalke 04,Felipe Santana,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54312/transfer_id/1183860
+H96,S04,Hannover 96,FC Schalke 04,Christian Pander,0,1,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/2805/transfer_id/586608
+HSV,S04,Hamburger SV,FC Schalke 04,Heiko Westermann,7.500.000,6,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1726/transfer_id/453961
+IRA1,S04,Persepolis FC,FC Schalke 04,Ali Karimi,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15412/transfer_id/570003
+ITA1,S04,US Lecce,FC Schalke 04,Carlos Grossmueller,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50791/transfer_id/458672
+ITA1,S04,US Lecce,FC Schalke 04,Tore Reiniussen,150.000,3,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41328/transfer_id/458472
+ITA1,S04,Juventus Turin,FC Schalke 04,Benedikt Hoewedes,3.500.000,5,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39020/transfer_id/1898371
+ITA1,S04,Juventus Turin,FC Schalke 04,Weston McKennie,4500000,5,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/332697/transfer_id/3036045
+ITA1,S04,Genua CFC,FC Schalke 04,Rafinha,8.000.000,6,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/33947/transfer_id/462172
+KOE,S04,1.FC Koeln,FC Schalke 04,Mark Uth,99,1,2,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/112935/transfer_id/2743535
+KOE,S04,1.FC Koeln,FC Schalke 04,Marco Hoeger,1.300.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/55510/transfer_id/1441085
+M05,S04,1.FSV Mainz 05,FC Schalke 04,Christoph Moritz,0,1,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/55519/transfer_id/808429
+M05,S04,1.FSV Mainz 05,FC Schalke 04,Lewis Holtby,200.000,3,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/55508/transfer_id/422907
+M05,S04,1.FSV Mainz 05,FC Schalke 04,Mario Gavranovic,200000,3,2,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/61380/transfer_id/630056
+M05,S04,1.FSV Mainz 05,FC Schalke 04,Christian Clemens,400.000,3,2,1415,2015,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/44713/transfer_id/1168983
+M05,S04,1.FSV Mainz 05,FC Schalke 04,Christian Clemens,2.000.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/44713/transfer_id/1476359
+MEX1,S04,CF America,FC Schalke 04,Vicente Sanchez,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53060/transfer_id/439467
+NED1,S04,Willem II Tilburg,FC Schalke 04,Timon Wellenreuther,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196829/transfer_id/1764321
+NED1,S04,Ajax Amsterdam,FC Schalke 04,Klaas Jan Huntelaar,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4357/transfer_id/1764331
+NED1,S04,Roda JC Kerkrade,FC Schalke 04,Donis Avdijaj,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196227/transfer_id/2004110
+NED1,S04,Heracles Almelo,FC Schalke 04,Ahmed Kutucu,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/452084/transfer_id/3215009
+NED1,S04,Vitesse Arnheim,FC Schalke 04,Anthony Annan,400000,3,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/29122/transfer_id/626061
+NOR1,S04,SK Brann,FC Schalke 04,Ralf Faehrmann,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39015/transfer_id/2826165
+NOR1,S04,Tromso IL,FC Schalke 04,Tore Reiniussen,100.000,3,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41328/transfer_id/553944
+POR1,S04,Vitoria Guimaraes SC,FC Schalke 04,Jonas Carls,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/239972/transfer_id/2989845
+QAT1,S04,Al Rayyan SC,FC Schalke 04,Marcelo Bordon,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/586/transfer_id/442893
+QAT1,S04,Al Sadd FC,FC Schalke 04,Raul,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/7349/transfer_id/710426
+ROU1,S04,FC Rapid Bukarest,FC Schalke 04,Ciprian Deac,300000,3,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/43300/transfer_id/575161
+ROU1,S04,CFR Cluj,FC Schalke 04,Ciprian Deac,700000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/43300/transfer_id/723238
+RUS1,S04,Dinamo Moskau,FC Schalke 04,Kevin Kuranyi,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1331/transfer_id/417702
+RUS1,S04,Kuban Krasnodar,FC Schalke 04,Felipe Santana,0,1,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54312/transfer_id/1403442
+RUS1,S04,Spartak Moskau,FC Schalke 04,Jose Manuel Jurado,1500000,5,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/28261/transfer_id/778279
+RUS1,S04,Spartak Moskau,FC Schalke 04,Jose Manuel Jurado,3.000.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/28261/transfer_id/894153
+RUS1,S04,Lokomotive Moskau,FC Schalke 04,Benedikt Hoewedes,5000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39020/transfer_id/2203178
+SCF,S04,SC Freiburg,FC Schalke 04,Erik Jendrisek,700.000,4,1,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/41369/transfer_id/527520
+SCO1,S04,Celtic Glasgow,FC Schalke 04,Teemu Pukki,2.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46972/transfer_id/941363
+SGE,S04,Eintracht Frankfurt,FC Schalke 04,Kaan Ayhan,99,1,2,1516,2016,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119031/transfer_id/1395256
+SGE,S04,Eintracht Frankfurt,FC Schalke 04,Markus Schubert,99,1,2,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/296741/transfer_id/3082382
+SGE,S04,Eintracht Frankfurt,FC Schalke 04,Tranquillo Barnetta,500.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/6645/transfer_id/942683
+SGF,S04,SpVgg Greuther Fuerth,FC Schalke 04,Edu,300000,3,2,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/9543/transfer_id/777796
+STP,S04,FC St. Pauli,FC Schalke 04,Gerald Asamoah,99,1,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/258/transfer_id/424066
+STP,S04,FC St. Pauli,FC Schalke 04,Carlos Zambrano,150.000,3,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53533/transfer_id/446319
+SUI1,S04,FC Zuerich,FC Schalke 04,Mario Gavranovic,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61380/transfer_id/720848
+SUI1,S04,FC Aarau,FC Schalke 04,Lars Unnerstall,200.000,3,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53696/transfer_id/1006198
+TSG,S04,TSG 1899 Hoffenheim,FC Schalke 04,Sebastian Rudy,850000,1,2,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/2583604
+TSG,S04,TSG 1899 Hoffenheim,FC Schalke 04,Sebastian Rudy,99,1,2,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/3088260
+TSG,S04,TSG Hoffenheim,FC Schalke 04,Adam Szalai,6.000.000,6,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39106/transfer_id/1078950
+TUR1,S04,Goeztepe,FC Schalke 04,Emin Yalin,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82886/transfer_id/453989
+TUR1,S04,FC Schalke 04,Fenerbahce Istanbul,Roman Neustaedter,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40478/transfer_id/1511129
+TUR1,S04,Besiktas Istanbul,FC Schalke 04,Jermaine Jones,200.000,3,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1321/transfer_id/1009911
+TUR1,S04,Besiktas Istanbul,FC Schalke 04,Edu,500000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/9543/transfer_id/630817
+TUR1,S04,FC Schalke 04,Istanbul Basaksehir FK,Junior Caicara,3.000.000,5,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/112062/transfer_id/1675961
+UKR1,S04,Karpaty Lviv,FC Schalke 04,Levan Kenia,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/30732/transfer_id/712742
+UKR1,S04,Shakhtar Donetsk,FC Schalke 04,Yevgen Konoplyanka,1800000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58949/transfer_id/2631481
+UNI,S04,1.FC Union Berlin,FC Schalke 04,Cedric Teuchert,0,1,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/207597/transfer_id/2995910
+USA1,S04,Philadelphia Union,FC Schalke 04,Tranquillo Barnetta,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6645/transfer_id/1250742
+VAE1,S04,Al Jazira Abu Dhabi,FC Schalke 04,Jefferson Farfan,7000000,6,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16649/transfer_id/1296363
+VFB,S04,VfB Stuttgart,FC Schalke 04,Dennis Aogo,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/19354/transfer_id/1764322
+VFB,S04,VfB Stuttgart,FC Schalke 04,Tim Hoogland,300000,3,2,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/18833/transfer_id/737426
+WOL,S04,VfL Wolfsburg,FC Schalke 04,Julian Draxler,43000000,7,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85148/transfer_id/1333089

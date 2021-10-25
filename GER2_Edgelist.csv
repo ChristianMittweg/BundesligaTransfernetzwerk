@@ -1,0 +1,797 @@
+from,to,from_alt,to_alt,playername,transfersumme,weight,transfertype,season,year,transferfenster,ligaintern,transferid
+GER2,B04,Alemannia Aachen,Bayer 04 Leverkusen,Tomasz Zdebel,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3836/transfer_id/409312
+GER2,B04,Fortuna Duesseldorf,Bayer 04 Leverkusen,Sascha Dum,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20551/transfer_id/427008
+GER2,B04,FC Augsburg,Bayer 04 Leverkusen,Lukas Sinkiewicz,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17134/transfer_id/453962
+GER2,B04,SpVgg Greuther Fuerth,Bayer 04 Leverkusen,Kevin Kampl,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/473986
+GER2,BMG,FC Augsburg,Borussia Moenchengladbach,Thomas Kleine,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1116/transfer_id/410010
+GER2,BMG,Arminia Bielefeld,Borussia Moenchengladbach,Oliver Neuville,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/81/transfer_id/410007
+GER2,BMG,Rot Weiss Oberhausen,Borussia Moenchengladbach,Mosos Lamidi,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36193/transfer_id/396746
+GER2,BVB,1.FC Union Berlin,Borussia Dortmund,Marcel Hoettecke,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40462/transfer_id/413988
+GER2,FCB,Hertha BSC,FC Bayern Muenchen,Christian Lell,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2233/transfer_id/435939
+GER2,FCB,FC Ingolstadt 04,FC Bayern Muenchen,Andreas Goerlitz,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1742/transfer_id/421767
+GER2,FCK,Rot Weiss Oberhausen,1.FC Kaiserslautern,Mario Klinger,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32760/transfer_id/414662
+GER2,FCK,Karlsruher SC,1.FC Kaiserslautern,Luis Robles,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47289/transfer_id/463078
+GER2,FCN,FSV Frankfurt,1.FC Nuernberg,Jaouhar Mnari,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31199/transfer_id/421299
+GER2,KOE,FC Ingolstadt 04,1.FC Koeln,Sebastian Zielinsky,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/26146/transfer_id/420158
+GER2,M05,FSV Frankfurt,1.FSV Mainz 05,Tufan Tosunoglu,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37685/transfer_id/453964
+GER2,SCF,TSV 1860 Muenchen,SC Freiburg,Eke Uzoma,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/43500/transfer_id/441124
+GER2,SCF,FSV Frankfurt,SC Freiburg,Michael Langer,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19114/transfer_id/414116
+GER2,SGE,VfL Bochum,Eintracht Frankfurt,Faton Toski,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39392/transfer_id/430555
+GER2,SGE,Alemannia Aachen,Eintracht Frankfurt,Juvhel Tsoumou,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42485/transfer_id/439099
+GER2,BMG,FC Augsburg,Borussia Moenchengladbach,Jan Ingwer Callsen Bracker,0,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3851/transfer_id/516572
+GER2,BMG,SpVgg Greuther Fuerth,Borussia Moenchengladbach,Christian Dorda,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36189/transfer_id/583876
+GER2,BMG,SC Paderborn 07,Borussia Moenchengladbach,Jens Wissing,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50153/transfer_id/581816
+GER2,BMG,FC St. Pauli,Borussia Moenchengladbach,Sebastian Schachten,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/18391/transfer_id/571342
+GER2,BMG,Eintracht Frankfurt,Borussia Moenchengladbach,Mohammadou Idrissou,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1574/transfer_id/629728
+GER2,BMG,Alemannia Aachen,Borussia Moenchengladbach,Fabian Baecker,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51791/transfer_id/562156
+GER2,BRE,FC Hansa Rostock,SV Werder Bremen,Timo Perthel,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42086/transfer_id/581684
+GER2,BRE,Eintracht Frankfurt,SV Werder Bremen,Dominik Schmidt,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17443/transfer_id/595785
+GER2,BSC,Alemannia Aachen,Hertha BSC,Lennart Hartmann,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45684/transfer_id/580247
+GER2,FCA,VfL Bochum,FC Augsburg,Lukas Sinkiewicz,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17134/transfer_id/585089
+GER2,FCN,TSV 1860 Muenchen,1.FC Nuernberg,Timo Ochs,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1318/transfer_id/581133
+GER2,FCN,FC Hansa Rostock,1.FC Nuernberg,Marek Mintal,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6239/transfer_id/580718
+GER2,H96,MSV Duisburg,Hannover 96,Florian Fromlowitz,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3612/transfer_id/571333
+GER2,HSV,TSV 1860 Muenchen,Hamburger SV,Collin Benjamin,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1390/transfer_id/587161
+GER2,HSV,SG Dynamo Dresden,Hamburger SV,Wolfgang Hesl,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16843/transfer_id/621481
+GER2,M05,SG Dynamo Dresden,1.FSV Mainz 05,Filip Trojan,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1442/transfer_id/586605
+GER2,SCF,FC Energie Cottbus,SC Freiburg,Ivica Banovic,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/517/transfer_id/615535
+GER2,TSG,FC Ingolstadt 04,TSG 1899 Hoffenheim,Ramazan Oezcan,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16498/transfer_id/569327
+GER2,FCK,FC Ingolstadt 04,1.FC Kaiserslautern,Adam Nemec,0,1,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55210/transfer_id/733100
+GER2,M05,FC Ingolstadt 04,1.FSV Mainz 05,Florian Heller,0,1,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2077/transfer_id/669718
+GER2,SCF,Eintracht Frankfurt,SC Freiburg,Heiko Butscher,0,1,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1496/transfer_id/670770
+GER2,SCF,TSV 1860 Muenchen,SC Freiburg,Maximilian Nicu,0,1,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2345/transfer_id/680672
+GER2,BRE,FC St. Pauli,SV Werder Bremen,Lennart Thy,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/23553/transfer_id/734574
+GER2,BVB,MSV Duisburg,Borussia Dortmund,Antonio da Silva,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1919/transfer_id/715638
+GER2,BVB,FC St. Pauli,Borussia Dortmund,Florian Kringe,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1270/transfer_id/755742
+GER2,F95,MSV Duisburg,Fortuna Duesseldorf,Ranisav Jovanovic,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2125/transfer_id/731186
+GER2,F95,1.FC Koeln,Fortuna Duesseldorf,Thomas Broeker,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/13686/transfer_id/723240
+GER2,FCA,Hertha BSC,FC Augsburg,Marcel Ndjeng,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2334/transfer_id/737388
+GER2,FCA,FC Energie Cottbus,FC Augsburg,Daniel Brinkmann,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/18654/transfer_id/716290
+GER2,FCA,FSV Frankfurt,FC Augsburg,Edmond Kapllani,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/18248/transfer_id/714758
+GER2,FCN,FC Ingolstadt 04,1.FC Nuernberg,Christian Eigler,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4089/transfer_id/710487
+GER2,FCN,1.FC Kaiserslautern,1.FC Nuernberg,Albert Bunjaku,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19194/transfer_id/710488
+GER2,FCN,1.FC Koeln,1.FC Nuernberg,Dominic Maroh,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41023/transfer_id/727371
+GER2,HSV,VfL Bochum,Hamburger SV,Soeren Bertram,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/76143/transfer_id/713444
+GER2,S04,1.FC Kaiserslautern,FC Schalke 04,Alexander Baumjohann,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16474/transfer_id/772392
+GER2,S04,FC Erzgebirge Aue,FC Schalke 04,Andreas Wiegel,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45698/transfer_id/760911
+GER2,SCF,VfR Aalen,SC Freiburg,Oliver Barth,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1811/transfer_id/705228
+GER2,SGE,1.FC Koeln,Eintracht Frankfurt,Matthias Lehmann,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1126/transfer_id/732058
+GER2,SGE,FC Ingolstadt 04,Eintracht Frankfurt,Uemit Korkmaz,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37977/transfer_id/706470
+GER2,SGF,SSV Jahn Regensburg,SpVgg Greuther Fuerth,Christian Rahn,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/746/transfer_id/713386
+GER2,SGF,VfR Aalen,SpVgg Greuther Fuerth,Jasmin Fejzic,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19471/transfer_id/716993
+GER2,TSG,1.FC Union Berlin,TSG 1899 Hoffenheim,Daniel Haas,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1464/transfer_id/717274
+GER2,TSG,SC Paderborn 07,TSG 1899 Hoffenheim,Manuel Gulde,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45683/transfer_id/722722
+GER2,WOL,Hertha BSC,VfL Wolfsburg,Peter Pekarik,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51100/transfer_id/778070
+GER2,WOL,FC Ingolstadt 04,VfL Wolfsburg,Caiuby,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54137/transfer_id/732997
+GER2,BMG,SC Paderborn 07,Borussia Moenchengladbach,Elias Kachunga,0,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49501/transfer_id/816620
+GER2,B04,Fortuna Duesseldorf,Bayer 04 Leverkusen,Michael Rensing,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2421/transfer_id/865771
+GER2,BSC,SV Sandhausen,Hertha BSC,Marvin Knoll,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44299/transfer_id/881004
+GER2,BSC,FC Ingolstadt 04,Hertha BSC,Alfredo Morales,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58500/transfer_id/871733
+GER2,EBS,Arminia Bielefeld,Eintracht Braunschweig,Oliver Petersch,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53441/transfer_id/889183
+GER2,FCA,SV Sandhausen,FC Augsburg,Marco Thiede,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/156715/transfer_id/875311
+GER2,FCA,TSV 1860 Muenchen,FC Augsburg,Stephan Hain,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50199/transfer_id/873316
+GER2,FCN,FC Ingolstadt 04,1.FC Nuernberg,Almog Cohen,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/56711/transfer_id/920723
+GER2,FCN,SC Paderborn 07,1.FC Nuernberg,Manuel Zeitz,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85960/transfer_id/880587
+GER2,H96,1.FC Union Berlin,Hannover 96,Mario Eggimann,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1587/transfer_id/872645
+GER2,H96,SpVgg Greuther Fuerth,Hannover 96,Niko Giesselmann,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72792/transfer_id/866747
+GER2,M05,SV Sandhausen,1.FSV Mainz 05,Radoslav Zabavnik,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/24856/transfer_id/869336
+GER2,SCF,FC Energie Cottbus,SC Freiburg,Erik Jendrisek,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41369/transfer_id/887246
+GER2,SGE,1.FC Kaiserslautern,Eintracht Frankfurt,Karim Matmour,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19385/transfer_id/892026
+GER2,SGE,SC Paderborn 07,Eintracht Frankfurt,Martin Amedick,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1323/transfer_id/880967
+GER2,SGE,VfL Bochum,Eintracht Frankfurt,Heiko Butscher,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1496/transfer_id/873954
+GER2,WOL,1.FC Koeln,VfL Wolfsburg,Patrick Helmes,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6322/transfer_id/942364
+GER2,VFB,SpVgg Greuther Fuerth,VfB Stuttgart,Benedikt Roecker,0,1,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/116272/transfer_id/996972
+GER2,WOL,1.FC Kaiserslautern,VfL Wolfsburg,Srdjan Lakic,0,1,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34579/transfer_id/1011502
+GER2,B04,Karlsruher SC,Bayer 04 Leverkusen,Jonas Meffert,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/107574/transfer_id/1058550
+GER2,B04,FC Ingolstadt 04,Bayer 04 Leverkusen,Danny da Costa,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85906/transfer_id/1062340
+GER2,BRE,Fortuna Duesseldorf,SV Werder Bremen,Lukas Schmitz,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49867/transfer_id/1066834
+GER2,FCA,1.FC Union Berlin,FC Augsburg,Bajram Nebihi,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42787/transfer_id/1073247
+GER2,FCA,1.FC Union Berlin,FC Augsburg,Mohamed Amsif,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45674/transfer_id/1065858
+GER2,PAD,1.FC Kaiserslautern,SC Paderborn 07,Fabian Scheffer,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/178454/transfer_id/1088404
+GER2,SCF,VfL Bochum,SC Freiburg,Marco Terrazzino,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67869/transfer_id/1071841
+GER2,SGE,VfL Bochum,Eintracht Frankfurt,Stefano Celozzi,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/33729/transfer_id/1073456
+GER2,WOL,1.FC Nuernberg,VfL Wolfsburg,Jan Polak,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3530/transfer_id/1060143
+GER2,H96,1.FC Nuernberg,Hannover 96,Adrian Nikci,0,1,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63384/transfer_id/1183704
+GER2,SCF,SpVgg Greuther Fuerth,SC Freiburg,Sebastian Freis,0,1,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/25468/transfer_id/1171542
+GER2,BMG,VfL Bochum,Borussia Moenchengladbach,Peniel Mlapa,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/70280/transfer_id/1313100
+GER2,BSC,SC Paderborn 07,Hertha BSC,Marcel Ndjeng,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2334/transfer_id/1264524
+GER2,BVB,SC Paderborn 07,Borussia Dortmund,Oliver Kirch,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2150/transfer_id/1332302
+GER2,D98,1.FC Nuernberg,SV Darmstadt 98,Hanno Behrens,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/57091/transfer_id/1226236
+GER2,FCI,FSV Frankfurt,FC Ingolstadt 04,Andre Weis,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58806/transfer_id/1233457
+GER2,H96,Fortuna Duesseldorf,Hannover 96,Didier Ya Konan,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39198/transfer_id/1254168
+GER2,HSV,FC St. Pauli,Hamburger SV,Lasse Sobiech,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79503/transfer_id/1268865
+GER2,KOE,MSV Duisburg,1.FC Koeln,Thomas Broeker,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/13686/transfer_id/1240047
+GER2,KOE,Eintracht Braunschweig,1.FC Koeln,Adam Matuszczyk,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/52830/transfer_id/1240046
+GER2,M05,SV Sandhausen,1.FSV Mainz 05,Damian Roßbach,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153198/transfer_id/1250634
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Tobias Weis,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20444/transfer_id/1260794
+GER2,VFB,Fortuna Duesseldorf,VfB Stuttgart,Karim Haggui,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17885/transfer_id/1225298
+GER2,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Marlon Frey,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/182752/transfer_id/1523828
+GER2,B04,1.FC Heidenheim 1846,Bayer 04 Leverkusen,Robin Becker,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237444/transfer_id/1540405
+GER2,BRE,Fortuna Duesseldorf,SV Werder Bremen,Oezkan Yildirim,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/83256/transfer_id/1503509
+GER2,BSC,SpVgg Greuther Fürth,Hertha BSC,Sascha Burchert,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36898/transfer_id/1475400
+GER2,BVB,VfL Bochum,Borussia Dortmund,Jannik Bandowski,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189691/transfer_id/1587928
+GER2,D98,Wuerzburger Kickers,SV Darmstadt 98,Junior Diaz,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/35383/transfer_id/1585386
+GER2,D98,1.FC Nuernberg,SV Darmstadt 98,Tobias Kempe,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42072/transfer_id/1507229
+GER2,FCA,1.FC Nuernberg,FC Augsburg,Shawn Parker,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89659/transfer_id/1578273
+GER2,FCA,1.FC Nuernberg,FC Augsburg,Tim Matavz,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50303/transfer_id/1585731
+GER2,HSV,TSV 1860 Muenchen,Hamburger SV,Ivica Olic,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/7427/transfer_id/15512733
+GER2,KOE,1.FC Union Berlin,1.FC Koeln,Daniel Mesenhoeler,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/150080/transfer_id/1484824
+GER2,S04,FC Schalke 04,1.FC Union Berlin,Michael Gspurning,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17029/transfer_id/1519538
+GER2,SCF,1.FC Kaiserslautern,SC Freiburg,Mensur Mujdza,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/27900/transfer_id/1582984
+GER2,SCF,FC St. Pauli,SC Freiburg,Vegar Eggen Hedenstad,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/73333/transfer_id/1463728
+GER2,TSG,VfB Stuttgart,TSG 1899 Hoffenheim,Jens Grahl,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40034/transfer_id/1483054
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Russell Canouse,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/184133/transfer_id/1526497
+GER2,TSG,SG Dynamo Dresden,TSG 1899 Hoffenheim,Marvin Schwaebe,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160929/transfer_id/1509848
+GER2,TSG,SV Sandhausen,TSG 1899 Hoffenheim,Benedikt Gimber,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/1507452
+GER2,BRE,FC St. Pauli,SV Werder Bremen,Lennart Thy,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/23553/transfer_id/1653448
+GER2,FCI,1.FC Heidenheim 1846,FC Ingolstadt 04,Hauke Wahl,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/154147/transfer_id/1659149
+GER2,S04,FC Schalke 04,Karlsruher SC,Fabian Reese,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227102/transfer_id/1689448
+GER2,SGE,FC St. Pauli,Eintracht Frankfurt,Johannes Flum,0,1,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38415/transfer_id/1665301
+GER2,TSG,Karlsruher SC,TSG 1899 Hoffenheim,Benedikt Gimber,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/1689728
+GER2,WOL,Arminia Bielefeld,VfL Wolfsburg,Leandro Putaro,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237732/transfer_id/1560765
+GER2,WOL,VfB Stuttgart,VfL Wolfsburg,Josip Brekalo,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/293169/transfer_id/1691035
+GER2,B04,SSV Jahn Regensburg,Bayer 04 Leverkusen,Patrik Dzalto,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/252088/transfer_id/1806856
+GER2,BRE,Fortuna Duesseldorf,SV Werder Bremen,Raphael Wolf,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39306/transfer_id/1743546
+GER2,BSC,FC St. Pauli,Hertha BSC,Sami Allagui,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37013/transfer_id/1769701
+GER2,H96,SV Darmstadt 98,Hannover 96,Artur Sobiech,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/75640/transfer_id/1764317
+GER2,RBL,Arminia Bielefeld,RasenBallsport Leipzig,Nils Quaschner,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94559/transfer_id/1823021
+GER2,S04,VfL Bochum,FC Schalke 04,Sidney Sam,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39102/transfer_id/1899630
+GER2,S04,FC Ingolstadt 04,FC Schalke 04,Phil Neumann,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/265176/transfer_id/1675994
+GER2,S04,1.FC Union Berlin,FC Schalke 04,Atsuto Uchida,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/27800/transfer_id/1888326
+GER2,SCF,1.FC Union Berlin,SC Freiburg,Marc Torrejon,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38266/transfer_id/1779881
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Danilo Soares,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/154396/transfer_id/1809514
+GER2,VFB,MSV Duisburg,VfB Stuttgart,Boris Tashchy,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/138292/transfer_id/1821480
+GER2,SGE,SV Darmstadt 98,Eintracht Frankfurt,Slobodan Medojevic,0,1,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/48164/transfer_id/2008880
+GER2,B04,SV Sandhausen,Bayer 04 Leverkusen,Niklas Lomb,0,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85543/transfer_id/2119003
+GER2,BVB,Holstein Kiel,Borussia Dortmund,Dominik Reimann,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/238722/transfer_id/2106765
+GER2,FCB,1.FC Heidenheim 1846,FC Bayern Muenchen,Niklas Dorsch,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/251302/transfer_id/2105540
+GER2,H96,VfL Bochum,Hannover 96,Sebastian Maier,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/126285/transfer_id/2119882
+GER2,H96,FC Ingolstadt 04,Hannover 96,Charlison Benschop,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/66783/transfer_id/2104970
+GER2,H96,SC Paderborn 07,Hannover 96,Babacar Gueye,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/342364/transfer_id/2247442
+GER2,S04,FC Erzgebirge Aue,FC Schalke 04,Luke Hemmerich,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/300502/transfer_id/2148208
+GER2,SCF,Holstein Kiel,SC Freiburg,Jonas Meffert,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/107574/transfer_id/2199517
+GER2,SCF,SV Sandhausen,SC Freiburg,Karim Guede,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/10885/transfer_id/2105988
+GER2,VFB,Arminia Bielefeld,VfB Stuttgart,Roberto Massimo,0,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/431561/transfer_id/2107250
+GER2,VFB,Hamburger SV,VfB Stuttgart,Orel Mangala,0,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/289592/transfer_id/2216206
+GER2,B04,FC St. Pauli,Bayer 04 Leverkusen,Jakub Bednarczyk,0,1,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/346328/transfer_id/2377685
+GER2,VFB,Hamburger SV,VfB Stuttgart,Berkay Oezcan,0,1,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/249952/transfer_id/2382607
+GER2,PAD,SV Wehen Wiesbaden,SC Paderborn 07,Tobias Schwede,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153680/transfer_id/2616262
+GER2,SGE,SpVgg Greuther Fuerth,Eintracht Frankfurt,Branimir Hrgota,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/171209/transfer_id/2594961
+GER2,SGE,Hannover 96,Eintracht Frankfurt,Marc Stendera,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160943/transfer_id/2631426
+GER2,WOL,Hannover 96,VfL Wolfsburg,Sebastian Jung,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49730/transfer_id/2475739
+GER2,BSC,SV Wehen Wiesbaden,Hertha BSC,Sidney Eweka,0,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/282658/transfer_id/2740065
+GER2,PAD,Hannover 96,SC Paderborn 07,Michael Ratajczak,0,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1257/transfer_id/2774772
+GER2,PAD,Karlsruher SC,SC Paderborn 07,Babacar Gueye,0,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/342364/transfer_id/2779141
+GER2,TSG,Hannover 96,TSG 1899 Hoffenheim,Philipp Ochs,0,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207592/transfer_id/2780303
+GER2,ARM,FC Erzgebirge Aue,Arminia Bielefeld,Philipp Klewin,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94120/transfer_id/3011114
+GER2,ARM,Fortuna Duesseldorf,Arminia Bielefeld,Florian Hartherz,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93571/transfer_id/3000941
+GER2,ARM,Wuerzburger Kickers,Arminia Bielefeld,Keanu Staude,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/264310/transfer_id/2948012
+GER2,B04,SV Darmstadt 98,Bayer 04 Leverkusen,Adrian Stanilewicz,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/389078/transfer_id/3005155
+GER2,BRE,Holstein Kiel,SV Werder Bremen,Fin Bartels,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36207/transfer_id/3002095
+GER2,FCA,Wuerzburger Kickers,FC Augsburg,Fabian Giefer,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53408/transfer_id/2999159
+GER2,FCB,Hamburger SV,FC Bayern Muenchen,Sven Ulreich,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40680/transfer_id/3086126
+GER2,KOE,Hamburger SV,1.FC Koeln,Simon Terodde,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36284/transfer_id/3022201
+GER2,M05,SV Darmstadt 98,1.FSV Mainz 05,Aaron Seydel,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/187499/transfer_id/3003395
+GER2,M05,VfL Bochum,1.FSV Mainz 05,Gerrit Holtmann,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/190289/transfer_id/3026804
+GER2,S04,FC St Pauli,FC Schalke 04,Guido Burgstaller,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49239/transfer_id/3082126
+GER2,SCF,Hannover 96,SC Freiburg,Mike Frantz,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/30942/transfer_id/2981356
+GER2,SGE,Hannover 96,Eintracht Frankfurt,Simon Falette,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170927/transfer_id/3088519
+GER2,TSG,Hannover 96,TSG 1899 Hoffenheim,Michael Esser,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61989/transfer_id/2962146
+GER2,UNI,VfL Osnabrueck,1.FC Union Berlin,Ken Reichel,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16831/transfer_id/2947759
+GER2,UNI,Wuerzburger Kickers,1.FC Union Berlin,Florian Flecker,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/272159/transfer_id/3005899
+GER2,UNI,Eintracht Braunschweig,1.FC Union Berlin,Felix Kroos,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31910/transfer_id/3045166
+GER2,VFB,Wuerzburger Kickers,VfB Stuttgart,David Kopacz,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/317739/transfer_id/2994265
+GER2,KOE,SC Darmstadt 98,1.FC Koeln,Christian Clemens,0,1,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44713/transfer_id/3206289
+GER2,SGE,SpVgg Greuther Fuerth,Eintracht Frankfurt,Marijan Cavar,0,1,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/419255/transfer_id/3204526
+GER2,BRE,FC Ingolstadt 04,SV Werder Bremen,Marko Futacs,99,1,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/101277/transfer_id/455797
+GER2,FCK,FC Erzgebirge Aue,1.FC Kaiserslautern,Fabian Mueller,99,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31569/transfer_id/422392
+GER2,HSV,Alemannia Aachen,Hamburger SV,Tolgay Arslan,99,1,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53536/transfer_id/440574
+GER2,HSV,FSV Frankfurt,Hamburger SV,Kai Fabian Schulz,99,1,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58438/transfer_id/433511
+GER2,HSV,Fortuna Duesseldorf,Hamburger SV,Maximilian Beister,99,1,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58379/transfer_id/421760
+GER2,KOE,FC Ingolstadt 04,1.FC Koeln,Marvin Matip,99,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17025/transfer_id/474700
+GER2,M05,MSV Duisburg,1.FSV Mainz 05,Filip Trojan,99,1,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1442/transfer_id/466797
+GER2,M05,TSV 1860 Muenchen,1.FSV Mainz 05,Stefan Bell,99,1,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82350/transfer_id/466973
+GER2,M05,SC Paderborn 07,1.FSV Mainz 05,Dragan Gjorgiev,99,1,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/86223/transfer_id/474707
+GER2,TSG,SC Paderborn 07,TSG 1899 Hoffenheim,Jukka Raitala,99,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47785/transfer_id/474514
+GER2,B04,FC Augsburg,Bayer 04 Leverkusen,Hajime Hosogai,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79355/transfer_id/512925
+GER2,B04,SpVgg Greuther Fuerth,Bayer 04 Leverkusen,Burak Kaplan,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61003/transfer_id/532392
+GER2,FCN,Arminia Bielefeld,1.FC Nuernberg,Dario Vidosic,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/43192/transfer_id/512141
+GER2,SCF,MSV Duisburg,SC Freiburg,Ivica Banovic,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/517/transfer_id/516089
+GER2,TSG,TSV 1860 Muenchen,TSG 1899 Hoffenheim,Kevin Volland,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/523611
+GER2,TSG,Karlsruher SC,TSG 1899 Hoffenheim,Marco Terrazzino,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67869/transfer_id/532988
+GER2,WOL,FC Ingolstadt 04,VfL Wolfsburg,Caiuby,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54137/transfer_id/530808
+GER2,B04,MSV Duisburg,Bayer 04 Leverkusen,Zvonko Pamic,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47624/transfer_id/576142
+GER2,B04,VfL Bochum,Bayer 04 Leverkusen,Christoph Kramer,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82097/transfer_id/581078
+GER2,BSC,SG Dynamo Dresden,Hertha BSC,Marvin Knoll,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44299/transfer_id/592259
+GER2,HSV,FSV Frankfurt,Hamburger SV,Macauley Chrisantus,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/62552/transfer_id/583799
+GER2,KOE,FC Energie Cottbus,1.FC Koeln,Christopher Schorch,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36902/transfer_id/722187
+GER2,KOE,Alemannia Aachen,1.FC Koeln,Reinhold Yabo,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/74856/transfer_id/581523
+GER2,SCF,FC Erzgebirge Aue,SC Freiburg,Nicolas Hoefler,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55099/transfer_id/580223
+GER2,TSG,SC Paderborn 07,TSG 1899 Hoffenheim,Jens Grahl,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40034/transfer_id/590394
+GER2,BMG,SC Paderborn 07,Borussia Moenchengladbach,Lukas Rupp,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82863/transfer_id/680008
+GER2,FCK,FSV Frankfurt,1.FC Kaiserslautern,Chadli Amri,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20914/transfer_id/659085
+GER2,FCK,FSV Frankfurt,1.FC Kaiserslautern,Iliyan Mitsanski,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32597/transfer_id/673072
+GER2,FCK,SG Dynamo Dresden,1.FC Kaiserslautern,Clemens Walch,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37831/transfer_id/673870
+GER2,KOE,Fortuna Duesseldorf,1.FC Koeln,Adam Matuszczyk,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/52830/transfer_id/672501
+GER2,B04,FC Ingolstadt 04,Bayer 04 Leverkusen,Danny da Costa,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85906/transfer_id/740866
+GER2,B04,MSV Duisburg,Bayer 04 Leverkusen,Zvonko Pamic,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47624/transfer_id/760688
+GER2,FCN,SSV Jahn Regensburg,1.FC Nuernberg,Julian Wießmeier,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93559/transfer_id/776617
+GER2,FCN,SSV Jahn Regensburg,1.FC Nuernberg,Wilson Kamavuaka,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55512/transfer_id/777370
+GER2,FCN,SC Paderborn 07,1.FC Nuernberg,Manuel Zeitz,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85960/transfer_id/717089
+GER2,B04,SSV Jahn Regensburg,Bayer 04 Leverkusen,Carlinhos,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/226155/transfer_id/823069
+GER2,F95,FC Energie Cottbus,Fortuna Duesseldorf,Andre Fomitschow,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/56510/transfer_id/822453
+GER2,FCB,1.FC Kaiserslautern,FC Bayern Muenchen,Mitchell Weiser,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119211/transfer_id/815915
+GER2,M05,TSV 1860 Muenchen,1.FSV Mainz 05,Malik Fathi,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3817/transfer_id/831728
+GER2,SGE,TSV 1860 Muenchen,Eintracht Frankfurt,Rob Friend,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37176/transfer_id/827154
+GER2,B04,VfR Aalen,Bayer 04 Leverkusen,Joel Pohjanpalo,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/942676
+GER2,BSC,VfL Bochum,Hertha BSC,Felix Bastians,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39083/transfer_id/884100
+GER2,EBS,SV Sandhausen,Eintracht Braunschweig,Bjoern Kluft,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53424/transfer_id/939335
+GER2,M05,FSV Frankfurt,1.FSV Mainz 05,Nikita Rukavytsya,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50135/transfer_id/942694
+GER2,BSC,Arminia Bielefeld,Hertha BSC,Ben Sahar,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40436/transfer_id/1003907
+GER2,FCA,FC Energie Cottbus,FC Augsburg,Mathias Fetsch,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46179/transfer_id/993636
+GER2,FCN,SV Sandhausen,1.FC Nuernberg,Markus Mendler,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120834/transfer_id/1000813
+GER2,M05,1.FC Kaiserslautern,1.FSV Mainz 05,Chinedu Ede,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/26486/transfer_id/995210
+GER2,SGE,SC Paderborn 07,Eintracht Frankfurt,Marvin Bakalorz,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53602/transfer_id/995414
+GER2,TSG,SG Dynamo Dresden,TSG 1899 Hoffenheim,Vincenzo Grifo,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/996061
+GER2,TSG,TSV 1860 Muenchen,TSG 1899 Hoffenheim,Andreas Ludwig,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67850/transfer_id/1009051
+GER2,B04,Fortuna Duesseldorf,Bayer 04 Leverkusen,Joel Pohjanpalo,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/1055200
+GER2,B04,VfL Bochum,Bayer 04 Leverkusen,Malcolm Cacutalua,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123558/transfer_id/1118888
+GER2,B04,SpVgg Greuther Fuerth,Bayer 04 Leverkusen,Malcolm Cacutalua,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123558/transfer_id/1047425
+GER2,B04,Eintracht Braunschweig,Bayer 04 Leverkusen,Seung woo Ryu,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1111898
+GER2,BMG,1.FC Nuernberg,Borussia Moenchengladbach,Peniel Mlapa,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/70280/transfer_id/1092008
+GER2,H96,1.FC Nuernberg,Hannover 96,Samuel Sahin Radlinger,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/77563/transfer_id/1118553
+GER2,HSV,Fortuna Duesseldorf,Hamburger SV,Jonathan Tah,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196357/transfer_id/1122439
+GER2,HSV,1.FC Kaiserslautern,Hamburger SV,Kerem Demirbay,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/1122426
+GER2,HSV,FC St. Pauli,Hamburger SV,Lasse Sobiech,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79503/transfer_id/1071106
+GER2,KOE,SV Darmstadt 98,1.FC Koeln,Maurice Exslager,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/83423/transfer_id/1073242
+GER2,KOE,1.FC Union Berlin,1.FC Koeln,Maximilian Thiel,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120301/transfer_id/1098015
+GER2,M05,1.FC Union Berlin,1.FSV Mainz 05,Sebastian Polter,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/60957/transfer_id/1121504
+GER2,SCF,Eintracht Braunschweig,SC Freiburg,Vegar Eggen Hedenstad,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/73333/transfer_id/1078844
+GER2,SCF,Eintracht Braunschweig,SC Freiburg,Hendrick Zuck,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82018/transfer_id/1063650
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Michael Gregoritsch,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/1064161
+GER2,TSG,FSV Frankfurt,TSG 1899 Hoffenheim,Vincenzo Grifo,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/1088381
+GER2,VFB,SpVgg Greuther Fuerth,VfB Stuttgart,Marco Rojas,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/114940/transfer_id/1115686
+GER2,BVB,TSV 1860 Muenchen,Borussia Dortmund,Jannik Bandowski,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189691/transfer_id/1184436
+GER2,FCA,SpVgg Greuther Fuerth,FC Augsburg,Ronny Philp,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/60026/transfer_id/1170959
+GER2,H96,1.FC Union Berlin,Hannover 96,Valmir Sulejmani,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193050/transfer_id/1183682
+GER2,H96,FC Erzgebirge Aue,Hannover 96,Vladimir Rankovic,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92453/transfer_id/1165040
+GER2,M05,FC St. Pauli,1.FSV Mainz 05,Julian Koch,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53534/transfer_id/1167831
+GER2,SCF,1.FC Nuernberg,SC Freiburg,Sebastian Kerk,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/124517/transfer_id/1169727
+GER2,SGE,SV Darmstadt 98,Eintracht Frankfurt,Jan Rosenthal,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31173/transfer_id/1184663
+GER2,B04,SC Paderborn 07,Bayer 04 Leverkusen,Marc Brasnic,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170514/transfer_id/1265773
+GER2,HSV,Fortuna Duesseldorf,Hamburger SV,Kerem Demirbay,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/1328235
+GER2,HSV,Karlsruher SC,Hamburger SV,Mohamed Gouaida,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/192294/transfer_id/1328650
+GER2,M05,FSV Frankfurt,1.FSV Mainz 05,Besar Halimi,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/152241/transfer_id/1287355
+GER2,M05,FSV Frankfurt,1.FSV Mainz 05,Dani Schahin,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58437/transfer_id/1289014
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Janik Haberer,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/177779/transfer_id/1260788
+GER2,TSG,FSV Frankfurt,TSG 1899 Hoffenheim,Felipe Pires,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/1329654
+GER2,TSG,1.FC Kaiserslautern,TSG 1899 Hoffenheim,Antonio Colak,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160668/transfer_id/1309288
+GER2,TSG,Karlsruher SC,TSG 1899 Hoffenheim,Grischa Proemel,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/234029/transfer_id/1315930
+GER2,TSG,SC Freiburg,TSG 1899 Hoffenheim,Joshua Mees,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196815/transfer_id/1332840
+GER2,TSG,Fortuna Duesseldorf,TSG 1899 Hoffenheim,Kevin Akpoguma,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160241/transfer_id/1238946
+GER2,TSG,FSV Frankfurt,TSG 1899 Hoffenheim,In hyeok Park,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/292269/transfer_id/1269014
+GER2,B04,Arminia Bielefeld,Bayer 04 Leverkusen,Seung woo Ryu,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1424508
+GER2,BRE,TSV 1860 Muenchen,SV Werder Bremen,Levent Aycicek,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/117476/transfer_id/1415448
+GER2,FCA,TSV 1860 Muenchen,FC Augsburg,Sascha Moelders,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17689/transfer_id/1391709
+GER2,FCA,Fortuna Duesseldorf,FC Augsburg,Nikola Djurdjic,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46162/transfer_id/1424947
+GER2,FCI,SV Sandhausen,FC Ingolstadt 04,Thomas Pledl,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/131561/transfer_id/1408832
+GER2,H96,SpVgg Greuther Fuerth,Hannover 96,Maurice Hirsch,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119555/transfer_id/1411952
+GER2,M05,FSV Frankfurt,1.FSV Mainz 05,Niki Zimling,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15045/transfer_id/1425195
+GER2,M05,TSV 1860 Muenchen,1.FSV Mainz 05,Maximilian Beister,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58379/transfer_id/1424504
+GER2,SGE,FSV Frankfurt,Eintracht Frankfurt,Joel Gerezgiher,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196770/transfer_id/1414475
+GER2,SGE,Karlsruher SC,Eintracht Frankfurt,David Kinsombi,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196834/transfer_id/1419950
+GER2,TSG,SpVgg Greuther Fuerth,TSG 1899 Hoffenheim,Nicolai Rapp,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185427/transfer_id/1425298
+GER2,WOL,Arminia Bielefeld,VfL Wolfsburg,Francisco Rodriguez,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227967/transfer_id/1415383
+GER2,B04,Arminia Bielefeld,Bayer 04 Leverkusen,Malcolm Cacutalua,99,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123558/transfer_id/1556293
+GER2,RBL,VfL Bochum,RasenBallsport Leipzig,Nils Quaschner,99,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94559/transfer_id/1526768
+GER2,SCF,1.FC Kaiserslautern,SC Freiburg,Sebastian Kerk,99,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/124517/transfer_id/1587945
+GER2,RBL,VfL Bochum,RasenBallsport Leipzig,Vitaly Janelt,99,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/270171/transfer_id/1668471
+GER2,SCF,Karlsruher SC,SC Freiburg,Jonas Meffert,99,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/107574/transfer_id/1691161
+GER2,SCF,FC St. Pauli,SC Freiburg,Mats Moeller Daehli,99,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/190831/transfer_id/1678677
+GER2,SCF,1.FC Nuernberg,SC Freiburg,Lucas Hufnagel,99,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/168741/transfer_id/1691197
+GER2,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Joel Abu Hanna,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/267330/transfer_id/1898132
+GER2,B04,Eintracht Braunschweig,Bayer 04 Leverkusen,Robin Becker,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237444/transfer_id/1792754
+GER2,BRE,1.FC Kaiserslautern,SV Werder Bremen,Leon Guwara,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/201135/transfer_id/1792041
+GER2,FCA,Fortuna Duesseldorf,FC Augsburg,Takashi Usami,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/111881/transfer_id/1898186
+GER2,M05,Holstein Kiel,1.FSV Mainz 05,Aaron Seydel,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/187499/transfer_id/1892724
+GER2,RBL,1.FC Kaiserslautern,RasenBallsport Leipzig,Marius Mueller,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/118161/transfer_id/1826330
+GER2,S04,SV Sandhausen,FC Schalke 04,Haji Wright,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/315291/transfer_id/1876028
+GER2,S04,VfL Bochum,FC Schalke 04,Luke Hemmerich,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/300502/transfer_id/1895947
+GER2,TSG,SSV Jahn Regensburg,TSG 1899 Hoffenheim,Benedikt Gimber,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/1822822
+GER2,TSG,SSV Jahn Regensburg,TSG 1899 Hoffenheim,Joshua Mees,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196815/transfer_id/1845744
+GER2,WOL,Arminia Bielefeld,VfL Wolfsburg,Leandro Putaro,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237732/transfer_id/1816491
+GER2,WOL,FC Ingolstadt 04,VfL Wolfsburg,Christian Traesch,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38440/transfer_id/1897517
+GER2,WOL,SG Dynamo Dresden,VfL Wolfsburg,Paul Seguin,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183780/transfer_id/1897988
+GER2,WOL,Holstein Kiel,VfL Wolfsburg,Amara Conde,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207580/transfer_id/1800581
+GER2,BRE,1.FC Nuernberg,SV Werder Bremen,Ulisses Garcia,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/192616/transfer_id/1992336
+GER2,BSC,Fortuna Duesseldorf,Hertha BSC,Genki Haraguchi,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79377/transfer_id/2012112
+GER2,FCA,Eintracht Braunschweig,FC Augsburg,Georg Teigl,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/81698/transfer_id/1989886
+GER2,FCA,1.FC Kaiserslautern,FC Augsburg,Jan Ingwer Callsen Bracker,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3851/transfer_id/2003915
+GER2,FCA,SV Darmstadt 98,FC Augsburg,Dong won Ji,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/164265/transfer_id/2014922
+GER2,H96,SpVgg Greuther Fuerth,Hannover 96,Uffe Bech,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94939/transfer_id/2022956
+GER2,RBL,1.FC Nuernberg,RasenBallsport Leipzig,Federico Palacios,99,1,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/146096/transfer_id/1995824
+GER2,SGE,Holstein Kiel,Eintracht Frankfurt,Max Besuschkow,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207578/transfer_id/2021843
+GER2,TSG,SV Darmstadt 98,TSG 1899 Hoffenheim,Baris Atik,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161072/transfer_id/1998623
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Philipp Ochs,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207592/transfer_id/1992191
+GER2,WOL,1.FC Nuernberg,VfL Wolfsburg,Marvin Stefaniak,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196421/transfer_id/2000347
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Kaylen Hinds,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/290788/transfer_id/2022944
+GER2,BSC,FC Erzgebirge Aue,Hertha BSC,Maximilian Pronichev,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/243805/transfer_id/2201329
+GER2,F95,FC Erzgebirge Aue,Fortuna Duesseldorf,Emmanuel Iyoha,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/314245/transfer_id/2179860
+GER2,H96,1.FC Union Berlin,Hannover 96,Manuel Schmiedebach,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41507/transfer_id/2148324
+GER2,RBL,SpVgg Greuther Fuerth,RasenBallsport Leipzig,Elias Abouchabaka,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/335002/transfer_id/2175930
+GER2,SCF,SV Sandhausen,SC Freiburg,Fabian Schleusener,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/229176/transfer_id/2119000
+GER2,SCF,SSV Jahn Regensburg,SC Freiburg,Jonas Foehrenbach,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/192169/transfer_id/2137902
+GER2,SGE,MSV Duisburg,Eintracht Frankfurt,Felix Wiedwald,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44594/transfer_id/2355097
+GER2,BMG,Holstein Kiel,Borussia Moenchengladbach,Laszlo Benes,99,1,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/243188/transfer_id/2385229
+GER2,BRE,FC Erzgebirge Aue,SV Werder Bremen,Ole Kaeuper,99,1,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195676/transfer_id/2358879
+GER2,F95,MSV Duisburg,Fortuna Duesseldorf,Havard Nielsen,99,1,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/136181/transfer_id/2360752
+GER2,SCF,Holstein Kiel,SC Freiburg,Patrick Kammerbauer,99,1,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227087/transfer_id/2385137
+GER2,BRE,Hamburger SV,SV Werder Bremen,Martin Harnik,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31159/transfer_id/2631172
+GER2,BRE,VfL Osnabrueck,SV Werder Bremen,Niklas Schmidt,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/275249/transfer_id/2508096
+GER2,F95,Holstein Kiel,Fortuna Duesseldorf,Emmanuel Iyoha,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/314245/transfer_id/2518704
+GER2,FCB,Hamburger SV,FC Bayern Muenchen,Adrian Fein,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/379979/transfer_id/2512320
+GER2,KOE,1.FC Nuernberg,1.FC Koeln,Johannes Geis,99,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89650/transfer_id/2493536
+GER2,KOE,VfB Stuttgart,1.FC Koeln,Nikolas Nartey,99,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/400546/transfer_id/2626693
+GER2,KOE,Holstein Kiel,1.FC Koeln,Salih Oezcan,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/244940/transfer_id/2619413
+GER2,KOE,SV Wehen Wiesbaden,1.FC Koeln,Jan Christoph Bartels,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/296346/transfer_id/2514250
+GER2,PAD,SV Wehen Wiesbaden,SC Paderborn 07,Phillip Tietz,99,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/288340/transfer_id/2515134
+GER2,SCF,FC Erzgebirge Aue,SC Freiburg,Christoph Daferner,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/324851/transfer_id/2511088
+GER2,SCF,SSV Jahn Regensburg,SC Freiburg,Chima Okoroji,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284035/transfer_id/2506696
+GER2,SCF,VfB Stuttgart,SC Freiburg,Pascal Stenzel,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195246/transfer_id/2498283
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Marvin Stefaniak,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196421/transfer_id/2489942
+GER2,B04,Hamburger SV,Bayer 04 Leverkusen,Joel Pohjanpalo,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/2771169
+GER2,BMG,Hamburger SV,Borussia Moenchengladbach,Jordan Beyer,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/403898/transfer_id/2757904
+GER2,BRE,SpVgg Greuther Fuerth,SV Werder Bremen,Felix Beijmo,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/322293/transfer_id/2781081
+GER2,KOE,Hamburger SV,1.FC Koeln,Louis Schaub,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/147485/transfer_id/2754077
+GER2,KOE,VfB Stuttgart,1.FC Koeln,Darko Churlinov,99,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/386786/transfer_id/2750031
+GER2,M05,SSV Jahn Regensburg,1.FSV Mainz 05,Aaron Seydel,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/187499/transfer_id/2754118
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Robert Zulj,99,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/122676/transfer_id/2759291
+GER2,BMG,VfL Osnabrueck,Borussia Moenchengladbach,Moritz Nicolas,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284270/transfer_id/3015441
+GER2,BRE,SSV Jahn Regensburg,SV Werder Bremen,Jan Niklas Beste,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/342967/transfer_id/2982346
+GER2,BRE,Karlsruher SC,SV Werder Bremen,Benjamin Goller,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/388058/transfer_id/2982807
+GER2,FCB,SV Darmstadt 98,FC Bayern Muenchen,Lars Lukas Mai,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/345780/transfer_id/2980169
+GER2,KOE,Hannover 96,1.FC Koeln,Kingsley Schindler,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153678/transfer_id/3003751
+GER2,KOE,Holstein Kiel,1.FC Koeln,Niklas Hauptmann,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/205544/transfer_id/2951152
+GER2,RBL,1.FC Nuernberg,RasenBallsport Leipzig,Tom Krauß,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/405687/transfer_id/3000943
+GER2,SCF,SC Paderborn 07,SC Freiburg,Chima Okoroji,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284035/transfer_id/2989629
+GER2,SCF,Fortuna Duesseldorf,SC Freiburg,Brandon Borrello,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/293592/transfer_id/3040752
+GER2,SGE,FC St Pauli,Eintracht Frankfurt,Rodrigo Zalazar,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/606752/transfer_id/3004015
+GER2,UNI,Eintracht Braunschweig,1.FC Union Berlin,Suleiman Abdullahi,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/356118/transfer_id/3016414
+GER2,UNI,SV Darmstadt 98,1.FC Union Berlin,Nicolai Rapp,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185427/transfer_id/3012226
+GER2,VFB,SV Sandhausen,VfB Stuttgart,Nikolas Nartey,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/400546/transfer_id/2994562
+GER2,ARM,VfL Osnabrueck,Arminia Bielefeld,Sebastian Mueller,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/392139/transfer_id/3232658
+GER2,BRE,SV Sandhausen,SV Werder Bremen,Stefanos Kapino,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/68410/transfer_id/3214417
+GER2,M05,Eintracht Braunschweig,1.FSV Mainz 05,Dong won Ji,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/164265/transfer_id/3226501
+GER2,RBL,1.FC Nuernberg,RasenBallsport Leipzig,Dennis Borkowski,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/467426/transfer_id/3226288
+GER2,SCF,SpVgg Greuther Fuerth,SC Freiburg,Luca Itter,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/296378/transfer_id/3200299
+GER2,TSG,SSV Jahn Regensburg,TSG 1899 Hoffenheim,David Otto,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/362184/transfer_id/3213486
+GER2,BMG,VfL Osnabrueck,Borussia Moenchengladbach,Elias Kachunga,30000,2,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49501/transfer_id/673146
+GER2,BSC,Karlsruher SC,Hertha BSC,Marius Gersbeck,45000,2,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196382/transfer_id/2517733
+GER2,BVB,MSV Duisburg,Borussia Dortmund,Julian Koch,50.000,2,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53534/transfer_id/419405
+GER2,HSV,FC Augsburg,Hamburger SV,Soeren Bertram,50.000,2,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/76143/transfer_id/462673
+GER2,SGE,VfL Osnabrueck,Eintracht Frankfurt,Alexander Dercho,50.000,2,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/35345/transfer_id/445719
+GER2,BSC,MSV Duisburg,Hertha BSC,Daniel Beichler,50000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45405/transfer_id/580311
+GER2,FCA,FC Hansa Rostock,FC Augsburg,Dominic Peitz,50000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6522/transfer_id/629579
+GER2,KOE,1.FC Union Berlin,1.FC Koeln,Simon Terodde,50000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36284/transfer_id/573215
+GER2,M05,FC St. Pauli,1.FSV Mainz 05,Peter Sliskovic,50000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82367/transfer_id/629559
+GER2,BMG,FSV Frankfurt,Borussia Moenchengladbach,Mathew Leckie,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/126214/transfer_id/732419
+GER2,M05,1.FC Union Berlin,1.FSV Mainz 05,Fabian Schoenheim,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31652/transfer_id/736565
+GER2,M05,SC Paderborn 07,1.FSV Mainz 05,Deniz Yilmaz,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34753/transfer_id/760375
+GER2,M05,SG Dynamo Dresden,1.FSV Mainz 05,Petar Sliskovic,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82367/transfer_id/772419
+GER2,TSG,FC St. Pauli,TSG 1899 Hoffenheim,Joseph Claude Gyau,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160670/transfer_id/790817
+GER2,WOL,FC St. Pauli,VfL Wolfsburg,Akaki Gogia,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92472/transfer_id/746710
+GER2,WOL,SG Dynamo Dresden,VfL Wolfsburg,Bjarne Thoelke,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94210/transfer_id/732113
+GER2,WOL,FC Energie Cottbus,VfL Wolfsburg,Michael Schulze,50000,2,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45758/transfer_id/830284
+GER2,BMG,SV Sandhausen,Borussia Moenchengladbach,Matthias Zimmermann,50.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/86848/transfer_id/895032
+GER2,BRE,SC Paderborn 07,SV Werder Bremen,Johannes Wurtz,50.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93926/transfer_id/942772
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Tobias Weis,50.000,2,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20444/transfer_id/1121792
+GER2,BRE,1.FC Union Berlin,SV Werder Bremen,Felix Kroos,50000,2,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31910/transfer_id/1421064
+GER2,BRE,TSV 1860 Muenchen,SV Werder Bremen,Marnon Busch,50.000,2,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/117478/transfer_id/1508715
+GER2,HSV,Fortuna Duesseldorf,Hamburger SV,Arianit Ferati,50.000,2,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/247380/transfer_id/1520508
+GER2,HSV,FC Erzgebirge Aue,Hamburger SV,Arianit Ferati,50.000,2,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/247380/transfer_id/1787026
+GER2,TSG,FC Erzgebirge Aue,TSG 1899 Hoffenheim,Nicolai Rapp,50.000,2,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185427/transfer_id/1780877
+GER2,TSG,1.FC Kaiserslautern,TSG 1899 Hoffenheim,Baris Atik,50.000,2,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161072/transfer_id/1798872
+GER2,S04,SpVgg Greuther Fuerth,FC Schalke 04,Fabian Reese,50.000,2,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227102/transfer_id/2010171
+GER2,TSG,FC St. Pauli,TSG 1899 Hoffenheim,Justin Hoogma,50000,2,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/411287/transfer_id/2387474
+GER2,VFB,SpVgg Greuther Fuerth,VfB Stuttgart,Nunoo Sarpei,50000,2,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/451340/transfer_id/2380047
+GER2,UNI,Wuerzburger Kickers,1.FC Union Berlin,Lars Dietz,70000,2,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/224513/transfer_id/3088653
+GER2,SCF,SG Dynamo Dresden,SC Freiburg,Marco Terrazzino,75000,2,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67869/transfer_id/2743559
+GER2,SCF,Karlsruher SC,SC Freiburg,Jerome Gondorf,75000,2,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/77108/transfer_id/2759080
+GER2,BMG,Fortuna Duesseldorf,Borussia Moenchengladbach,Florian Neuhaus,80.000,2,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/278332/transfer_id/1816362
+GER2,BVB,FC Ingolstadt 04,Borussia Dortmund,Marc Hornschuh,90000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45685/transfer_id/678696
+GER2,H96,FC Ingolstadt 04,Hannover 96,Philipp Tschauner,90000,2,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/21726/transfer_id/2351019
+GER2,BVB,FC Energie Cottbus,Borussia Dortmund,Uwe Huenemeier,100.000,2,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/10503/transfer_id/422078
+GER2,FCN,FC Augsburg,1.FC Nuernberg,Dominik Reinhardt,100.000,2,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4208/transfer_id/417683
+GER2,SGE,VfL Bochum,Eintracht Frankfurt,Uemit Korkmaz,100.000,2,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37977/transfer_id/532037
+GER2,BMG,Fortuna Duesseldorf,Borussia Moenchengladbach,Tobias Levels,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31216/transfer_id/629208
+GER2,BMG,Eintracht Frankfurt,Borussia Moenchengladbach,Bamba Anderson,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/78553/transfer_id/611901
+GER2,BRE,MSV Duisburg,SV Werder Bremen,Felix Wiedwald,100000,2,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44594/transfer_id/596962
+GER2,BVB,Alemannia Aachen,Borussia Dortmund,Marco Stiepermann,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45760/transfer_id/575062
+GER2,BVB,FC St. Pauli,Borussia Dortmund,Lasse Sobiech,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79503/transfer_id/575703
+GER2,BVB,VfL Bochum,Borussia Dortmund,Daniel Ginczek,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79501/transfer_id/582391
+GER2,M05,Eintracht Frankfurt,1.FSV Mainz 05,Stefan Bell,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82350/transfer_id/585745
+GER2,S04,MSV Duisburg,FC Schalke 04,Vasilios Pliatsikas,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34186/transfer_id/578601
+GER2,VFB,Eintracht Braunschweig,VfB Stuttgart,Ermin Bicakcic,100000,2,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51676/transfer_id/668940
+GER2,BMG,Hertha BSC,Borussia Moenchengladbach,Elias Kachunga,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49501/transfer_id/734589
+GER2,BVB,FC St. Pauli,Borussia Dortmund,Daniel Ginczek,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79501/transfer_id/730115
+GER2,BVB,MSV Duisburg,Borussia Dortmund,Julian Koch,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53534/transfer_id/715636
+GER2,H96,FC St. Pauli,Hannover 96,Christopher Avevor,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94174/transfer_id/788913
+GER2,M05,1.FC Koeln,1.FSV Mainz 05,Anthony Ujah,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/142281/transfer_id/778058
+GER2,S04,SC Paderborn 07,FC Schalke 04,Philipp Hofmann,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119037/transfer_id/760093
+GER2,WOL,VfL Bochum,VfL Wolfsburg,Kevin Scheidhauer,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94205/transfer_id/721119
+GER2,BRE,SpVgg Greuther Fuerth,SV Werder Bremen,Niclas Fuellkrug,100.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/75489/transfer_id/937045
+GER2,FCA,Fortuna Duesseldorf,FC Augsburg,Aristide Bance,100.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15486/transfer_id/943024
+GER2,TSG,FC St. Pauli,TSG 1899 Hoffenheim,Michael Gregoritsch,100.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/880033
+GER2,BRE,FC St. Pauli,SV Werder Bremen,Tom Trybull,100.000,2,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93831/transfer_id/992975
+GER2,BMG,1.FC Kaiserslautern,Borussia Moenchengladbach,Amin Younes,100.000,2,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/96167/transfer_id/1116032
+GER2,KOE,SpVgg Greuther Fuerth,1.FC Koeln,Kacper Przybylko,100.000,2,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/86030/transfer_id/1065031
+GER2,FCA,1.FC Kaiserslautern,FC Augsburg,Erik Thommy,100.000,2,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/156779/transfer_id/1170678
+GER2,H96,FSV Frankfurt,Hannover 96,Florian Ballas,100.000,2,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/110885/transfer_id/1167876
+GER2,VFB,1.FC Nuernberg,VfB Stuttgart,Thorsten Kirschbaum,100000,2,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38346/transfer_id/1273962
+GER2,BVB,SC Freiburg,Borussia Dortmund,Pascal Stenzel,100000,2,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195246/transfer_id/1422291
+GER2,HSV,SpVgg Greuther Fuerth,Hamburger SV,Ronny Marcos,100000,2,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/159037/transfer_id/1401179
+GER2,HSV,1.FC Nuernberg,Hamburger SV,Zoltan Stieber,100000,2,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61591/transfer_id/1410721
+GER2,M05,SC Freiburg,1.FSV Mainz 05,Florian Niederlechner,100000,2,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/152963/transfer_id/1423756
+GER2,BMG,Fortuna Duesseldorf,Borussia Moenchengladbach,Marlon Ritter,100.000,2,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/151636/transfer_id/1503626
+GER2,SCF,1.FC Heidenheim 1846,SC Freiburg,Tim Kleindienst,100000,2,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193033/transfer_id/1511798
+GER2,BRE,1.FC Heidenheim 1846,SV Werder Bremen,Marnon Busch,100.000,2,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/117478/transfer_id/1787833
+GER2,VFB,Fortuna Duesseldorf,VfB Stuttgart,Jean Zimmer,100.000,2,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/118196/transfer_id/1874154
+GER2,VFB,SpVgg Greuther Fuerth,VfB Stuttgart,Julian Green,100.000,2,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161204/transfer_id/1899786
+GER2,VFB,1.FC Nuernberg,VfB Stuttgart,Tobias Werner,100.000,2,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/26878/transfer_id/1896056
+GER2,F95,Arminia Bielefeld,Fortuna Duesseldorf,Anderson Lucoqui,100000,2,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/240274/transfer_id/2246894
+GER2,FCA,SpVgg Greuther Fuerth,FC Augsburg,Shawn Parker,100000,2,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89659/transfer_id/2225889
+GER2,FCA,SV Darmstadt 98,FC Augsburg,Tim Rieder,100000,2,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/111277/transfer_id/2214130
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Paul Seguin,100000,2,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183780/transfer_id/2372608
+GER2,F95,SpVgg Greuther Fuerth,Fortuna Duesseldorf,Havard Nielsen,100000,2,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/136181/transfer_id/2575375
+GER2,KOE,Hannover 96,1.FC Koeln,Jannes Horn,100000,2,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/231586/transfer_id/2607745
+GER2,SGE,SSV Jahn Regensburg,Eintracht Frankfurt,Max Besuschkow,100000,2,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207578/transfer_id/2522372
+GER2,S04,Holstein Kiel,FC Schalke 04,Fabian Reese,100000,2,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227102/transfer_id/2743566
+GER2,ARM,Eintracht Braunschweig,Arminia Bielefeld,Brian Behrendt,100000,2,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85660/transfer_id/3178611
+GER2,WOL,FC St Pauli,VfL Wolfsburg,Omar Marmoush,100000,2,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/445939/transfer_id/3190863
+GER2,SCF,SC Paderborn 07,SC Freiburg,Mohamed Draeger,750000,2,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/192167/transfer_id/2141497
+GER2,H96,1.FC Koeln,Hannover 96,Daniel Royer,120000,3,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/74762/transfer_id/735622
+GER2,WOL,FC Energie Cottbus,VfL Wolfsburg,Daniel Adlung,150.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31469/transfer_id/461202
+GER2,BVB,FC Augsburg,Borussia Dortmund,Moritz Leitner,150.000,3,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82243/transfer_id/513158
+GER2,BRE,1.FC Union Berlin,SV Werder Bremen,John Jairo Mosquera,150000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31108/transfer_id/558310
+GER2,BRE,FC St. Pauli,SV Werder Bremen,Kevin Schindler,150000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/33662/transfer_id/622776
+GER2,KOE,Eintracht Frankfurt,1.FC Koeln,Thomas Kessler,150000,3,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/5072/transfer_id/582646
+GER2,BRE,SC Paderborn 07,SV Werder Bremen,Florian Hartherz,150.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93571/transfer_id/942774
+GER2,WOL,FC Energie Cottbus,VfL Wolfsburg,Michael Schulze,150.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45758/transfer_id/883555
+GER2,TSG,VfR Aalen,TSG 1899 Hoffenheim,Andreas Ludwig,150.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67850/transfer_id/1066482
+GER2,FCA,1.FC Heidenheim 1846,FC Augsburg,Ronny Philp,150000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/60026/transfer_id/1317696
+GER2,FCA,TSV 1860 München,FC Augsburg,Sascha Moelders,150.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17689/transfer_id/1480206
+GER2,TSG,FC Ingolstadt 04,TSG 1899 Hoffenheim,Antonio Colak,150.000,3,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160668/transfer_id/1819509
+GER2,RBL,VfL Bochum,RasenBallsport Leipzig,Vitaly Janelt,150000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/270171/transfer_id/2120232
+GER2,S04,SC Paderborn 07,FC Schalke 04,Bernard Tekpetey,150000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/422380/transfer_id/2194783
+GER2,SCF,1.FC Union Berlin,SC Freiburg,Rafal Gikiewicz,150000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/78339/transfer_id/2106095
+GER2,BSC,FC St Pauli,Hertha BSC,Dennis Smarsch,150000,3,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/342966/transfer_id/2997080
+GER2,BRE,FC Augsburg,SV Werder Bremen,Torsten Oehrl,200.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31451/transfer_id/432442
+GER2,BRE,Hertha BSC,SV Werder Bremen,Peter Niemeyer,200.000,3,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4691/transfer_id/464548
+GER2,TSG,Fortuna Duesseldorf,TSG 1899 Hoffenheim,Wellington,200.000,3,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67207/transfer_id/443786
+GER2,WOL,VfL Bochum,VfL Wolfsburg,Mahir Saglik,200.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2453/transfer_id/460127
+GER2,BVB,FC Energie Cottbus,Borussia Dortmund,Dimitar Rangelov,200000,3,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39912/transfer_id/591624
+GER2,VFB,FC St. Pauli,VfB Stuttgart,Patrick Funk,200000,3,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40670/transfer_id/583177
+GER2,FCA,FC Energie Cottbus,FC Augsburg,Uwe Moehrle,200000,3,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1563/transfer_id/659839
+GER2,BVB,FC Energie Cottbus,Borussia Dortmund,Marco Stiepermann,200000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45760/transfer_id/720606
+GER2,WOL,FSV Frankfurt,VfL Wolfsburg,Rasmus Joensson,200000,3,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72457/transfer_id/830322
+GER2,S04,FC Ingolstadt 04,FC Schalke 04,Philipp Hofmann,200.000,3,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119037/transfer_id/908920
+GER2,VFB,FC Ingolstadt 04,VfB Stuttgart,Andre Weis,200.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58806/transfer_id/886990
+GER2,BRE,1.FC Union Berlin,SV Werder Bremen,Martin Kobylanski,200.000,3,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93853/transfer_id/1119902
+GER2,HSV,SpVgg Greuther Fuerth,Hamburger SV,Zhi Gin Lam,200.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/69396/transfer_id/1067058
+GER2,S04,Fortuna Duesseldorf,FC Schalke 04,Lars Unnerstall,200.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53696/transfer_id/1064560
+GER2,SGE,SpVgg Greuther Fuerth,Eintracht Frankfurt,Stephan Schroeck,200.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/27611/transfer_id/1077844
+GER2,BVB,FC St. Pauli,Borussia Dortmund,Jeremy Dudziak,200000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/147359/transfer_id/1330460
+GER2,BVB,1.FC Kaiserslautern,Borussia Dortmund,Zlatan Alomerovic,200000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47594/transfer_id/1258631
+GER2,S04,Fortuna Duesseldorf,FC Schalke 04,Marcel Sobottka,200000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119044/transfer_id/1289388
+GER2,BRE,Wuerzburger Kickers,SV Werder Bremen,Lukas Froede,200.000,3,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153628/transfer_id/1660441
+GER2,BRE,SpVgg Greuther Fuerth,SV Werder Bremen,Levent Aycicek,200.000,3,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/117476/transfer_id/1899080
+GER2,RBL,1.FC Koeln,RasenBallsport Leipzig,Benno Schmitz,200000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160968/transfer_id/2115303
+GER2,TSG,1.FC Union Berlin,TSG 1899 Hoffenheim,Robert Zulj,200000,3,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/122676/transfer_id/2234386
+GER2,VFB,SpVgg Greuther Fuerth,VfB Stuttgart,Julian Green,200000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161204/transfer_id/2135765
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Paul Jaeckel,200000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284248/transfer_id/2245838
+GER2,TSG,1.FC Heidenheim 1846,TSG 1899 Hoffenheim,David Otto,200000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/362184/transfer_id/2481100
+GER2,BSC,Eintracht Frankfurt,Hertha BSC,Rob Friend,250000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37176/transfer_id/629998
+GER2,BRE,Hertha BSC,SV Werder Bremen,Sandro Wagner,250000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39743/transfer_id/752648
+GER2,H96,TSV 1860 Muenchen,Hannover 96,Moritz Stoppelkamp,250000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32845/transfer_id/731358
+GER2,S04,Hertha BSC,FC Schalke 04,Peer Kluge,250000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1095/transfer_id/736549
+GER2,VFB,FC Ingolstadt 04,VfB Stuttgart,Tamas Hajnal,250.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/264/transfer_id/922022
+GER2,BRE,SpVgg Greuther Fuerth,SV Werder Bremen,Johannes Wurtz,250.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93926/transfer_id/1050403
+GER2,BSC,SV Darmstadt 98,Hertha BSC,Fabian Holland,250.000,3,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54846/transfer_id/1077049
+GER2,WOL,1.FC Kaiserslautern,VfL Wolfsburg,Mateusz Klich,250.000,3,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/92738/transfer_id/1168566
+GER2,KOE,1.FC Union Berlin,1.FC Koeln,Maximilian Thiel,250000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120301/transfer_id/1233280
+GER2,WOL,1.FC Nuernberg,VfL Wolfsburg,Stefan Kutschke,250000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51069/transfer_id/1260099
+GER2,HSV,1.FC Kaiserslautern,Hamburger SV,Zoltan Stieber,250.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61591/transfer_id/1568232
+GER2,M05,1.FC Kaiserslautern,1.FSV Mainz 05,Christoph Moritz,250.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55519/transfer_id/1520256
+GER2,H96,Fortuna Duesseldorf,Hannover 96,Andre Hoffmann,250.000,3,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85164/transfer_id/1771933
+GER2,KOE,1.FC Union Berlin,1.FC Koeln,Marcel Hartel,250.000,3,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189073/transfer_id/1766742
+GER2,SGE,VfL Bochum,Eintracht Frankfurt,Danny Blum,250000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41541/transfer_id/2481783
+GER2,UNI,Arminia Bielefeld,1.FC Union Berlin,Marcel Hartel,250000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189073/transfer_id/2576603
+GER2,SGE,1.FC Kaiserslautern,Eintracht Frankfurt,Benjamin Koehler,300000,3,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/332/transfer_id/824345
+GER2,BMG,FSV Frankfurt,Borussia Moenchengladbach,Mathew Leckie,300.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/126214/transfer_id/878411
+GER2,M05,1.FC Union Berlin,1.FSV Mainz 05,Fabian Schoenheim,300.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31652/transfer_id/865676
+GER2,VFB,1.FC Kaiserslautern,VfB Stuttgart,Kevin Stoeger,300.000,3,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/106872/transfer_id/897189
+GER2,BRE,1.FC Nuernberg,SV Werder Bremen,Niclas Fuellkrug,300.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/75489/transfer_id/1074430
+GER2,H96,Fortuna Duesseldorf,Hannover 96,Christoph Avevor,300.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/94174/transfer_id/1070334
+GER2,M05,Fortuna Duesseldorf,1.FSV Mainz 05,Julian Koch,300000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53534/transfer_id/1254649
+GER2,FCB,VfB Stuttgart,FC Bayern Muenchen,Julian Green,300000,3,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161204/transfer_id/1652206
+GER2,FCA,1.FC Union Berlin,FC Augsburg,Marvin Friedrich,300.000,3,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196231/transfer_id/2016127
+GER2,BVB,SG Dynamo Dresden,Borussia Dortmund,Dzenis Burnic,300000,3,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/251295/transfer_id/2388685
+GER2,KOE,1.FC Nuernberg,1.FC Koeln,Tim Handwerker,300000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284177/transfer_id/2538576
+GER2,WOL,SpVgg Greuther Fuerth,VfL Wolfsburg,Paul Seguin,300000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183780/transfer_id/2468428
+GER2,UNI,Holstein Kiel,1.FC Union Berlin,Joshua Mees,300000,3,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196815/transfer_id/3088372
+GER2,FCK,Eintracht Frankfurt,1.FC Kaiserslautern,Martin Amedick,350000,3,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1323/transfer_id/680654
+GER2,FCA,SV Darmstadt 98,FC Augsburg,Marcel Heller,350000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32207/transfer_id/2197675
+GER2,SCF,1.FC Magdeburg,SC Freiburg,Aleksandar Ignjovski,350000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/74295/transfer_id/2140061
+GER2,FCB,1.FC Nuernberg,FC Bayern Muenchen,Alessandro Schoepf,400.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/118397/transfer_id/1073702
+GER2,SCF,Fortuna Duesseldorf,SC Freiburg,Havard Nielsen,400.000,3,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/136181/transfer_id/1837133
+GER2,BSC,MSV Duisburg,Hertha BSC,Valeri Domovchiyski,450000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/24465/transfer_id/583249
+GER2,SGE,1.FC Kaiserslautern,Eintracht Frankfurt,Mohamadou Idrissou,450000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1574/transfer_id/758037
+GER2,SCF,1.FC Nuernberg,SC Freiburg,Fabian Scheusener,450000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/229176/transfer_id/2548153
+GER2,KOE,SV Darmstadt 98,1.FC Koeln,Matthias Bader,450000,3,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237162/transfer_id/2780118
+GER2,B04,Eintracht Frankfurt,Bayer 04 Leverkusen,Constant Djakpa,500000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41866/transfer_id/585743
+GER2,BMG,Eintracht Frankfurt,Borussia Moenchengladbach,Karim Matmour,500000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19385/transfer_id/593726
+GER2,BVB,1.FC Kaiserslautern,Borussia Dortmund,Chris Loewe,500000,3,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55125/transfer_id/821700
+GER2,SGE,1.FC Kaiserslautern,Eintracht Frankfurt,Olivier Occean,500.000,3,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/24155/transfer_id/896912
+GER2,VFB,RasenBallsport Leipzig,VfB Stuttgart,Rani Khedira,500.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/124410/transfer_id/1069791
+GER2,KOE,1.FC Kaiserslautern,1.FC Koeln,Daniel Halfar,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16565/transfer_id/1263809
+GER2,KOE,1.FC Nuernberg,1.FC Koeln,Miso Brecko,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/15300/transfer_id/1304723
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Michael Gregoritsch,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/1238833
+GER2,VFB,Fortuna Duesseldorf,VfB Stuttgart,Sercan Sararer,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45464/transfer_id/1250372
+GER2,BRE,1.FC Union Berlin,SV Werder Bremen,Felix Kroos,500.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31910/transfer_id/1503924
+GER2,SCF,1.FC Nuernberg,SC Freiburg,Sebastian Kerk,500.000,3,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/124517/transfer_id/1786731
+GER2,F95,SC Paderborn 07,Fortuna Duesseldorf,Marlon Ritter,500000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/151636/transfer_id/2151563
+GER2,H96,1.FC Union Berlin,Hannover 96,Florian Huebner,500000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85822/transfer_id/2134203
+GER2,RBL,FC Ingolstadt 04,RasenBallsport Leipzig,Agyemang Diawusie,500000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/317024/transfer_id/2127117
+GER2,TSG,1.FC Union Berlin,TSG 1899 Hoffenheim,Joshua Mees,500000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196815/transfer_id/2149108
+GER2,S04,1.FC Koeln,FC Schalke 04,Johannes Geis,500000,3,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89650/transfer_id/2367808
+GER2,S04,Hannover 96,FC Schalke 04,Cedric Teuchert,500000,3,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207597/transfer_id/2533733
+GER2,SCF,1.FC Heidenheim 1846,SC Freiburg,Jonas Foehrenbach,500000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/192169/transfer_id/2487744
+GER2,TSG,VfB Stuttgart,TSG 1899 Hoffenheim,Gregor Kobel,500000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/257814/transfer_id/2521077
+GER2,BVB,1.FC Heidenheim 1846,Borussia Dortmund,Dzenis Burnic,500000,3,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/251295/transfer_id/2998405
+GER2,FCA,Fortuna Duesseldorf,FC Augsburg,Kevin Danso,500000,3,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/263236/transfer_id/3018704
+GER2,SCF,Karlsruher SC,SC Freiburg,Jerome Gondorf,500000,3,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/77108/transfer_id/2947598
+GER2,FCB,1.FC Nuernberg,FC Bayern Muenchen,Christian Fruechtl,400000,4,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/336307/transfer_id/3005185
+GER2,KOE,1.FC Heidenheim 1846,1.FC Koeln,Bard Finne,600000,4,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/202925/transfer_id/1408630
+GER2,SCF,FC St. Pauli,SC Freiburg,Mats Moeller Daehli,600000,4,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/190831/transfer_id/2126664
+GER2,TSG,SG Dynamo Dresden,TSG 1899 Hoffenheim,Baris Atik,600000,4,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161072/transfer_id/2157644
+GER2,M05,1.FC Koeln,1.FSV Mainz 05,Marcel Risse,700.000,4,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51176/transfer_id/884592
+GER2,BSC,VfB Stuttgart,Hertha BSC,Hajime Hosogai,700.000,4,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79355/transfer_id/1548896
+GER2,S04,FC St. Pauli,FC Schalke 04,Carlos Zambrano,750000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53533/transfer_id/704547
+GER2,S04,SV Darmstadt 98,FC Schalke 04,Felix Platte,800.000,4,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195782/transfer_id/1894235
+GER2,BSC,1.FC Nuernberg,Hertha BSC,Pascal Koepke,800000,4,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193877/transfer_id/3034935
+GER2,SCF,Eintracht Braunschweig,SC Freiburg,Onur Bulut,900.000,4,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/152733/transfer_id/2013723
+GER2,S04,1.FC Kaiserslautern,FC Schalke 04,Philipp Hofmann,1.000.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119037/transfer_id/1067064
+GER2,TSG,SC Freiburg,TSG 1899 Hoffenheim,Vincenzo Grifo,1000000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/1253354
+GER2,VFB,SC Paderborn 07,VfB Stuttgart,Kevin Stoeger,1000000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/106872/transfer_id/1328109
+GER2,FCA,VfB Stuttgart,FC Augsburg,Tobias Werner,1.000.000,4,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/26878/transfer_id/1558357
+GER2,TSG,FC Ingolstadt 04,TSG 1899 Hoffenheim,Benedikt Gimber,1000000,4,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/2113263
+GER2,F95,Hannover 96,Fortuna Duesseldorf,Marvin Duksch,1500000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/125103/transfer_id/2527974
+GER2,M05,Hertha BSC,1.FSV Mainz 05,Sami Allagui,1600000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37013/transfer_id/752681
+GER2,BMG,Hertha BSC,Borussia Moenchengladbach,Rob Friend,1.800.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37176/transfer_id/439465
+GER2,M05,1.FC Koeln,1.FSV Mainz 05,Anthony Ujah,2.300.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/142281/transfer_id/903717
+GER2,PAD,VfB Stuttgart,SC Paderborn 07,Philipp Klement,2500000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/60394/transfer_id/2489089
+GER2,BRE,SC Freiburg,SV Werder Bremen,Nils Petersen,2800000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42936/transfer_id/1270897
+GER2,SGE,TSV 1860 Muenchen,Eintracht Frankfurt,Stefan Aigner,3000000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/35183/transfer_id/1554267
+GER2,BRE,1.FC Koeln,SV Werder Bremen,Florian Kainz,3000000,5,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/106270/transfer_id/2373975
+GER2,SCF,1.FC Heidenheim 1846,SC Freiburg,Tim Kleindienst,3000000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193033/transfer_id/2631193
+GER2,BRE,RasenBallsport Leipzig,SV Werder Bremen,Davie Selke,8000000,6,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/178459/transfer_id/1222534
+B04,GER2,Bayer 04 Leverkusen,SpVgg Greuther Fuerth,Kevin Kampl,0,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/511270
+B04,GER2,Bayer 04 Leverkusen,Eintracht Braunschweig,Karim Bellarabi,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61087/transfer_id/523313
+B04,GER2,Bayer 04 Leverkusen,1.FC Koeln,Michael Rensing,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2421/transfer_id/776587
+B04,GER2,Bayer 04 Leverkusen,MSV Duisburg,David Yelldell,260000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4746/transfer_id/595787
+B04,GER2,Bayer 04 Leverkusen,Karlsruher SC,Jonas Meffert,600000,4,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/107574/transfer_id/1477047
+B04,GER2,Bayer 04 Leverkusen,Fortuna Duesseldorf,Robbie Kruse,1.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51972/transfer_id/874257
+B04,GER2,Bayer 04 Leverkusen,1.FC Nuernberg,Josip Drmic,6.800.000,6,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/140579/transfer_id/1060961
+B04,GER2,Bayer 04 Leverkusen,SC Freiburg,Admir Mehmedi,8000000,6,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/66058/transfer_id/1258601
+BMG,GER2,Borussia Moenchengladbach,1.FC Kaiserslautern,Tobias Sippel,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31653/transfer_id/1249691
+BMG,GER2,Borussia Moenchengladbach,SV Darmstadt 98,Max Gruen,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32779/transfer_id/2490999
+BMG,GER2,Borussia Moenchengladbach,Karlsruher SC,Lukas Rupp,600000,4,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82863/transfer_id/586508
+BMG,GER2,Borussia Moenchengladbach,Karlsruher SC,Matthias Zimmermann,1000000,4,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/86848/transfer_id/586507
+BRE,GER2,SV Werder Bremen,Hertha BSC,Richard Strebinger,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93768/transfer_id/720147
+BRE,GER2,SV Werder Bremen,FC St. Pauli,Fin Bartels,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36207/transfer_id/1009734
+BRE,GER2,SV Werder Bremen,SG Dynamo Dresden,Jaroslav Drobny,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/12864/transfer_id/1500058
+BRE,GER2,SV Werder Bremen,FC St. Pauli,Lennart Thy,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/23553/transfer_id/1410821
+BRE,GER2,SV Werder Bremen,1.FC Koeln,Claudio Pizarro,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/532/transfer_id/2199584
+BRE,GER2,SV Werder Bremen,1.FC Nuernberg,Patrick Erras,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193859/transfer_id/2968872
+BRE,GER2,SV Werder Bremen,VfL Osnabrueck,Felix Agu,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/393512/transfer_id/2789551
+BRE,GER2,SV Werder Bremen,FC Hansa Rostock,Tom Trybull,200000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93831/transfer_id/580410
+BRE,GER2,SV Werder Bremen,SV Darmstadt 98,Jerome Gondorf,1.200.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/77108/transfer_id/1766737
+BRE,GER2,SV Werder Bremen,1.FC Koeln,Yuya Osako,4500000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/108650/transfer_id/2109093
+BRE,GER2,SV Werder Bremen,Hannover 96,Niclas Fuellkrug,6500000,6,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/75489/transfer_id/2460580
+BSC,GER2,Hertha BSC,Eintracht Frankfurt,Maik Franz,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1381/transfer_id/589337
+BSC,GER2,Hertha BSC,1.FC Kaiserslautern,Alexander Baumjohann,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16474/transfer_id/883847
+BSC,GER2,Hertha BSC,Fortuna Duesseldorf,Johannes van den Bergh,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31218/transfer_id/874155
+BSC,GER2,Hertha BSC,VfB Stuttgart,Vedad Ibisevic,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/21175/transfer_id/1445839
+BSC,GER2,Hertha BSC,1.FC Nuernberg,Marvin Plattenhardt,500.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89592/transfer_id/1064172
+BSC,GER2,Hertha BSC,1.FC Koeln,Lukas Kluenter,2000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/282577/transfer_id/2101352
+BSC,GER2,Hertha BSC,FC Erzgebirge Aue,Pascal Koepke,2000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193877/transfer_id/2130771
+BSC,GER2,Hertha BSC,1.FC Nuernberg,Niklas Stark,3000000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/162434/transfer_id/1326677
+BSC,GER2,Hertha BSC,FC Ingolstadt 04,Mathew Leckie,3.000.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/126214/transfer_id/1771365
+BSC,GER2,Hertha BSC,SC Freiburg,Vladimir Darida,3800000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/179643/transfer_id/1290274
+BSC,GER2,Hertha BSC,1.FC Nuernberg,Eduard Loewen,7000000,6,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/260655/transfer_id/2506965
+BSC,GER2,Hertha BSC,VfB Stuttgart,Santiago Ascacibar,10000000,6,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/423436/transfer_id/2740415
+BVB,GER2,Borussia Dortmund,Karlsruher SC,Antonia da Silva,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1919/transfer_id/441402
+BVB,GER2,Borussia Dortmund,Hertha BSC,Lukasz Pisczek,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/25727/transfer_id/419673
+BVB,GER2,Borussia Dortmund,TSV 1860 Muenchen,Moritz Leitner,0,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82243/transfer_id/497095
+BVB,GER2,Borussia Dortmund,1.FC Kaiserslautern,Oliver Kirch,350000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2150/transfer_id/731997
+BVB,GER2,Borussia Dortmund,TSV 1860 Muenchen,Julian Weigl,900000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196792/transfer_id/1250796
+BVB,GER2,Borussia Dortmund,FC Energie Cottbus,Leonardo Bittencourt,2700000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93844/transfer_id/655853
+BVB,GER2,Borussia Dortmund,SC Freiburg,Roman Buerki,3500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/59027/transfer_id/1260223
+D98,GER2,SV Darmstadt 98,SC Paderborn 07,Mario Vrancic,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39372/transfer_id/1266961
+EBS,GER2,Eintracht Braunschweig,FC Erzgebirge Aue,Jan Hochscheidt,400.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34232/transfer_id/876418
+F95,GER2,Fortuna Duesseldorf,MSV Duisburg,Bruno Soares,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/104545/transfer_id/703018
+F95,GER2,Fortuna Duesseldorf,VfL Bochum,Kevin Stoeger,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/106872/transfer_id/2118414
+F95,GER2,Fortuna Duesseldorf,FC Ingolstadt 04,Alfredo Morales,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58500/transfer_id/2104639
+F95,GER2,Fortuna Duesseldorf,VfB Stuttgart,Erik Thommy,500000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/156779/transfer_id/2548356
+F95,GER2,Fortuna Duesseldorf,FC St. Pauli,Marvin Ducksch,2000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/125103/transfer_id/2148416
+FCA,GER2,FC Augsburg,1.FC Union Berlin,Dominic Peitz,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6522/transfer_id/564117
+FCA,GER2,FC Augsburg,Hertha BSC,Andreas Ottl,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/14856/transfer_id/725892
+FCA,GER2,FC Augsburg,SSV Jahn Regensburg,Ronny Philp,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/60026/transfer_id/720046
+FCA,GER2,FC Augsburg,1.FC Nuernberg,Markus Feulner,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1986/transfer_id/1064718
+FCA,GER2,FC Augsburg,VfL Bochum,Andreas Luthe,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41323/transfer_id/1478975
+FCA,GER2,FC Augsburg,SV Darmstadt 98,Marcel Heller,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32207/transfer_id/1812678
+FCA,GER2,FC Augsburg,Karsruher SC,Sebastian Langkamp,100000,2,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39094/transfer_id/573751
+FCA,GER2,FC Augsburg,FSV Frankfurt,Sascha Moelders,175000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17689/transfer_id/577806
+FCA,GER2,FC Augsburg,VfL Bochum,Matthias Ostrzolek,500000,3,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53669/transfer_id/679581
+FCA,GER2,FC Augsburg,VfL Bochum,Kevin Vogt,600000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/84435/transfer_id/729142
+FCA,GER2,FC Augsburg,FC Ingolstadt 04,Caluby,1.000.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54137/transfer_id/1084185
+FCA,GER2,FC Augsburg,SpVgg Greuther Fuerth,Nikola Djurdjic,1.300.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46162/transfer_id/1078386
+FCA,GER2,FC Augsburg,Hannover 96,Noah Joel Sarenren Bazee,1700000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/283001/transfer_id/2513277
+FCA,GER2,FC Augsburg,SpVgg Greuther Fuerth,Abdul Rahman Baba,2.500.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/224884/transfer_id/1109513
+FCA,GER2,FC Augsburg,Hamburger SV,Andre Hahn,3000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42783/transfer_id/2120015
+FCA,GER2,FC Augsburg,Karlsruher SC,Philipp Max,3800000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/111275/transfer_id/1309200
+FCB,GER2,FC Bayern Muenchen,1.FC Koeln,Mitchell Weiser,800000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119211/transfer_id/746871
+FCB,GER2,FC Bayern Muenchen,FC Energie Cottbus,Nils Petersen,2800000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42936/transfer_id/573316
+FCB,GER2,FC Bayern Muenchen,Hamburger SV,Fiete Arp,3000000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/343337/transfer_id/2397668
+FCB,GER2,FC Bayern Muenchen,VfB Stuttgart,Benjamin Pavard,35000000,7,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/353366/transfer_id/2361742
+FCI,GER2,FC Ingolstadt 04,VfB Stuttgart,Fabijan Buntic,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/248349/transfer_id/1511810
+FCI,GER2,FC Ingolstadt 04,SC Paderborn 07,Elias Kachunga,1500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49501/transfer_id/1269168
+FCK,GER2,1.FC Kaiserslautern,Arminia Bielefeld,Oliver Kirch,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2150/transfer_id/417472
+FCK,GER2,1.FC Kaiserslautern,MSV Duisburg,Christian Tiffert,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/613/transfer_id/410921
+FCK,GER2,1.FC Kaiserslautern,MSV Duisburg,Olcay Sahan,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36200/transfer_id/563795
+FCK,GER2,1.FC Kaiserslautern,Hertha BSC,Rodnei,450.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58453/transfer_id/414622
+FCK,GER2,1.FC Kaiserslautern,VfL Bochum,Ivo Ilicevic,500.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/30308/transfer_id/433828
+FCK,GER2,1.FC Kaiserslautern,FC Energie Cottbus,Stiven Rivic,800.000,4,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20284/transfer_id/440301
+FCN,GER2,1.FC Nuernberg,Hertha BSC,Roussel Ngankam,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85866/transfer_id/720951
+FCN,GER2,1.FC Nuernberg,Hamburger SV,Toerles Knoell,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284737/transfer_id/2047353
+FCN,GER2,1.FC Nuernberg,1.FC Koeln,Kevin Goden,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/348214/transfer_id/2114274
+FCN,GER2,1.FC Nuernberg,Hertha BSC,Felicio Brown Forbes,99,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67064/transfer_id/443496
+FCN,GER2,1.FC Nuernberg,SG Dynamo Dresden,Alexander Esswein,200000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45662/transfer_id/563987
+FCN,GER2,1.FC Nuernberg,Hamburger SV,Christian Mathenia,500000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82361/transfer_id/2116363
+H96,GER2,Hannover 96,Rot Weiss Oberhausen,Moritz Stoppelkamp,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32845/transfer_id/417473
+H96,GER2,Hannover 96,Karlsruher SC,Markus Miller,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2306/transfer_id/416950
+H96,GER2,Hannover 96,Karlsruher SC,Lars Stindl,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/48298/transfer_id/394139
+H96,GER2,Hannover 96,FC St. Pauli,Philipp Tschauner,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/21726/transfer_id/1244867
+H96,GER2,Hannover 96,MSV Duisburg,Andre Hoffmann,800000,4,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85164/transfer_id/816570
+H96,GER2,Hannover 96,Hamburger SV,Bobby Wood,1200000,5,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72519/transfer_id/2167302
+H96,GER2,Hannover 96,Fortuna Duesseldorf,Charlison Benschop,1500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/66783/transfer_id/1254255
+H96,GER2,Hannover 96,TSV 1860 Muenchen,Marius Wolf,1500000,5,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193900/transfer_id/1400287
+H96,GER2,Hannover 96,SV Darmstadt 98,Michael Esser,2.000.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61989/transfer_id/1772162
+H96,GER2,Hannover 96,SpVgg Greuther Fuerth,Edgar Prib,2.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/60028/transfer_id/884084
+H96,GER2,Hannover 96,SC Freiburg,Felix Klaus,3000000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89591/transfer_id/1272185
+H96,GER2,Hannover 96,SC Freiburg,Oliver Sorg,3500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55114/transfer_id/1257782
+H96,GER2,Hannover 96,1.FC Nuernberg,Hiroshi Kiyotake,4.300.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/86175/transfer_id/1094330
+H96,GER2,Hannover 96,Fortuna Duesseldorf,Ihlas Bebou,4.500.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237164/transfer_id/1898766
+H96,GER2,Hannover 96,Hamburger SV,Walace,6000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/323954/transfer_id/2149275
+HSV,GER2,Hamburger SV,Hertha BSC,Jaroslav Drobny,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/12864/transfer_id/418503
+HSV,GER2,Hamburger SV,VfB Stuttgart,Arianit Ferati,850.000,4,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/247380/transfer_id/1520506
+HSV,GER2,Hamburger SV,SpVgg Greuther Fuerth,Zoltan Stieber,1.300.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61591/transfer_id/1064741
+HSV,GER2,Hamburger SV,VfL Bochum,Michael Gregoritsch,3000000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/1297078
+HSV,GER2,Hamburger SV,1.FC Kaiserslautern,Julian Pollersbeck,3.500.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/228975/transfer_id/1807934
+HSV,GER2,Hamburger SV,1.FC Union Berlin,Bobby Wood,4.000.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72519/transfer_id/1483487
+HSV,GER2,Hamburger SV,Hertha BSC,Gojko Kacar,5.500.000,6,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/28683/transfer_id/455744
+HSV,GER2,Hamburger SV,VfB Stuttgart,Filip Kostic,14.000.000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161011/transfer_id/1548804
+KOE,GER2,1.FC Koeln,SpVgg Greuther Fuerth,Mergim Mavraj,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38267/transfer_id/1065092
+KOE,GER2,1.FC Koeln,Holstein Kiel,Kingsley Schindler,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153678/transfer_id/2370603
+KOE,GER2,1.FC Koeln,Hannover 96,Ron Robert Zieler,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/21327/transfer_id/3012849
+KOE,GER2,1.FC Koeln,VfL Bochum,Chong Tese,200000,3,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/68574/transfer_id/691387
+KOE,GER2,1.FC Koeln,1.FC Kaiserslautern,Dominique Heintz,1500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/110036/transfer_id/1258535
+KOE,GER2,1.FC Koeln,TSV 1860 Muenchen,Yuya Osako,1.600.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/108650/transfer_id/1067063
+KOE,GER2,1.FC Koeln,1.FC Kaiserslautern,Simon Zoller,3.500.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79967/transfer_id/1067998
+M05,GER2,1.FSV Mainz 05,SpVgg Greuther Fuerth,Marco Caligiuri,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6287/transfer_id/404310
+M05,GER2,1.FSV Mainz 05,VfL Bochum,Danny Latza,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39025/transfer_id/1241603
+M05,GER2,1.FSV Mainz 05,Karlsruher SC,Marin Sverko,60.000,2,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/282169/transfer_id/1660444
+M05,GER2,1.FSV Mainz 05,VfL Bochum,Christian Fuchs,400.000,3,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6636/transfer_id/452877
+M05,GER2,1.FSV Mainz 05,Alemanni Aachen,Zoltan Stieber,900000,4,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61591/transfer_id/555538
+M05,GER2,1.FSV Mainz 05,Hertha BSC,Nikita Rukavytsya,900000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50135/transfer_id/777991
+M05,GER2,1.FSV Mainz 05,SpVgg Greuther Fuerth,Johannes Geis,900.000,4,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89650/transfer_id/876943
+M05,GER2,1.FSV Mainz 05,SpVgg Greuther Fuerth,Sami Allagui,1.000.000,4,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37013/transfer_id/459879
+M05,GER2,1.FSV Mainz 05,1.FC Union Berlin,Chinedu Edu,1200000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/26486/transfer_id/755365
+M05,GER2,1.FSV Mainz 05,Fortuna Duesseldorf,Dani Schahin,1.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58437/transfer_id/902937
+M05,GER2,1.FSV Mainz 05,SpVgg Greuther Fuerth,Daniel Brosinski,1.500.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/43984/transfer_id/1078150
+M05,GER2,1.FSV Mainz 05,VfL Bochum,Christian Fuchs,1800000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6636/transfer_id/572400
+M05,GER2,1.FSV Mainz 05,SpVgg Greuther Fuerth,Nicolai Mueller,1800000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39426/transfer_id/541229
+M05,GER2,1.FSV Mainz 05,1.FC Heidenheim 1846,Florian Niederlechner,2000000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/152963/transfer_id/1259501
+M05,GER2,1.FSV Mainz 05,SC Paderborn 07,Luca Kilian,2000000,5,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/384553/transfer_id/3009257
+M05,GER2,1.FSV Mainz 05,Eintracht Braunschweig,Emil Berggreen,2500000,5,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/234375/transfer_id/1423755
+M05,GER2,1.FSV Mainz 05,Eintracht Braunschweig,Gerrit Holtmann,3.000.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/190289/transfer_id/1499333
+PAD,GER2,SC Paderborn 07,1.FC Kaiserslautern,Srdjan Lakic,350.000,3,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34579/transfer_id/1183710
+PAD,GER2,SC Paderborn 07,TSV 1860 Muenchen,Moritz Stoppelkamp,700.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32845/transfer_id/1073241
+RBL,GER2,RasenBallsport Leipzig,Hannover 96,Philipp Tschauner,350000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/21726/transfer_id/2581919
+RBL,GER2,RasenBallsport Leipzig,1.FC Kaiserslautern,Marius Mueller,1700000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/118161/transfer_id/1505283
+RBL,GER2,RasenBallsport Leipzig,VfB Stuttgart,Timo Werner,22200000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170527/transfer_id/1505242
+S04,GER2,FC Schalke 04,Eintracht Frankfurt,Ralf Faehrmann,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39015/transfer_id/578648
+S04,GER2,FC Schalke 04,Fortuna Duesseldorf,Fabian Giefer,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53408/transfer_id/1061330
+S04,GER2,FC Schalke 04,SV Darmstadt 98,Christian Wetklo,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1363/transfer_id/1099428
+S04,GER2,FC Schalke 04,SC Freiburg,Sascha Riether,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1662/transfer_id/1296262
+S04,GER2,FC Schalke 04,SG Dynamo Dresden,Markus Schubert,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/296741/transfer_id/2540340
+S04,GER2,FC Schalke 04,1.FC Heidenheim 1846,Robert Leipertz,300.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119120/transfer_id/1494821
+S04,GER2,FC Schalke 04,SC Paderborn 07,Alexander Nuebel,600000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195778/transfer_id/1331360
+S04,GER2,FC Schalke 04,1.FC Nuernberg,Cedric Teuchert,1.000.000,4,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207597/transfer_id/1989807
+S04,GER2,FC Schalke 04,Alemanni Aachen,Marco Hoeger,1500000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/55510/transfer_id/581135
+S04,GER2,FC Schalke 04,1.FC Koeln,Christian Clemens,2.800.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44713/transfer_id/887733
+S04,GER2,FC Schalke 04,1.FC Union Berlin,Steven Skrzybski,3200000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93827/transfer_id/2119350
+S04,GER2,FC Schalke 04,VfL Bochum,Leon Goretzka,3.250.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153084/transfer_id/899104
+S04,GER2,FC Schalke 04,1.FC Nuernberg,Alessandro Schoepf,5000000,5,1,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/118397/transfer_id/1399274
+S04,GER2,FC Schalke 04,VfB Stuttgart,Ozan Kabak,15000000,7,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/361260/transfer_id/2530001
+SCF,GER2,SC Freiburg,Hertha BSC,Maximilian Nicu,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2345/transfer_id/432431
+SCF,GER2,SC Freiburg,VfB Stuttgart,Georg Niedermeier,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31570/transfer_id/1492251
+SCF,GER2,SC Freiburg,Karlsruher SC,Benjamin Uphoff,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120296/transfer_id/2833067
+SCF,GER2,SC Freiburg,1.FC Nuernberg,Patrick Kammerbauer,350.000,3,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227087/transfer_id/2019914
+SCF,GER2,SC Freiburg,FC St. Pauli,Max Kruse,500000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36182/transfer_id/715730
+SCF,GER2,SC Freiburg,1.FC Kaiserslautern,Hendrick Zuck,500000,3,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82018/transfer_id/832026
+SCF,GER2,SC Freiburg,1.FC Nuernberg,Mike Frantz,1.000.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/30942/transfer_id/1069175
+SCF,GER2,SC Freiburg,Eintracht Braunschweig,Rafal Gikiewicz,1000000,4,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/78339/transfer_id/1560832
+SCF,GER2,SC Freiburg,SpVgg Greuther Fuerth,Felix Klaus,1.100.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89591/transfer_id/873061
+SCF,GER2,SC Freiburg,1.FC Kaiserslautern,Marc Torrejon,1.200.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38266/transfer_id/1119333
+SCF,GER2,SC Freiburg,Karlsruher SC,Manuel Gulde,1200000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45683/transfer_id/1482301
+SCF,GER2,SC Freiburg,VfL Bochum,Onur Bulut,1200000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/152733/transfer_id/1485148
+SCF,GER2,SC Freiburg,SV Sandhausen,Lucas Hoeler,2.000.000,5,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/248999/transfer_id/1985441
+SCF,GER2,SC Freiburg,MSV Duisburg,Mark Flekken,2000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/125714/transfer_id/2107663
+SCF,GER2,SC Freiburg,1.FC Koeln,Dominique Heintz,3000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/110036/transfer_id/2114225
+SCF,GER2,SC Freiburg,1.FC Kaiserslautern,Robin Koch,3.500.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/328784/transfer_id/1889418
+SCF,GER2,SC Freiburg,Hamburger SV,Luca Waldschmidt,5000000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196095/transfer_id/2114839
+SGE,GER2,Eintracht Frankfurt,1.FC Koeln,Martin Lanig,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3942/transfer_id/732059
+SGE,GER2,Eintracht Frankfurt,TSV 1860 Muenchen,Stefan Aigner,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/35183/transfer_id/701478
+SGE,GER2,Eintracht Frankfurt,1.FC Nuernberg,Makoto Hasebe,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39259/transfer_id/1066479
+SGE,GER2,Eintracht Frankfurt,1.FC Nuernberg,Danny Blum,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41541/transfer_id/1491721
+SGE,GER2,Eintracht Frankfurt,Hamburger SV,Nicolai Mueller,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39426/transfer_id/2120692
+SGE,GER2,Eintracht Frankfurt,VfB Stuttgart,Max Besuschkow,100000,2,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207578/transfer_id/1661711
+SGE,GER2,Eintracht Frankfurt,Hannover 96,Marius Wolf,500000,3,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193900/transfer_id/1691091
+SGE,GER2,Eintracht Frankfurt,Hamburger SV,Filip Kostic,600000,4,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161011/transfer_id/2232472
+SGE,GER2,Eintracht Frankfurt,1.FC Nuernberg,Timothy Chandler,1.000.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49723/transfer_id/1066650
+SGE,GER2,Eintracht Frankfurt,FC St. Pauli,Carlos Zambrano,1200000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53533/transfer_id/770125
+SGE,GER2,Eintracht Frankfurt,VfL Bochum,Takashi Inui,1450000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/98249/transfer_id/740667
+SGE,GER2,Eintracht Frankfurt,1.FC Kaiserslautern,Kevin Trapp,1500000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45672/transfer_id/715255
+SGE,GER2,Eintracht Frankfurt,Hamburger SV,Filip Kostic,6000000,6,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161011/transfer_id/2478517
+SGF,GER2,SpVgg Greuther Fuerth,TSV 1860 Muenchen,Thomas Piedl,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/131561/transfer_id/705554
+SGF,GER2,SpVgg Greuther Fuerth,SG Dynamo Dresden,Wolfgang Hesl,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16843/transfer_id/713400
+TSG,GER2,TSG 1899 Hoffenheim,MSV Duisburg,Tom Starke,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/80/transfer_id/414621
+TSG,GER2,TSG 1899 Hoffenheim,VfL Bochum,Marco Terrazzino,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67869/transfer_id/1478972
+TSG,GER2,TSG 1899 Hoffenheim,SpVgg Greuther Fuerth,Robert Zulj,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/122676/transfer_id/1807835
+TSG,GER2,TSG 1899 Hoffenheim,SSV Jahn Regensburg,Philipp Pentke,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/8246/transfer_id/2441977
+TSG,GER2,TSG 1899 Hoffenheim,Hannover 96,Mcihael Esser,0,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61989/transfer_id/2757684
+TSG,GER2,TSG 1899 Hoffenheim,Eintracht Braunschweig,Ermin Bicakcic,400.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51676/transfer_id/1064275
+TSG,GER2,TSG 1899 Hoffenheim,1.FC Nuernberg,Antonio Colak,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1331/transfer_id/1234333
+TSG,GER2,TSG 1899 Hoffenheim,TSV 1860 Muenchen,Kevin Volland,1.000.000,4,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/523609
+TSG,GER2,TSG 1899 Hoffenheim,Karlsruher SC,Kevin Akpoguma,1.000.000,4,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160241/transfer_id/870456
+TSG,GER2,TSG 1899 Hoffenheim,TSV 1860 Muenchen,Peniel Mlapa,1.300.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/70280/transfer_id/423140
+TSG,GER2,TSG 1899 Hoffenheim,SSV Jahn Regensburg,Sargis Adamyan,1500000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/125614/transfer_id/2475744
+TSG,GER2,TSG 1899 Hoffenheim,SC Freiburg,Jonathan Schmid,3500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/70285/transfer_id/1253189
+TSG,GER2,TSG 1899 Hoffenheim,VfB Stuttgart,Lukas Rupp,5.000.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82863/transfer_id/1518141
+TSG,GER2,TSG 1899 Hoffenheim,1.FC Koeln,Leonardo Bittencourt,6000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93844/transfer_id/2107619
+TSG,GER2,TSG 1899 Hoffenheim,Hannover 96,Ihlas Bebou,8500000,6,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237164/transfer_id/2477285
+UNI,GER2,1.FC Union Berlin,VfB Stuttgart,Christian Gentner,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19112/transfer_id/2498859
+UNI,GER2,1.FC Union Berlin,Fortuna Duesseldorf,Niko Gießelmann,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72792/transfer_id/2962145
+UNI,GER2,1.FC Union Berlin,1.FC Heidenheim 1846,Sebastian Griesbeck,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/153555/transfer_id/2961311
+UNI,GER2,1.FC Union Berlin,Hannover 96,Manuel Schmiedebach,99,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41507/transfer_id/2489233
+UNI,GER2,1.FC Union Berlin,1.FC Heidenheim 1846,Robert Andrich,3150000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/159088/transfer_id/2511162
+VFB,GER2,VfB Stuttgart,Hertha BSC,Tunay Torun,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39247/transfer_id/725768
+VFB,GER2,VfB Stuttgart,SpVgg Greuther Fuerth,Sercan Sararer,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45464/transfer_id/832976
+VFB,GER2,VfB Stuttgart,FC Energie Cottbus,Thorsten Kirschbaum,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38346/transfer_id/849165
+VFB,GER2,VfB Stuttgart,SC Paderborn 07,Lukas Rupp,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82863/transfer_id/1267023
+VFB,GER2,VfB Stuttgart,1.FC Heidenheim,Philip Heise,750000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/112617/transfer_id/1249078
+VFB,GER2,VfB Stuttgart,1.FC Nuernberg,Adam Hlousek,1.450.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/62800/transfer_id/1066478
+VFB,GER2,VfB Stuttgart,RasenBallsport Leipzig,Joshua Kimmich,1500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161056/transfer_id/1166764
+VFB,GER2,VfB Stuttgart,1.FC Nuernberg,Daniel Ginczek,2.500.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79501/transfer_id/1067241
+VFB,GER2,VfB Stuttgart,Arminia Bielefeld,Roberto Massimo,2500000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/431561/transfer_id/2107251
+VFB,GER2,VfB Stuttgart,Hannover 96,Waldemar Anton,4000000,5,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193004/transfer_id/2990248
+WOL,GER2,VfL Wolfsburg,VfB Stuttgart,Daniel Didavi,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/57995/transfer_id/1464912
+WOL,GER2,VfL Wolfsburg,FC Hansa Rostock,Kevin Pannewitz,300000,3,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/64431/transfer_id/727614
+WOL,GER2,VfL Wolfsburg,SpVgg Greuther Fuerth,Max Gruen,400.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/32779/transfer_id/876994
+WOL,GER2,VfL Wolfsburg,SG Dynamo Dresden,Marvin Stefaniak,2.000.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196421/transfer_id/1599960
+WOL,GER2,VfL Wolfsburg,Hertha BSC,Arne Friedrich,2.500.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/698/transfer_id/714247
+WOL,GER2,VfL Wolfsburg,Eintracht Frankfurt,Patrick Ochs,3000000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2358/transfer_id/569460
+WOL,GER2,VfL Wolfsburg,Eintracht Frankfurt,Marco Russ,3000000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16520/transfer_id/604079
+WOL,GER2,VfL Wolfsburg,FC Ingolstadt 04,Marcel Tisserand,3.000.000,5,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170463/transfer_id/1888868
+WOL,GER2,VfL Wolfsburg,FC Ingolstadt 04,Marcel Tisserand,7000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170463/transfer_id/1961054

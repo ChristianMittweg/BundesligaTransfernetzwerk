@@ -1,0 +1,300 @@
+from,to,from_alt,to_alt,playername,transfersumme,weight,transfertype,season,year,transferfenster,ligaintern,transferid
+TSG,AUT1,TSG 1899 Hoffenheim,SV Groedig,Christoph Martschinko,99,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120191/transfer_id/1265887
+TSG,AUT1,TSG 1899 Hoffenheim,SV Kapfenberg,Michael Gregoritsch,200000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/585709
+TSG,AUT1,TSG 1899 Hoffenheim,SK Rapid Wien,Marko Maric,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183793/transfer_id/1263836
+TSG,AUT1,TSG 1899 Hoffenheim,Red Bull Salzburg,Felipe Pires,1000000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/1328151
+TSG,AUT1,TSG 1899 Hoffenheim,Red Bull Salzburg,Diadie Samassekou,14000000,7,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/315604/transfer_id/2608242
+TSG,B04,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Eren Derdiyok,5500000,6,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/47543/transfer_id/714107
+TSG,BEL1,TSG 1899 Hoffenheim,KRC Genk,Koen Casteels,1200000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/108880/transfer_id/603835
+TSG,BEL1,TSG 1899 Hoffenheim,Standard Luettich,Ishak Belfodil,5500000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/111039/transfer_id/2108242
+TSG,BMG,TSG 1899 Hoffenheim,Borussia Moenchengladbach,Igor de Camargo,600000,4,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/13023/transfer_id/830744
+TSG,BMG,TSG 1899 Hoffenheim,Borussia Moenchengladbach,Igor de Camargo,1.400.000,5,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/13023/transfer_id/875790
+TSG,BMG,TSG 1899 Hoffenheim,Borussia Moenchengladbach,Nico Schulz,3.000.000,5,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85867/transfer_id/1826954
+TSG,BMG,TSG 1899 Hoffenheim,Borussia Moenchengladbach,Vincenzo Grifo,5500000,6,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/2130964
+TSG,BRA1,TSG 1899 Hoffenheim,Gremio Porto Alegre,Guilherme Biteco,1500000,5,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/212902/transfer_id/816150
+TSG,BRA1,TSG 1899 Hoffenheim,Sport Recife,Joelinton,2200000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/333241/transfer_id/1255130
+TSG,BRA1,TSG 1899 Hoffenheim,Tombense Futebol Clube,Roberto Firmino,4.000.000,5,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/131789/transfer_id/509793
+TSG,BRA2,TSG 1899 Hoffenheim,Tombense Futebol Club,Bruno Nazario,1.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/250010/transfer_id/936353
+TSG,BRA2,TSG 1899 Hoffenheim,Esporte Clube Vitoria,Lucas Ribeiro,3000000,5,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/605893/transfer_id/2384821
+TSG,BRE,TSG 1899 Hoffenheim,SV Werder Bremen,Tim Wiese,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1474/transfer_id/706093
+TSG,BRE,TSG 1899 Hoffenheim,SV Werder Bremen,Florian Grillitsch,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/195736/transfer_id/1676266
+TSG,BVB,TSG 1899 Hoffenheim,Borussia Dortmund,Felix Passlack,99,1,2,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/274461/transfer_id/1897589
+TSG,BVB,TSG 1899 Hoffenheim,Borussia Dortmund,Jacob Bruun Larsen,9000000,6,1,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/293281/transfer_id/2781079
+TSG,CZE1,TSG 1899 Hoffenheim,AC Sparta Prag,Pavel Kaderabek,3500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/143798/transfer_id/1262055
+TSG,D98,TSG 1899 Hoffenheim,SV Darmstadt 98,Sandro Wagner,2.800.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39743/transfer_id/1519332
+TSG,DNK1,TSG 1899 Hoffenheim,FC Kopenhagen,Robert Skov,10000000,6,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/270393/transfer_id/2577388
+TSG,ENG1,TSG 1899 Hoffenheim,Leicester City,Andrej Kramaric,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46580/transfer_id/1413178
+TSG,ENG1,TSG 1899 Hoffenheim,Brighton Hove Albion,Juergen Locadia,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/166240/transfer_id/2626532
+TSG,ENG1,TSG 1899 Hoffenheim,Tottenham Hotspur,Ryan Sessegnon,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/392775/transfer_id/3087678
+TSG,ENG1,TSG 1899 Hoffenheim,Tottenham Hotspur,Heurelho Gomes,400000,3,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/19059/transfer_id/832089
+TSG,ENG1,TSG 1899 Hoffenheim,FC Arsenal,Reiss Nelson,500000,3,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/340325/transfer_id/2247185
+TSG,ENG1,TSG 1899 Hoffenheim,FC Liverpool,Ryan Babel,7.000.000,6,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16135/transfer_id/531652
+TSG,ENG1,TSG 1899 Hoffenheim,West Ham United,Harvard Nordtveit,8.000.000,6,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42234/transfer_id/1799843
+TSG,ENG1,TSG 1899 Hoffenheim,Leicester City,Andrej Kramaric,11.000.000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46580/transfer_id/1489759
+TSG,ENG2,TSG 1899 Hoffenheim,FC Reading,Gylfi Sigurdsson,5.200.000,6,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/90466/transfer_id/479741
+TSG,ESP1,TSG 1899 Hoffenheim,FC Getafe,David Abraham,4000000,5,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58178/transfer_id/826296
+TSG,ESP1,TSG 1899 Hoffenheim,Real Madrid,Joselu,6000000,6,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/81999/transfer_id/764957
+TSG,ESP1,TSG 1899 Hoffenheim,FC Sevilla,Munas Dabbur,12000000,7,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/145866/transfer_id/2748379
+TSG,FCA,TSG 1899 Hoffenheim,FC Augsburg,Konstantinos Stafylidis,0,1,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/148967/transfer_id/2476439
+TSG,FCB,TSG 1899 Hoffenheim,FC Bayern Muenchen,Edson Braafheid,0,1,1,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16731/transfer_id/532225
+TSG,FCB,TSG 1899 Hoffenheim,FC Bayern Muenchen,David Alaba,99,1,2,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/59016/transfer_id/516919
+TSG,FCB,TSG 1899 Hoffenheim,FC Bayern Muenchen,Chris Richards,250000,3,2,2021,2021,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/578539/transfer_id/3232013
+TSG,FCB,TSG 1899 Hoffenheim,FC Bayern Muenchen,Serge Gnabry,1.000.000,4,2,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/159471/transfer_id/1835894
+TSG,FCI,TSG 1899 Hoffenheim,FC Ingolstadt 04,Benjamin Huebner,800.000,4,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/52348/transfer_id/1486066
+TSG,FIN1,TSG 1899 Hoffenheim,HJK Helsinki,Jukka Raitala,250.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47785/transfer_id/410021
+TSG,FRA1,TSG 1899 Hoffenheim,FC Stade Rennes,Georginio Rutter,750000,4,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/538977/transfer_id/3233067
+TSG,FRA1,TSG 1899 Hoffenheim,FC Girondins Bordeaux,Anthony Modeste,3.000.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50512/transfer_id/903716
+TSG,GER2,TSG 1899 Hoffenheim,MSV Duisburg,Tom Starke,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/80/transfer_id/414621
+TSG,GER2,TSG 1899 Hoffenheim,VfL Bochum,Marco Terrazzino,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67869/transfer_id/1478972
+TSG,GER2,TSG 1899 Hoffenheim,SpVgg Greuther Fuerth,Robert Zulj,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/122676/transfer_id/1807835
+TSG,GER2,TSG 1899 Hoffenheim,SSV Jahn Regensburg,Philipp Pentke,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/8246/transfer_id/2441977
+TSG,GER2,TSG 1899 Hoffenheim,Hannover 96,Mcihael Esser,0,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61989/transfer_id/2757684
+TSG,GER2,TSG 1899 Hoffenheim,Eintracht Braunschweig,Ermin Bicakcic,400.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51676/transfer_id/1064275
+TSG,GER2,TSG 1899 Hoffenheim,1.FC Nuernberg,Antonio Colak,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1331/transfer_id/1234333
+TSG,GER2,TSG 1899 Hoffenheim,TSV 1860 Muenchen,Kevin Volland,1.000.000,4,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/523609
+TSG,GER2,TSG 1899 Hoffenheim,Karlsruher SC,Kevin Akpoguma,1.000.000,4,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160241/transfer_id/870456
+TSG,GER2,TSG 1899 Hoffenheim,TSV 1860 Muenchen,Peniel Mlapa,1.300.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/70280/transfer_id/423140
+TSG,GER2,TSG 1899 Hoffenheim,SSV Jahn Regensburg,Sargis Adamyan,1500000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/125614/transfer_id/2475744
+TSG,GER2,TSG 1899 Hoffenheim,SC Freiburg,Jonathan Schmid,3500000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/70285/transfer_id/1253189
+TSG,GER2,TSG 1899 Hoffenheim,VfB Stuttgart,Lukas Rupp,5.000.000,5,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82863/transfer_id/1518141
+TSG,GER2,TSG 1899 Hoffenheim,1.FC Koeln,Leonardo Bittencourt,6000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93844/transfer_id/2107619
+TSG,GER2,TSG 1899 Hoffenheim,Hannover 96,Ihlas Bebou,8500000,6,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237164/transfer_id/2477285
+TSG,GER3,TSG 1899 Hoffenheim,SpVgg Unterhachingen,Janik Haberer,500.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/177779/transfer_id/1001140
+TSG,HSV,TSG 1899 Hoffenheim,Hamburger SV,Kerem Demirbay,4.700.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/1534438
+TSG,ITA1,TSG 1899 Hoffenheim,Palermo FC,Afriyie Acquah,2500000,5,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/145581/transfer_id/827489
+TSG,ITA1,TSG 1899 Hoffenheim,SSC Neapel,Eduardo Vargas,6000000,6,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89718/transfer_id/1327145
+TSG,JAP1,TSG 1899 Hoffenheim,Gamba Osaka,Takashi Usami,300000,3,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/111881/transfer_id/720289
+TSG,JAP1,TSG 1899 Hoffenheim,Albirex Niigata,Jin su Kim,1.000.000,4,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/132529/transfer_id/1069045
+TSG,KOE,TSG 1899 Hoffenheim,1.FC Koeln,Kevin Vogt,3.000.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/84435/transfer_id/1492292
+TSG,M05,TSG 1899 Hoffenheim,1.FSV Mainz 05,Eugen Polanski,3000000,5,1,1213,2013,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/19548/transfer_id/827799
+TSG,NED1,TSG 1899 Hoffenheim,FC Twente Enschede,Stefan Thesker,100000,2,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/175709/transfer_id/664816
+TSG,NED1,TSG 1899 Hoffenheim,SC Heerenveen,Mark Uth,2200000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/112935/transfer_id/1275025
+TSG,NED1,TSG 1899 Hoffenheim,Heracles Almelo,Justin Hoogma,2.700.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/411287/transfer_id/1791741
+TSG,NED1,TSG 1899 Hoffenheim,PSV Eindhoven,Joshua Brenet,3500000,5,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207006/transfer_id/2115274
+TSG,NOR1,TSG 1899 Hoffenheim,Rosenborg BK,Tarik Elyounoussi,3.000.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37287/transfer_id/887734
+TSG,PER1,TSG 1899 Hoffenheim,Alianza Lima,Junior Ponce,300000,3,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/214654/transfer_id/816156
+TSG,RUS1,TSG 1899 Hoffenheim,Dinamo Moskau,Kevin Kuranyi,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1331/transfer_id/1234333
+TSG,RUS1,TSG 1899 Hoffenheim,ZSKA Moskau,Steven Zuber,3.900.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/68033/transfer_id/1111060
+TSG,S04,TSG 1899 Hoffenheim,FC Schalke 04,Sebastian Rudy,850000,1,2,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/2583604
+TSG,S04,TSG 1899 Hoffenheim,FC Schalke 04,Sebastian Rudy,99,1,2,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/3088260
+TSG,S04,TSG Hoffenheim,FC Schalke 04,Adam Szalai,6.000.000,6,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39106/transfer_id/1078950
+TSG,SCF,TSG 1899 Hoffenheim,SC Freiburg,Danny Williams,200000,3,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38383/transfer_id/629733
+TSG,SCF,TSG 1899 Hoffenheim,SC Freiburg,Oliver Baumann,5.500.000,6,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/55089/transfer_id/1061811
+TSG,SGE,TSG 1899 Hoffenheim,Eintracht Frankfurt,Pirmin Schwegler,1.900.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/14533/transfer_id/1058597
+TSG,SGE,TSG 1899 Hoffenheim,Eintracht Frankfurt,Mijat Gacinovic,3000000,5,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/215864/transfer_id/3000358
+TSG,SGF,TSG 1899 Hoffenheim,SpVgg Greuther Fuerth,Stephan Schroeck,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/27611/transfer_id/703687
+TSG,SOU1,TSG 1899 Hoffenheim,Kaizer Chiefs,Knowledge Musona,1500000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120785/transfer_id/611721
+TSG,SRB1,TSG 1899 Hoffenheim,FK Rad Belgrad,Filip Malbasic,1200000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/162652/transfer_id/742815
+TSG,SUI1,TSG 1899 Hoffenheim,Grasshopper Club Zuerich,Gregor Kobel,138.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/257814/transfer_id/1492173
+TSG,SUI1,TSG 1899 Hoffenheim,FC Basel 1893,Sandro Wieser,1000000,4,1,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/130227/transfer_id/662542
+TSG,SUI1,TSG 1899 Hoffenheim,FC Basel 1893,Fabian Schaer,4000000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/135343/transfer_id/1254040
+TSG,SUI1,TSG 1899 Hoffenheim,BSC Young Boys,Kasim Adams,8000000,6,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/263801/transfer_id/2194784
+TSG,SWE1,TSG 1899 Hoffenheim,Malmoe FF,Jiloan Hamad,0,1,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63833/transfer_id/969077
+TSG,UKR1,TSG 1899 Hoffenheim,SK Tavriya,Luis Advincula,900000,4,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/103890/transfer_id/817964
+TSG,VFB,TSG 1899 Hoffenheim,VfB Stuttgart,Sven Schipplock,0,1,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/52530/transfer_id/566792
+TSG,VFB,TSG 1899 Hoffenheim,VfB Stuttgart,Matthieu Delpierre,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/5636/transfer_id/710116
+TSG,VFB,TSG 1899 Hoffenheim,VfB Stuttgart,Sebastian Rudy,4.000.000,5,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/471544
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Chris,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/3233/transfer_id/718309
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Patrick Ochs,100000,2,2,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/2358/transfer_id/777959
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Fabian Johnson,700000,4,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/31041/transfer_id/579055
+TSG,WOL,TSG 1899 Hoffenheim,VfL Wolfsburg,Srdjan Lakic,1000000,4,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/34579/transfer_id/680596
+ARG1,TSG,Racing Club,TSG 1899 Hoffenheim,Franco Zuculini,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/73083/transfer_id/539246
+AUT1,TSG,SK Sturm Graz,TSG 1899 Hoffenheim,Baris Atik,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161072/transfer_id/1685920
+AUT1,TSG,SV Kapfenberg,TSG 1899 Hoffenheim,Michael Gregoritsch,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/585676
+AUT1,TSG,SV Ried,TSG 1899 Hoffenheim,Sandro Wiesner,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/130227/transfer_id/890453
+AUT1,TSG,FK Austria Wien,TSG 1899 Hoffenheim,Christoph Martschinko,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120191/transfer_id/1271470
+AUT1,TSG,Universidad San Martin de Porres,TSG 1899 Hoffenheim,Junior Ponce,99,1,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/214654/transfer_id/1666333
+AUT1,TSG,FK Austria Wien,TSG 1899 Hoffenheim,Felipe Pires,150.000,3,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/1513522
+AUT1,TSG,FK Austria Wien,TSG 1899 Hoffenheim,Christoph Martschinko,500.000,3,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120191/transfer_id/1483052
+AUT1,TSG,SK Rapid Wien,TSG 1899 Hoffenheim,Joelinton,600.000,4,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/333241/transfer_id/1511972
+AUT1,TSG,Red Bull Salzburg,TSG 1899 Hoffenheim,Isaac Vorsah,2000000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/52151/transfer_id/777891
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Eren Derdiyok,500.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/47543/transfer_id/940427
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Nadiem Amiri,9000000,6,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/232454/transfer_id/2581905
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Kevin Volland,20000000,7,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/1486198
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Kerem Demirbay,32000000,7,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/2470493
+BEL1,TSG,RSC Anderlecht,TSG 1899 Hoffenheim,Jacob Bruun Larsen,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/293281/transfer_id/3217177
+BEL1,TSG,Standard Luettich,TSG 1899 Hoffenheim,Jiloan Hamad,100.000,2,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63833/transfer_id/1184432
+BEL1,TSG,KV Oostende,TSG 1899 Hoffenheim,Knowledge Musona,500.000,3,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120785/transfer_id/1161723
+BEL1,TSG,Standard Luettich,TSG 1899 Hoffenheim,Joao Klauss,550000,4,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/498862/transfer_id/3203507
+BMG,TSG,Borussia Moenchengladbach,TSG Hoffenheim,Fabian Johnson,0,1,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/31041/transfer_id/1025331
+BMG,TSG,Borussia Moenchengladbach,TSG 1899 Hoffenheim,Fabian Johnson,0,1,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/31041/transfer_id/1025331
+BMG,TSG,Borussia Moenchengladbach,TSG 1899 Hoffenheim,Tobias Strobl,0,1,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57845/transfer_id/1459223
+BMG,TSG,Borussia Moenchengladbach,TSG 1899 Hoffenheim,Peniel Mlapa,2500000,5,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/70280/transfer_id/720228
+BRA1,TSG,Figueirense FC,TSG 1899 Hoffenheim,Wellington,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67207/transfer_id/511271
+BRA1,TSG,CA Linense SP,TSG 1899 Hoffenheim,Wellington,99,1,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67207/transfer_id/682248
+BRA1,TSG,Gremio Porto Alegre,TSG 1899 Hoffenheim,Guilherme Biteco,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/212902/transfer_id/816151
+BRA1,TSG,AA Ponte Preta,TSG 1899 Hoffenheim,Luis Advincula,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/103890/transfer_id/905501
+BRA1,TSG,Vasco da Gama Rio de Janeiro,TSG 1899 Hoffenheim,Guilherme Biteco,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/212902/transfer_id/1071439
+BRA1,TSG,EC Cruzeiro Belo Horizonte,TSG 1899 Hoffenheim,Bruno Nazario,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/250010/transfer_id/1394767
+BRA1,TSG,Fortaleza Esporte Clube,TSG 1899 Hoffenheim,Felipe Pires,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/2572210
+BRA1,TSG,Botafogo Rio de Janeiro,TSG 1899 Hoffenheim,Bruno Nazario,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/250010/transfer_id/2762690
+BRA1,TSG,SC Internacional Porto Alegre,TSG 1899 Hoffenheim,Lucas Ribeiro,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/605893/transfer_id/3009258
+BRA1,TSG,America FC MG,TSG 1899 Hoffenheim,Bruno Nazario,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/250010/transfer_id/3319908
+BRA1,TSG,Club Athletico Paranaense,TSG 1899 Hoffenheim,Bruno Nazario,100000,2,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/250010/transfer_id/2171742
+BRA1,TSG,SE Palmeiras Sao Paulo,TSG 1899 Hoffenheim,Felipe Pires,400000,3,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/2345395
+BRA1,TSG,Botafago Rio de Janeiro,TSG 1899 Hoffenheim,Maicosuel,4.000.000,7,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/54183/transfer_id/454140
+BRA2,TSG,Tombense Futebol Club,TSG 1899 Hoffenheim,Chris,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3233/transfer_id/864137
+BRA2,TSG,Guarani FC,TSG 1899 Hoffenheim,Bruno Nazario,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/250010/transfer_id/1749429
+BRA2,TSG,Goias EC,TSG 1899 Hoffenheim,Wellington,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67207/transfer_id/622812
+BRA2,TSG,Esporte Clube Pelotas,TSG 1899 Hoffenheim,Junior Ponce,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/214654/transfer_id/816157
+BRA2,TSG,Santa Cruz,TSG 1899 Hoffenheim,Guilherme Biteco,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/212902/transfer_id/1184430
+BRA2,TSG,Clube Nautico Capibaribe,TSG 1899 Hoffenheim,Guilherme Biteco,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/212902/transfer_id/1342639
+BRE,TSG,SV Werder Bremen,TSG 1899 Hoffenheim,Leonardo Bittencourt,600000,4,2,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/93844/transfer_id/2631308
+BRE,TSG,SV Werder Bremen,TSG 1899 Hoffenheim,Kevin Vogt,750000,4,2,1920,2020,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/84435/transfer_id/2755107
+BRE,TSG,SV Werder Bremen,TSG 1899 Hoffenheim,Jannik Vestergaard,4.500.000,5,1,1415,2015,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/99331/transfer_id/1181840
+BRE,TSG,SV Werder Bremen,TSG 1899 Hoffenheim,Leonardo Bittencourt,7000000,6,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/93844/transfer_id/2958822
+BVB,TSG,Borussia Dortmund,TSG 1899 Hoffenheim,Joseph Claude Gyau,120.000,3,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/160670/transfer_id/1076467
+BVB,TSG,Borussia Dortmund,TSG 1899 Hoffenheim,Jeremy Toljan,7.000.000,6,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/129674/transfer_id/1897586
+BVB,TSG,Borussia Dortmund,TSG 1899 Hoffenheim,Nico Schulz,25500000,7,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85867/transfer_id/2481578
+CHN1,TSG,Beijing Chengfeng,TSG 1899 Hoffenheim,Sejad Salihovic,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/9354/transfer_id/1255649
+CRO1,TSG,GNK Dinamo Zagreb,TSG 1899 Hoffenheim,Josip Simunic,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/354/transfer_id/629727
+CRO1,TSG,HNK Rijeka,TSG 1899 Hoffenheim,Antonio Colak,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160668/transfer_id/1999539
+CRO1,TSG,HNK Rijeka,TSG 1899 Hoffenheim,Felipe Pires,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/2795895
+CRO1,TSG,HNK Rijeka,TSG 1899 Hoffenheim,Antonio Colak,850000,4,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160668/transfer_id/2518534
+D98,TSG,SV Darmstadt 98,TSG 1899 Hoffenheim,Antonio Colak,150.000,3,2,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/160668/transfer_id/1548454
+DNK1,TSG,Aalborg BK,TSG 1899 Hoffenheim,Philipp Ochs,99,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207592/transfer_id/2217014
+DNK1,TSG,Broendby IF,TSG 1899 Hoffenheim,Marvin Schwaebe,700000,4,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160929/transfer_id/2132103
+EBS,TSG,Eintracht Frankfurt,TSG 1899 Hoffenheim,Tobuas Weis,99,1,2,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/20444/transfer_id/994862
+ENG1,TSG,Swansea City,TSG 1899 Hoffenheim,Gylfi Sigurdsson,500000,3,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/90466/transfer_id/664817
+ENG1,TSG,Norwich City,TSG 1899 Hoffenheim,Lukas Rupp,500000,3,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82863/transfer_id/2756492
+ENG1,TSG,FC Fulham,TSG 1899 Hoffenheim,Havard Nordtveit,1000000,4,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/42234/transfer_id/2390366
+ENG1,TSG,FC Reading,TSG 1899 Hoffenheim,Danny Williams,2.000.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38383/transfer_id/893947
+ENG1,TSG,West Ham United,TSG 1899 Hoffenheim,Demba Ba,3.000.000,5,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40205/transfer_id/147503
+ENG1,TSG,Tottenham Hotspur,TSG 1899 Hoffenheim,Gylfi Sigurdsson,10000000,6,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/90466/transfer_id/741706
+ENG1,TSG,Newcastle United,TSG 1899 Hoffenheim,Joelinton,44000000,7,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/333241/transfer_id/2571479
+ENG1,TSG,FC Liverpool,TSG 1899 Hoffenheim,Roberto Firmino,50000000,7,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/131789/transfer_id/1267014
+ESP1,TSG,Real Saragossa,TSG 1899 Hoffenheim,Franco Zuculini,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/73083/transfer_id/723432
+ESP1,TSG,CA Osasuna,TSG 1899 Hoffenheim,Jukka Raitala,100000,2,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47785/transfer_id/611782
+ESP1,TSG,Real Saragossa,TSG 1899 Hoffenheim,Franco Zuculini,400000,3,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/73083/transfer_id/621014
+ESP1,TSG,Deportivo La Coruna,TSG 1899 Hoffenheim,Fabian Schaer,3.000.000,5,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/135343/transfer_id/1847407
+F95,TSG,Fortuna Duesseldorf,TSG 1899 Hoffenheim,Kasim Adams,99,1,2,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/263801/transfer_id/2596368
+FCA,TSG,FC Augsburg,TSG 1899 Hoffenheim,Knowledge Musona,100000,2,2,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/120785/transfer_id/718380
+FCA,TSG,FC Augsburg,TSG 1899 Hoffenheim,Gregor Kobel,150000,3,2,1819,2019,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/257814/transfer_id/2356242
+FCA,TSG,FC Augsburg,TSG 1899 Hoffenheim,Jonathan Schmid,5.200.000,6,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/70285/transfer_id/1581328
+FCB,TSG,FC Bayern Muenchen,TSG 1899 Hoffenheim,Tom Starke,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/80/transfer_id/717602
+FCB,TSG,FC Bayern Muenchen,TSG 1899 Hoffenheim,Sebastian Rudy,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/1674980
+FCB,TSG,FC Bayern Muenchen,TSG 1899 Hoffenheim,Sandro Wagner,13.000.000,7,1,1718,2018,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39743/transfer_id/1978401
+FCB,TSG,FC Bayern Muenchen,TSG 1899 Hoffenheim,Luiz Gustavo,17.000.000,7,1,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/10471/transfer_id/516770
+FCB,TSG,FC Bayern Muenchen,TSG 1899 Hoffenheim,Niklas Suele,20.000.000,7,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/166601/transfer_id/1674981
+FCN,TSG,1.FC Nuernberg,TSG 1899 Hoffenheim,Wilson Kamavuaka,0,1,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/55512/transfer_id/570895
+FCN,TSG,1.FC Nuernberg,TSG 1899 Hoffenheim,Per Nilsson,400.000,3,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/18100/transfer_id/431563
+GER2,TSG,FC Ingolstadt 04,TSG 1899 Hoffenheim,Ramazan Oezcan,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16498/transfer_id/569327
+GER2,TSG,1.FC Union Berlin,TSG 1899 Hoffenheim,Daniel Haas,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/1464/transfer_id/717274
+GER2,TSG,SC Paderborn 07,TSG 1899 Hoffenheim,Manuel Gulde,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45683/transfer_id/722722
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Tobias Weis,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20444/transfer_id/1260794
+GER2,TSG,VfB Stuttgart,TSG 1899 Hoffenheim,Jens Grahl,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40034/transfer_id/1483054
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Russell Canouse,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/184133/transfer_id/1526497
+GER2,TSG,SG Dynamo Dresden,TSG 1899 Hoffenheim,Marvin Schwaebe,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160929/transfer_id/1509848
+GER2,TSG,SV Sandhausen,TSG 1899 Hoffenheim,Benedikt Gimber,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/1507452
+GER2,TSG,Karlsruher SC,TSG 1899 Hoffenheim,Benedikt Gimber,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/1689728
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Danilo Soares,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/154396/transfer_id/1809514
+GER2,TSG,Hannover 96,TSG 1899 Hoffenheim,Philipp Ochs,0,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207592/transfer_id/2780303
+GER2,TSG,Hannover 96,TSG 1899 Hoffenheim,Michael Esser,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61989/transfer_id/2962146
+GER2,TSG,SC Paderborn 07,TSG 1899 Hoffenheim,Jukka Raitala,99,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47785/transfer_id/474514
+GER2,TSG,TSV 1860 Muenchen,TSG 1899 Hoffenheim,Kevin Volland,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/523611
+GER2,TSG,Karlsruher SC,TSG 1899 Hoffenheim,Marco Terrazzino,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67869/transfer_id/532988
+GER2,TSG,SC Paderborn 07,TSG 1899 Hoffenheim,Jens Grahl,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/40034/transfer_id/590394
+GER2,TSG,SG Dynamo Dresden,TSG 1899 Hoffenheim,Vincenzo Grifo,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/996061
+GER2,TSG,TSV 1860 Muenchen,TSG 1899 Hoffenheim,Andreas Ludwig,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67850/transfer_id/1009051
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Michael Gregoritsch,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/1064161
+GER2,TSG,FSV Frankfurt,TSG 1899 Hoffenheim,Vincenzo Grifo,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/1088381
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Janik Haberer,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/177779/transfer_id/1260788
+GER2,TSG,FSV Frankfurt,TSG 1899 Hoffenheim,Felipe Pires,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/1329654
+GER2,TSG,1.FC Kaiserslautern,TSG 1899 Hoffenheim,Antonio Colak,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160668/transfer_id/1309288
+GER2,TSG,Karlsruher SC,TSG 1899 Hoffenheim,Grischa Proemel,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/234029/transfer_id/1315930
+GER2,TSG,SC Freiburg,TSG 1899 Hoffenheim,Joshua Mees,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196815/transfer_id/1332840
+GER2,TSG,Fortuna Duesseldorf,TSG 1899 Hoffenheim,Kevin Akpoguma,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160241/transfer_id/1238946
+GER2,TSG,FSV Frankfurt,TSG 1899 Hoffenheim,In hyeok Park,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/292269/transfer_id/1269014
+GER2,TSG,SpVgg Greuther Fuerth,TSG 1899 Hoffenheim,Nicolai Rapp,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185427/transfer_id/1425298
+GER2,TSG,SSV Jahn Regensburg,TSG 1899 Hoffenheim,Benedikt Gimber,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/1822822
+GER2,TSG,SSV Jahn Regensburg,TSG 1899 Hoffenheim,Joshua Mees,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196815/transfer_id/1845744
+GER2,TSG,SV Darmstadt 98,TSG 1899 Hoffenheim,Baris Atik,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161072/transfer_id/1998623
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Philipp Ochs,99,1,2,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207592/transfer_id/1992191
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Robert Zulj,99,1,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/122676/transfer_id/2759291
+GER2,TSG,SSV Jahn Regensburg,TSG 1899 Hoffenheim,David Otto,99,1,2,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/362184/transfer_id/3213486
+GER2,TSG,FC St. Pauli,TSG 1899 Hoffenheim,Joseph Claude Gyau,50000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160670/transfer_id/790817
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Tobias Weis,50.000,2,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20444/transfer_id/1121792
+GER2,TSG,FC Erzgebirge Aue,TSG 1899 Hoffenheim,Nicolai Rapp,50.000,2,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185427/transfer_id/1780877
+GER2,TSG,1.FC Kaiserslautern,TSG 1899 Hoffenheim,Baris Atik,50.000,2,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161072/transfer_id/1798872
+GER2,TSG,FC St. Pauli,TSG 1899 Hoffenheim,Justin Hoogma,50000,2,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/411287/transfer_id/2387474
+GER2,TSG,FC St. Pauli,TSG 1899 Hoffenheim,Michael Gregoritsch,100.000,2,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/880033
+GER2,TSG,VfR Aalen,TSG 1899 Hoffenheim,Andreas Ludwig,150.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67850/transfer_id/1066482
+GER2,TSG,FC Ingolstadt 04,TSG 1899 Hoffenheim,Antonio Colak,150.000,3,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160668/transfer_id/1819509
+GER2,TSG,Fortuna Duesseldorf,TSG 1899 Hoffenheim,Wellington,200.000,3,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/67207/transfer_id/443786
+GER2,TSG,1.FC Union Berlin,TSG 1899 Hoffenheim,Robert Zulj,200000,3,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/122676/transfer_id/2234386
+GER2,TSG,1.FC Heidenheim 1846,TSG 1899 Hoffenheim,David Otto,200000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/362184/transfer_id/2481100
+GER2,TSG,VfL Bochum,TSG 1899 Hoffenheim,Michael Gregoritsch,500000,3,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/1238833
+GER2,TSG,1.FC Union Berlin,TSG 1899 Hoffenheim,Joshua Mees,500000,3,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/196815/transfer_id/2149108
+GER2,TSG,VfB Stuttgart,TSG 1899 Hoffenheim,Gregor Kobel,500000,3,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/257814/transfer_id/2521077
+GER2,TSG,SG Dynamo Dresden,TSG 1899 Hoffenheim,Baris Atik,600000,4,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/161072/transfer_id/2157644
+GER2,TSG,SC Freiburg,TSG 1899 Hoffenheim,Vincenzo Grifo,1000000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/1253354
+GER2,TSG,FC Ingolstadt 04,TSG 1899 Hoffenheim,Benedikt Gimber,1000000,4,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227084/transfer_id/2113263
+GER3,TSG,Energie Cottbus,TSG 1899 Hoffenheim,Robin Szarka,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82878/transfer_id/1074797
+GER3,TSG,VfL Osnabrueck,TSG 1899 Hoffenheim,Marvin Schwaebe,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/160929/transfer_id/1278519
+GER4,TSG,VfR Wormatia Worms,TSG 1899 Hoffenheim,Tim Paterok,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/109855/transfer_id/1084838
+GER4,TSG,RasenBallsport Leipzig,TSG 1899 Hoffenheim,Dominik Kaiser,600000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/52200/transfer_id/747721
+GRE1,TSG,Olympiakos Piraeus,TSG 1899 Hoffenheim,Tarik Elyounoussi,1.000.000,4,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37287/transfer_id/1582136
+H96,TSG,Hannover 96,TSG 1899 Hoffenheim,Stefan Thesker,0,1,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/175709/transfer_id/1055753
+H96,TSG,Hannover 96,TSG 1899 Hoffenheim,Kenan Karaman,0,1,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119557/transfer_id/1055730
+H96,TSG,Hannover 96,TSG 1899 Hoffenheim,Pirmin Schwegler,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/14533/transfer_id/1779566
+H96,TSG,Hannover 96,TSG 1899 Hoffenheim,Adam Szalai,600000,2,2,1516,2016,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39106/transfer_id/1396002
+H96,TSG,Hannover 96,TSG 1899 Hoffenheim,Kevin Akpoguma,220000,3,2,1819,2019,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/160241/transfer_id/2350974
+H96,TSG,Hannover 96,TSG 1899 Hoffenheim,Joselu,5.000.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/81999/transfer_id/1068052
+HSV,TSG,Hamburger SV,TSG 1899 Hoffenheim,Sven Schipplock,2500000,5,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/52530/transfer_id/1299467
+ITA1,TSG,Lazio Rom,TSG 1899 Hoffenheim,Edson Braafheid,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16731/transfer_id/1019277
+ITA1,TSG,Parma Calcio 1913,TSG 1899 Hoffenheim,Afriyie Acquah,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/145581/transfer_id/918299
+ITA1,TSG,Sampodoria Genua,TSG 1899 Hoffenheim,Afriyie Acquah,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/145581/transfer_id/1186609
+ITA1,TSG,AC Florenz,TSG 1899 Hoffenheim,Marvin Compper,200000,3,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/9340/transfer_id/827998
+ITA1,TSG,Genua CFC,TSG 1899 Hoffenheim,Franco Zuculini,700.000,4,2,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/73083/transfer_id/454903
+ITA1,TSG,FC Turin,TSG 1899 Hoffenheim,Afriyie Acquah,3100000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/145581/transfer_id/1263533
+JAP1,TSG,Jeonbuk Hyundai Motors,TSG 1899 Hoffenheim,Jin su Kim,1.400.000,5,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/132529/transfer_id/1671434
+KOE,TSG,1.FC Koeln,TSG 1899 Hoffenheim,Christian Eichner,100.000,2,1,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/10893/transfer_id/515621
+KOE,TSG,1.FC Koeln,TSG 1899 Hoffenheim,Anthony Modeste,4500000,5,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/50512/transfer_id/1263883
+KOR2,TSG,Daejeon Hana Citizen,TSG 1899 Hoffenheim,In hyeok Park,99,1,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/292269/transfer_id/2056693
+M05,TSG,1.FSV Mainz 05,TSG 1899 Hoffenheim,Adam Szalai,0,1,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39106/transfer_id/2624065
+MEX1,TSG,Tigres UANL,TSG 1899 Hoffenheim,Eduardo Vargas,6.000.000,6,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89718/transfer_id/1690101
+NED1,TSG,Ajax Amsterdam,TSG 1899 Hoffenheim,Ryan Babel,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16135/transfer_id/777966
+NED1,TSG,FC Urtecht,TSG 1899 Hoffenheim,Matthieu Deplierre,0,1,1,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/5636/transfer_id/1011327
+NED1,TSG,FC Twente Enschede,TSG 1899 Hoffenheim,Edson Braafheid,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/16731/transfer_id/778175
+NED1,TSG,FC Utrecht,TSG 1899 Hoffenheim,Justin Hoogma,99,1,2,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/411287/transfer_id/2582497
+NED1,TSG,Vitesse Arnheim,TSG 1899 Hoffenheim,Joshua Brenet,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/207006/transfer_id/2780866
+NED1,TSG,ADO Den Haag,TSG 1899 Hoffenheim,Ilay Elmkies,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/443752/transfer_id/3066000
+NED1,TSG,SC Heerenveen,TSG 1899 Hoffenheim,Jukka Raitala,800000,4,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47785/transfer_id/725835
+PER1,TSG,Cluc Alianza Lima,TSG 1899 Hoffenheim,Junior Ponce,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/214654/transfer_id/907195
+PER1,TSG,Club Sporting Cristal,TSG 1899 Hoffenheim,Luis Advincula,99,1,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/103890/transfer_id/994244
+PER1,TSG,Universidad San Martin de Porres,TSG 1899 Hoffenheim,Junior Ponce,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/214654/transfer_id/1283163
+POL1,TSG,Lechia Gdansk,TSG 1899 Hoffenheim,Filip Malbasic,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/162652/transfer_id/1111618
+POL1,TSG,Lechia Gdansk,TSG 1899 Hoffenheim,Bruno Nazario,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/250010/transfer_id/1120278
+POL1,TSG,Lechia Gdansk,TSG 1899 Hoffenheim,Marko Maric,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/183793/transfer_id/1263837
+POR1,TSG,Vitoria Setubal FC,TSG 1899 Hoffenheim,Junior Ponce,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/214654/transfer_id/1077549
+POR1,TSG,Moreirense FC,TSG 1899 Hoffenheim,Felipe Pires,99,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/327911/transfer_id/3057856
+RUS1,TSG,Rubin Kazan,TSG 1899 Hoffenheim,Carlos Eduardo,20.000.000,7,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/52406/transfer_id/471856
+S04,TSG,FC Schalke 04,TSG 1899 Hoffenheim,Mark Uth,0,1,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/112935/transfer_id/1996837
+S04,TSG,FC Schalke 04,TSG 1899 Hoffenheim,Chinedu Obasi,500000,3,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/41663/transfer_id/661402
+S04,TSG,FC Schalke 04,TSG 1899 Hoffenheim,Chinedu Obasi,4000000,5,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/41663/transfer_id/703493
+SAF1,TSG,Kaizer Chiefs,TSG 1899 Hoffenheim,Knowledge Musona,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120785/transfer_id/901326
+SCF,TSG,SC Freiburg,TSG 1899 Hoffenheim,Vincenzo Grifo,600000,4,2,1819,2019,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/2358749
+SCF,TSG,SC Freiburg,TSG 1899 Hoffenheim,Janik Haberer,2000000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/177779/transfer_id/1507236
+SCF,TSG,SC Freiburg,TSG 1899 Hoffenheim,Marco Terrazzino,2.500.000,5,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/67869/transfer_id/1876030
+SCF,TSG,SC Freiburg,TSG 1899 Hoffenheim,Vincenzo Grifo,7000000,6,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/185077/transfer_id/2631353
+SGE,TSG,Eintracht Frankfurt,TSG 1899 Hoffenheim,Tobias Weis,99,1,2,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/20444/transfer_id/994862
+SGE,TSG,Eintracht Frankfurt,TSG 1899 Hoffenheim,Stephan Schroeck,500.000,3,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/27611/transfer_id/894743
+SGE,TSG,Eintracht Frankfurt,TSG 1899 Hoffenheim,Joselu,800.000,4,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/81999/transfer_id/897947
+SGE,TSG,Eintracht Frankfurt,TSG 1899 Hoffenheim,David Abraham,1500000,5,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58178/transfer_id/1275369
+SGE,TSG,Eintracht Frankfurt,TSG 1899 Hoffenheim,Steven Zuber,3000000,5,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/68033/transfer_id/3000359
+SRB1,TSG,FK Partizan Belgrad,TSG 1899 Hoffenheim,Prince Tagoe,99,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37649/transfer_id/534273
+SRB1,TSG,FK Partizan Belgrad,TSG 1899 Hoffenheim,Filip Malbasic,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/162652/transfer_id/896714
+SRB1,TSG,FK Vojvodina Novi Sad,TSG 1899 Hoffenheim,Filip Malbasic,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/162652/transfer_id/1414359
+SRB1,TSG,FK Vojvodina Novi Sad,TSG 1899 Hoffenheim,In hyeok Park,99,1,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/292269/transfer_id/1902306
+SUI1,TSG,FC Aarau,TSG 1899 Hoffenheim,Sandro Wieser,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/130227/transfer_id/1065856
+SUI1,TSG,FC Thun,TSG 1899 Hoffenheim,Sandro Wieser,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/130227/transfer_id/1299470
+SVK1,TSG,FC Koper,TSG 1899 Hoffenheim,In hyeok Park,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/292269/transfer_id/1589283
+TUR1,TSG,Bursaspor,TSG 1899 Hoffenheim,Luis Advincula,700000,4,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/103890/transfer_id/1306837
+TUR1,TSG,Buraspor,TSG 1899 Hoffenheim,Prince Tagoe,1500000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37649/transfer_id/630614
+TUR1,TSG,Besiktas Istanbul,TSG 1899 Hoffenheim,Andreas Beck,1750000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/31182/transfer_id/1277172
+TUR1,TSG,Kasimpasa,TSG 1899 Hoffenheim,Eren Derdiyok,2.500.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47543/transfer_id/1064074
+USA1,TSG,D.C. United,TSG 1899 Hoffenheim,Russel Canouse,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/184133/transfer_id/1874170
+VFB,TSG,VfB Stuttgart,TSG 1899 Hoffenheim,Steven Zuber,600000,4,2,1819,2019,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/68033/transfer_id/2361882
+VFB,TSG,VfB Stuttgart,TSG 1899 Hoffenheim,Vedad Ibisevic,4500000,5,1,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/21175/transfer_id/677037
+VFB,TSG,VfB Stuttgart,TSG 1899 Hoffenheim,Gregor Kobel,7200000,6,1,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/257814/transfer_id/2990292
+WOL,TSG,VfL Wolfsburg,TSG Hoffenheim,Koen Casteels,1.500.000,5,1,1415,2015,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/108880/transfer_id/1178331

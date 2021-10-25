@@ -1,0 +1,222 @@
+from,to,from_alt,to_alt,playername,transfersumme,weight,transfertype,season,year,transferfenster,ligaintern,transferid
+B04,ARG1,Bayer 04 Leverkusen,CA River Plate,Exequiel Palacios,17000000,7,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/401578/transfer_id/2726673
+B04,ARG1,Bayer 04 Leverkusen,CA River Plate,Lucas Alario,24.000.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/193782/transfer_id/1903497
+B04,AUT1,Bayer 04 Leverkusen,Red Bull Salzburg,Andre Ramalho,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/175792/transfer_id/1148046
+B04,BEL1,Bayer 04 Leverkusen,RSC Anderlecht,Isaac Kiese Thelin,1000000,4,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/201311/transfer_id/2214255
+B04,BEL1,Bayer 04 Leverkusen,KRC Genk,Leon Bailey,13500000,7,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/387626/transfer_id/1690465
+B04,BRA1,Bayer 04 Leverkusen,Gremio Porto Alegre,Wendell,6.500.000,6,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/228433/transfer_id/1027448
+B04,BRA1,Bayer 04 Leverkusen,SC Internacional Porto Alegre,Charles Aranguiz,13000000,7,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89701/transfer_id/1317673
+B04,BRA1,Bayer 04 Leverkusen,Vasca da Game Rio de Janeiro,Paulinho,18500000,7,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/428791/transfer_id/2096140
+B04,BRA2,Bayer 04 Leverkusen,Desportivo Brasil Ltda,Carlinhos,100000,2,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/226155/transfer_id/736216
+B04,BSC,Bayer 04 Leverkusen,Hertha BSC,Mitchell Weiser,12000000,7,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119211/transfer_id/2101608
+B04,BVB,Bayer 04 Leverkusen,Borussia Dortmund,Kevin Kampl,11000000,7,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/1330449
+B04,BVB,Bayer 04 Leverkusen,Borussia Dortmund,Sven Bender,12.500.000,7,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/29993/transfer_id/1834176
+B04,CHL1,Bayer 04 Leverkusen,Club Universidad de Chile,Junior Fernandes,4700000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89708/transfer_id/743527
+B04,CRO1,Bayer 04 Leverkusen,HNK Rijeka,Zvonko Pamic,500.000,3,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47624/transfer_id/412514
+B04,CRO1,Bayer 04 Leverkusen,NK Osijek,Domagoj Vida,2.400.000,5,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46083/transfer_id/414391
+B04,DNK2,Bayer 04 Leverkusen,Akademisk Boldklub,Nicolai Joergensen,800.000,4,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/100399/transfer_id/444342
+B04,ENG1,Bayer 04 Leverkusen,FC Chelsea,Michael Ballack,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/63/transfer_id/430268
+B04,ENG1,Bayer 04 Leverkusen,Tottenham Hotspur,Vedran Corluka,550000,4,2,1112,2012,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34393/transfer_id/680740
+B04,ENG1,Bayer 04 Leverkusen,Manchester United,Timothy Fosu Mensah,1700000,5,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/315131/transfer_id/3203510
+B04,ENG1,Bayer 04 Leverkusen,Leicester City,Demarai Gray,2000000,5,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/292417/transfer_id/3229579
+B04,ENG1,Bayer 04 Leverkusen,Manchester United,Chicharito,12000000,7,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50935/transfer_id/1333170
+B04,ESP1,Bayer 04 Leverkusen,FC Sevilla,Andres Palop,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/7563/transfer_id/878648
+B04,ESP1,Bayer 04 Leverkusen,FC Sevilla,Emir Spahic,400.000,3,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/25812/transfer_id/895719
+B04,ESP1,Bayer 04 Leverkusen,FC Valencia,Andres Guardado,1.000.000,4,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20506/transfer_id/1010076
+B04,ESP1,Bayer 04 Leverkusen,Atletico Madrid,Santiago Arias,3000000,5,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/120443/transfer_id/3075174
+B04,ESP1,Bayer 04 Leverkusen,Real Madrid,Daniel Carvajal,5000000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/138927/transfer_id/746665
+B04,FCA,Bayer 04 Leverkusen,FC Augsburg,Dominik Kohr,2.000.000,5,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118847/transfer_id/1745847
+B04,FCB,Bayer 04 Leverkusen,FC Bayern Muenchen,Emre Can,5.000.000,5,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119296/transfer_id/922655
+B04,FCI,Bayer 04 Leverkusen,FC Ingolstadt 04,Danny da Costa,500000,3,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85906/transfer_id/1477040
+B04,FCI,Bayer 04 Leverkusen,FC Ingolstadt 04,Ramazan Oezcan,500000,3,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16498/transfer_id/1509546
+B04,FCN,Bayer 04 Leverkusen,1.FC Nuernberg,Thorsten Kirschbaum,0,1,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38346/transfer_id/2149082
+B04,FCN,Bayer 04 Leverkusen,1.FC Nuernberg,Philipp Wollscheid,7000000,6,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53173/transfer_id/654054
+B04,FRA1,Bayer 04 Leverkusen,FC Paris SaintGermain,Moussa Diaby,15000000,7,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/395516/transfer_id/2508019
+B04,GER2,Bayer 04 Leverkusen,SpVgg Greuther Fuerth,Kevin Kampl,0,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/511270
+B04,GER2,Bayer 04 Leverkusen,Eintracht Braunschweig,Karim Bellarabi,0,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61087/transfer_id/523313
+B04,GER2,Bayer 04 Leverkusen,1.FC Koeln,Michael Rensing,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2421/transfer_id/776587
+B04,GER2,Bayer 04 Leverkusen,MSV Duisburg,David Yelldell,260000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4746/transfer_id/595787
+B04,GER2,Bayer 04 Leverkusen,Karlsruher SC,Jonas Meffert,600000,4,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/107574/transfer_id/1477047
+B04,GER2,Bayer 04 Leverkusen,Fortuna Duesseldorf,Robbie Kruse,1.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51972/transfer_id/874257
+B04,GER2,Bayer 04 Leverkusen,1.FC Nuernberg,Josip Drmic,6.800.000,6,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/140579/transfer_id/1060961
+B04,GER2,Bayer 04 Leverkusen,SC Freiburg,Admir Mehmedi,8000000,6,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/66058/transfer_id/1258601
+B04,GER3,Bayer 04 Leverkusen,1.FC Kaiserslautern,Lennart Grill,2000000,5,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/309397/transfer_id/2860060
+B04,GRE1,Bayer 04 Leverkusen,PAOK Thessaloniki,Konstantinos Stafylidis,1500000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148967/transfer_id/756509
+B04,GRE1,Bayer 04 Leverkusen,Olympiakos Piraeus,Panagiotis Retsos,17.500.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/324351/transfer_id/1899264
+B04,H96,Bayer 04 Leverkusen,Hannover 96,Hanno Balitsch,0,1,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/823/transfer_id/421776
+B04,HSV,Bayer 04 Leverkusen,Hamburger SV,Levin Oeztunali,0,1,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/168543/transfer_id/833348
+B04,HSV,Bayer 04 Leverkusen,Hannover 96,Sidney Sam,2.000.000,5,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39102/transfer_id/419705
+B04,HSV,Bayer 04 Leverkusen,Hamburger SV,Jonathan Tah,7500000,6,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/196357/transfer_id/1288453
+B04,HSV,Bayer 04 Leverkusen,Hamburger SV,Heung min Son,12.500.000,7,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/91845/transfer_id/884865
+B04,HSV,Bayer 04 Leverkusen,Hamburger SV,Hakan Calhanoglu,15.250.000,7,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/126414/transfer_id/1078517
+B04,ITA1,Bayer 04 Leverkusen,AS Rom,Tin Jedvaj,1.000.000,4,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/206386/transfer_id/1068713
+B04,ITA1,Bayer 04 Leverkusen,Inter Mailand,Gulio Donati,3.000.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/88684/transfer_id/891241
+B04,ITA1,Bayer 04 Leverkusen,AS Rom,Tin Jedvaj,7.000.000,6,1,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/206386/transfer_id/1177377
+B04,ITA1,Bayer 04 Leverkusen,AS Rom,Patrik Schick,26500000,7,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/242086/transfer_id/3051575
+B04,JAP1,Bayer 04 Leverkusen,Urawa Red Diamonds,Hajime Hosogai,0,1,1,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79355/transfer_id/512924
+B04,KOR1,Bayer 04 Leverkusen,Jeju United,Seung woo Ryu,75.000,2,2,1314,2014,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/986867
+B04,M05,Bayer 04 Leverkusen,1.FSV Mainz 05,Dario Kresic,0,1,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/14219/transfer_id/1064112
+B04,M05,Bayer 04 Leverkusen,1.FSV Mainz 05,Julian Baumgartlinger,4000000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/34787/transfer_id/1485941
+B04,M05,Bayer 04 Leverkusen,1.FSV Mainz 05,Andre Schuerrle,8500000,6,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58205/transfer_id/568500
+B04,MEX1,Bayer 04 Leverkusen,Atlas Guadalajara,Michael Ortega,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119988/transfer_id/624317
+B04,NED1,Bayer 04 Leverkusen,Ajax Amsterdam,Daley Sinkgraven,5000000,5,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/215099/transfer_id/2511419
+B04,POL1,Bayer 04 Leverkusen,Gornik Zabrze,Arkadiusz Milik,2600000,5,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/191891/transfer_id/810356
+B04,POR1,Bayer 04 Leverkusen,Vitoria Guimaraes SC,Edmond Tapsoba,18000000,7,1,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/564545/transfer_id/2781511
+B04,S04,Bayer 04 Leverkusen,FC Schalke 04,Kyriakos Papadopoulos,1.000.000,4,2,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1102300
+B04,S04,Bayer 04 Leverkusen,FC Schalke 04,Kyriakos Papadopoulos,6500000,6,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1255646
+B04,SCF,Bayer 04 Leverkusen,SC Freiburg,Oemer Toprak,3000000,5,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/43512/transfer_id/568472
+B04,SCO1,Bayer 04 Leverkusen,Celtic Glasgow,Jeremie Frimpong,11000000,7,1,2021,2021,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/484547/transfer_id/3223873
+B04,SGE,Bayer 04 Leverkusen,Eintracht Frankfurt,Lukas Hradecky,0,1,1,1819,2018,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/48015/transfer_id/2092058
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Eren Derdiyok,500.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/47543/transfer_id/940427
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Nadiem Amiri,9000000,6,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/232454/transfer_id/2581905
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Kevin Volland,20000000,7,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/1486198
+B04,TSG,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,Kerem Demirbay,32000000,7,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/2470493
+B04,TUR1,Bayer 04 Leverkusen,Besiktas Instanbul,Robert Hilbert,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3256/transfer_id/872259
+B04,UKR1,Bayer 04 Leverkusen,Shakhtar 3 Donetsk,Vladlen Yurchenko,255.000,3,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/157373/transfer_id/1074792
+B04,UKR1,Bayer 04 Leverkusen,Dynamo Kiew,Aleksander Dragovic,21000000,7,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/59032/transfer_id/1579023
+B04,VFB,Bayer 04 Leverkusen,VfB Stuttgart,Bernd Leno,500000,3,2,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/72476/transfer_id/620069
+B04,VFB,Bayer 04 Leverkusen,VfB Stuttgart,Bernd Leno,7500000,6,1,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/72476/transfer_id/655496
+B04,WOL,Bayer 04 Leverkusen,VfL Wolfsburg,Julian Brandt,500.000,3,1,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/187492/transfer_id/984565
+AUT1,B04,Red Bull Salzburg,Bayer 04 Leverkusen,Andre Ramalho,0,1,1,1718,2018,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/175792/transfer_id/1978741
+AUT1,B04,LASK,Bayer 04 Leverkusen,Jan Boller,99,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/389079/transfer_id/2583350
+BMG,B04,Borussia Moenchengladbach,Bayer 04 Leverkusen,Christoph Kramer,200.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82097/transfer_id/868848
+BMG,B04,Borussia Moenchengladbach,Bayer 04 Leverkusen,Josip Drmic,10000000,6,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/140579/transfer_id/1262265
+BMG,B04,Borussia Moenchengladbach,Bayer 04 Leverkusen,Christoph Kramer,15000000,7,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82097/transfer_id/1499922
+BRA1,B04,Corinthians Sao Paulo,Bayer 04 Leverkusen,Renato Augusto,6700000,6,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53058/transfer_id/811357
+BRE,B04,SV Werder Bremen,Bayer 04 Leverkusen,Levin Oeztunali,200.000,3,2,1415,2015,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/168543/transfer_id/1166302
+BSC,B04,Hertha BSC,Bayer 04 Leverkusen,Jens Hegeler,900.000,4,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/51168/transfer_id/1059649
+BSC,B04,Hertha BSC,Bayer 04 Leverkusen,Hajime Hosogai,1.000.000,4,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/79355/transfer_id/873123
+BVB,B04,Borussia Dortmund,Bayer 04 Leverkusen,Paterson Chato,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/149265/transfer_id/1762436
+BVB,B04,Borussia Dortmund,Bayer 04 Leverkusen,Gonzalo Castro,11000000,7,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/28947/transfer_id/1248778
+BVB,B04,Borussia Dortmund,Bayer 04 Leverkusen,Oemer Toprak,12.000.000,7,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/43512/transfer_id/1697259
+BVB,B04,Borussia Dortmund,Bayer 04 Leverkusen,Julian Brandt,25000000,7,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/187492/transfer_id/2482926
+CHN1,B04,Liaoning FC,Bayer 04 Leverkusen,Robbie Kruse,500000,3,1,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/51972/transfer_id/1678047
+CRO1,B04,GNK Dinamo Zagreb,Bayer 04 Leverkusen,Zvonko Pamic,230000,3,1,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47624/transfer_id/814396
+CRO1,B04,GNK Dinamo Zagreb,Bayer 04 Leverkusen,Junior Fernandes,250.000,3,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89708/transfer_id/875078
+CRO1,B04,GNK Dinamo Zagreb,Bayer 04 Leverkusen,Domagoj Vida,1300000,5,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/46083/transfer_id/585111
+CRO1,B04,GNK Dinamo Zagreb,Bayer 04 Leverkusen,Junior Fernandes,2.500.000,5,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/89708/transfer_id/1054376
+DNK1,B04,FC Kopenhagen,Bayer 04 Leverkusen,Nicolai Joergensen,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/100399/transfer_id/743546
+DNK1,B04,FC Kopenhagen,Bayer 04 Leverkusen,Nicolai Joergensen,670.000,4,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/100399/transfer_id/784668
+EBS,B04,Eintracht Braunschweig,Bayer 04 Leverkusen,Karim Bellarabi,150.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/61087/transfer_id/935352
+ENG1,B04,Sheffield United,Bayer 04 Leverkusen,Panagiotis Retsos,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/324351/transfer_id/2781512
+ENG1,B04,FC Liverpool,Bayer 04 Leverkusen,Samed Yesil,1300000,5,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/95295/transfer_id/777356
+ENG1,B04,Leicester City,Bayer 04 Leverkusen,Aleksandar Dragovic,2.500.000,5,2,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/59032/transfer_id/1900749
+ENG1,B04,Stoke City,Bayer 04 Leverkusen,Philipp Wollscheid,3800000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53173/transfer_id/1247707
+ENG1,B04,FC Liverpool,Bayer 04 Leverkusen,Emre Can,12.000.000,7,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119296/transfer_id/1067066
+ENG1,B04,West Ham United,Bayer 04 Leverkusen,Chicharito,17.800.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/50935/transfer_id/1851693
+ENG1,B04,FC Chelsea,Bayer 04 Leverkusen,Andre Schuerrle,22.000.000,7,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58205/transfer_id/884588
+ENG1,B04,FC Arsenal,Bayer 04 Leverkusen,Bernd Leno,25000000,7,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/72476/transfer_id/2138820
+ENG1,B04,Tottenham Hotspur,Bayer 04 Leverkusen,Heung min Son,30000000,7,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/91845/transfer_id/1330448
+ENG1,B04,FC Chelsea,Bayer 04 Leverkusen,Kai Havertz,80000000,7,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/309400/transfer_id/3045423
+ENG2,B04,FC Fulham,Bayer 04 Leverkusen,Konstantinos Stafylidis,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148967/transfer_id/1206338
+ESP1,B04,Real Madrid,Bayer 04 Leverkusen,Daniel Carvajal,6.500.000,6,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/138927/transfer_id/878484
+F95,B04,Fortuna Duesseldorf,Bayer 04 Leverkusen,Fabian Giefer,400000,3,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53408/transfer_id/725122
+FCA,B04,FC Augsburg,Bayer 04 Leverkusen,Tin Jedvaj,99,1,2,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/206386/transfer_id/2614800
+FCA,B04,FC Augsburg,Bayer 04 Leverkusen,Arkadiusz Milik,150.000,3,2,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/191891/transfer_id/940429
+FCA,B04,FC Augsburg,Bayer 04 Leverkusen,Dominik Kohr,150.000,3,2,1314,2014,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118847/transfer_id/998983
+FCA,B04,FC Augsburg,Bayer 04 Leverkusen,Dominik Kohr,1400000,5,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118847/transfer_id/1263038
+FCA,B04,FC Augsburg,Bayer 04 Leverkusen,Konstantinos Stafylidis,2500000,5,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/148967/transfer_id/1323923
+FCK,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Nicolai Joergensen,30000,1,2,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/100399/transfer_id/657511
+FCK,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Thanos Petsos,99,1,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82110/transfer_id/460998
+FCK,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Lucas Rocha,99,1,2,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/143794/transfer_id/532216
+FCK,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Richard Sukuta Pasu,280000,3,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53455/transfer_id/585803
+FCN,B04,1.FC Nuernberg,Bayer 04 Leverkusen,Hanno Balitsch,0,1,1,1112,2012,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/823/transfer_id/669164
+FCN,B04,1.FC Nuernberg,Bayer 04 Leverkusen,Jens Hegeler,99,1,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/51168/transfer_id/448738
+FRA1,B04,AS Saint Etienne,Bayer 04 Leverkusen,Panagiotis Retsos,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/324351/transfer_id/3088993
+FRA1,B04,AS Monaco,Bayer 04 Leverkusen,Kevin Volland,11000000,7,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/3041314
+FRA1,B04,AS Monaco,Bayer 04 Leverkusen,Benjamin Henrichs,20000000,7,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/202591/transfer_id/2243003
+GER2,B04,Alemannia Aachen,Bayer 04 Leverkusen,Tomasz Zdebel,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/3836/transfer_id/409312
+GER2,B04,Fortuna Duesseldorf,Bayer 04 Leverkusen,Sascha Dum,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/20551/transfer_id/427008
+GER2,B04,FC Augsburg,Bayer 04 Leverkusen,Lukas Sinkiewicz,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/17134/transfer_id/453962
+GER2,B04,SpVgg Greuther Fuerth,Bayer 04 Leverkusen,Kevin Kampl,0,1,1,1011,2010,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/473986
+GER2,B04,Fortuna Duesseldorf,Bayer 04 Leverkusen,Michael Rensing,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/2421/transfer_id/865771
+GER2,B04,Karlsruher SC,Bayer 04 Leverkusen,Jonas Meffert,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/107574/transfer_id/1058550
+GER2,B04,FC Ingolstadt 04,Bayer 04 Leverkusen,Danny da Costa,0,1,1,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85906/transfer_id/1062340
+GER2,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Marlon Frey,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/182752/transfer_id/1523828
+GER2,B04,1.FC Heidenheim 1846,Bayer 04 Leverkusen,Robin Becker,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237444/transfer_id/1540405
+GER2,B04,SSV Jahn Regensburg,Bayer 04 Leverkusen,Patrik Dzalto,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/252088/transfer_id/1806856
+GER2,B04,SV Sandhausen,Bayer 04 Leverkusen,Niklas Lomb,0,1,2,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85543/transfer_id/2119003
+GER2,B04,FC St. Pauli,Bayer 04 Leverkusen,Jakub Bednarczyk,0,1,1,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/346328/transfer_id/2377685
+GER2,B04,SV Darmstadt 98,Bayer 04 Leverkusen,Adrian Stanilewicz,0,1,1,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/389078/transfer_id/3005155
+GER2,B04,FC Augsburg,Bayer 04 Leverkusen,Hajime Hosogai,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/79355/transfer_id/512925
+GER2,B04,SpVgg Greuther Fuerth,Bayer 04 Leverkusen,Burak Kaplan,99,1,2,1011,2011,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61003/transfer_id/532392
+GER2,B04,MSV Duisburg,Bayer 04 Leverkusen,Zvonko Pamic,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47624/transfer_id/576142
+GER2,B04,VfL Bochum,Bayer 04 Leverkusen,Christoph Kramer,99,1,2,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/82097/transfer_id/581078
+GER2,B04,FC Ingolstadt 04,Bayer 04 Leverkusen,Danny da Costa,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85906/transfer_id/740866
+GER2,B04,MSV Duisburg,Bayer 04 Leverkusen,Zvonko Pamic,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/47624/transfer_id/760688
+GER2,B04,SSV Jahn Regensburg,Bayer 04 Leverkusen,Carlinhos,99,1,2,1213,2013,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/226155/transfer_id/823069
+GER2,B04,VfR Aalen,Bayer 04 Leverkusen,Joel Pohjanpalo,99,1,2,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/942676
+GER2,B04,Fortuna Duesseldorf,Bayer 04 Leverkusen,Joel Pohjanpalo,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/1055200
+GER2,B04,VfL Bochum,Bayer 04 Leverkusen,Malcolm Cacutalua,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123558/transfer_id/1118888
+GER2,B04,SpVgg Greuther Fuerth,Bayer 04 Leverkusen,Malcolm Cacutalua,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123558/transfer_id/1047425
+GER2,B04,Eintracht Braunschweig,Bayer 04 Leverkusen,Seung woo Ryu,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1111898
+GER2,B04,SC Paderborn 07,Bayer 04 Leverkusen,Marc Brasnic,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170514/transfer_id/1265773
+GER2,B04,Arminia Bielefeld,Bayer 04 Leverkusen,Seung woo Ryu,99,1,2,1516,2016,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1424508
+GER2,B04,Arminia Bielefeld,Bayer 04 Leverkusen,Malcolm Cacutalua,99,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/123558/transfer_id/1556293
+GER2,B04,1.FC Kaiserslautern,Bayer 04 Leverkusen,Joel Abu Hanna,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/267330/transfer_id/1898132
+GER2,B04,Eintracht Braunschweig,Bayer 04 Leverkusen,Robin Becker,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/237444/transfer_id/1792754
+GER2,B04,Hamburger SV,Bayer 04 Leverkusen,Joel Pohjanpalo,99,1,2,1920,2020,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/2771169
+GER2,B04,Eintracht Frankfurt,Bayer 04 Leverkusen,Constant Djakpa,500000,3,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/41866/transfer_id/585743
+GER3,B04,Chemnitzer FC,Bayer 04 Leverkusen,Kolja Pusch,0,1,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85946/transfer_id/912170
+GER3,B04,SC Fortuna Koeln,Bayer 04 Leverkusen,Dennis Engelman,0,1,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/145420/transfer_id/1250177
+GER3,B04,SG Sonnenhof Grossaspach,Bayer 04 Leverkusen,David Yelldell,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/4746/transfer_id/1484024
+GER3,B04,FC Fortuna Koeln,Bayer 04 Leverkusen,Marc Brasnic,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170514/transfer_id/1526641
+GER3,B04,SSV Jahn Regensburg,Bayer 04 Leverkusen,Patrik Dzalto,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/252088/transfer_id/1533316
+GER3,B04,SC Paderborn 07,Bayer 04 Leverkusen,Lukas Boeder,0,1,2,1617,2017,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227078/transfer_id/1683628
+GER3,B04,SC Paderborn 07,Bayer 04 Leverkusen,Lukas Boeder,0,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227078/transfer_id/1804527
+GER3,B04,VfL Osnabrueck,Bayer 04 Leverkusen,Kevin Kampl,99,1,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/586833
+GER3,B04,VfL Osnabrueck,Bayer 04 Leverkusen,Maximilian Wagener,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/158530/transfer_id/1122327
+GER3,B04,SC Fortuna Koeln,Bayer 04 Leverkusen,Dennis Engelman,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/145420/transfer_id/1081278
+GER3,B04,Hallescher FC,Bayer 04 Leverkusen,Niklas Lomb,99,1,2,1415,2015,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85543/transfer_id/1170412
+GER3,B04,Preußen Munster,Bayer 04 Leverkusen,Niklas Lomb,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/85543/transfer_id/1250328
+GER4,B04,SG Wattenscheid 09,Bayer 04 Leverkusen,Maximilian Wagener,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/158530/transfer_id/1547233
+GER4,B04,FC Viktoria Köln,Bayer 04 Leverkusen,Andrejs Ciganiks,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/202659/transfer_id/1516742
+GER4,B04,SC Wiedenbruck,Bayer 04 Leverkusen,Paterson Chato,99,1,2,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/149265/transfer_id/1775675
+GER4,B04,FC Viktoria Koeln,Bayer 04 Leverkusen,Marc Brasnic,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170514/transfer_id/1899559
+GRE1,B04,PAOK Thessaloniki,Bayer 04 Leverkusen,Konstantinos Stafylidis,99,1,2,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/148967/transfer_id/1082887
+HSV,B04,Hamburger SV,Bayer 04 Leverkusen,Rene Adler,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1784/transfer_id/718002
+HSV,B04,Hamburger SV,Bayer 04 Leverkusen,Kyriakos Papadopoulos,500.000,3,2,1617,2017,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1676498
+HSV,B04,Hamburger SV,Bayer 04 Leverkusen,Kyriakos Papadopoulos,6.500.000,6,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1812318
+HUN2,B04,Vasas FC,Bayer 04 Leverkusen,Lucas Rocha,0,1,1,1213,2012,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/143794/transfer_id/754558
+ITA1,B04,Ferencvarosi TC,Bayer 04 Leverkusen,Seung woo Ryu,0,1,2,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1585399
+ITA1,B04,Juventus Turin,Bayer 04 Leverkusen,Arturo Vidal,12500000,7,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/37666/transfer_id/609000
+ITA1,B04,AC Mailand,Bayer 04 Leverkusen,Hakan Calhanoglu,23.300.000,7,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/126414/transfer_id/1820646
+KOE,B04,1.FC Koeln,Bayer 04 Leverkusen,Tim Handwerker,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/284177/transfer_id/1854680
+KOR1,B04,Jeju United,Bayer 04 Leverkusen,Seung woo Ryu,99,1,1,1718,2017,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1831414
+M05,B04,1.FSV Mainz 05,Bayer 04 Leverkusen,Marcel Risse,150.000,3,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/51176/transfer_id/472270
+M05,B04,1.FSV Mainz 05,Bayer 04 Leverkusen,Philipp Wollscheid,250.000,3,2,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53173/transfer_id/1122331
+M05,B04,1.FSV Mainz 05,Bayer 04 Leverkusen,Andre Ramalho,500.000,3,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/175792/transfer_id/1587676
+M05,B04,1.FSV Mainz 05,Bayer 04 Leverkusen,Marcel Risse,800000,4,1,1112,2011,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/51176/transfer_id/572181
+M05,B04,1.FSV Mainz 05,Bayer 04 Leverkusen,Giulio Donati,1000000,4,1,1516,2016,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/88684/transfer_id/1418078
+M05,B04,1.FSV Mainz 05,Bayer 04 Leverkusen,Levin Oeztunali,5.000.000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/168543/transfer_id/1580471
+NED1,B04,PSV Eindhoven,Bayer 04 Leverkusen,Marlon Frey,0,1,1,1819,2018,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/182752/transfer_id/2106702
+NED1,B04,VVVVenlo,Bayer 04 Leverkusen,Thorsten Kirschbaum,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38346/transfer_id/2487157
+NED1,B04,Ajax Amsterdam,Bayer 04 Leverkusen,Arkadiusz Milik,99,1,2,1415,2014,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/191891/transfer_id/1062850
+NED1,B04,FC Groningen,Bayer 04 Leverkusen,Sam Schreck,99,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/335100/transfer_id/2527750
+NED1,B04,RKC Waalwijk,Bayer 04 Leverkusen,Ayman Azhil,99,1,2,2021,2020,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/452068/transfer_id/3037549
+NED1,B04,Ajax Amsterdam,Bayer 04 Leverkusen,Arkadiusz Milik,2800000,5,1,1516,2015,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/191891/transfer_id/1222851
+POR1,B04,Vitoria Guimaraes SC,Bayer 04 Leverkusen,Tomasz Kucz,0,1,1,1920,2019,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/320954/transfer_id/2583382
+RBL,B04,RasenBallsport Leipzig,Bayer 04 Leverkusen,Kyriakos Papadopoulos,1000000,4,2,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1587520
+RBL,B04,RasenBallsport Leipzig,Bayer 04 Leverkusen,Kevin Kampl,20.000.000,7,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/1899281
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Tranquillo Barnetta,0,1,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/6645/transfer_id/720042
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Andrejs Ciganiks,0,1,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/202659/transfer_id/1778662
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Hans Sarpei,400.000,2,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/707/transfer_id/472549
+S04,B04,FC Schalke 04,Bayer 04 Leverkusen,Sidney Sam,2.500.000,5,1,1415,2014,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39102/transfer_id/995412
+SCF,B04,SC Freiburg,Bayer 04 Leverkusen,Zvonko Pamic,99,1,2,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/47624/transfer_id/422454
+SCF,B04,SC Freiburg,Bayer 04 Leverkusen,Jonas Meffert,1200000,5,1,1617,2016,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/107574/transfer_id/1492815
+SGE,B04,Eintracht Frankfurt,Bayer 04 Leverkusen,Stefan Reinartz,0,1,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/43274/transfer_id/1248061
+SGE,B04,Eintracht Frankfurt,Bayer 04 Leverkusen,Bastian Oczipka,500000,3,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53437/transfer_id/725523
+SGE,B04,Eintracht Frankfurt,Bayer 04 Leverkusen,Theofanis Gekas,1.000.000,4,1,1011,2010,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16402/transfer_id/419710
+SGE,B04,Eintracht Frankfurt,Bayer 04 Leverkusen,Danny da Costa,1.000.000,4,1,1718,2017,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85906/transfer_id/1779283
+SGE,B04,Eintracht Frankfurt,Bayer 04 Leverkusen,Dominik Kohr,8500000,6,1,1920,2019,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118847/transfer_id/2535927
+SGF,B04,SpVgg Greuther Fuerth,Bayer 04 Leverkusen,Thanos Petsos,50000,2,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82110/transfer_id/719681
+SVK1,B04,DAC Dunajaska Streda,Bayer 04 Leverkusen,Tomasz Kucz,0,1,2,1819,2019,2,2,https://www.transfermarkt.de/jumplist/transfers/spieler/320954/transfer_id/2379079
+TSG,B04,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Eren Derdiyok,5500000,6,1,1213,2012,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/47543/transfer_id/714107
+TUR1,B04,Besiktas Istanbul,Bayer 04 Leverkusen,Burak Kaplan,650000,4,1,1112,2011,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61003/transfer_id/576143
+TUR1,B04,Fenerbahce Instanbul,Bayer 04 Leverkusen,Michal Kadlec,4.500.000,5,1,1314,2013,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/21042/transfer_id/885522
+UNI,B04,1.FC Union Berlin,Bayer 04 Leverkusen,Joel Pohjanpalo,99,1,2,2021,2020,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/3082123
+VFB,B04,VfB Stuttgart,Bayer 04 Leverkusen,Daniel Schwaab,0,1,1,1314,2013,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38434/transfer_id/868918
+VFB,B04,VfB Stuttgart,Bayer 04 Leverkusen,Robbie Kruse,750000,4,1,1516,2015,1,1,https://www.transfermarkt.de/jumplist/transfers/spieler/51972/transfer_id/1333151
+WOL,B04,VfL Wolfsburg,Bayer 04 Leverkusen,Patrick Helmes,5.000.000,5,1,1011,2011,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/6322/transfer_id/534180
+WOL,B04,VfL Wolfsburg,Bayer 04 Leverkusen,Admir Mehmedi,8.000.000,6,1,1718,2018,2,1,https://www.transfermarkt.de/jumplist/transfers/spieler/66058/transfer_id/2021876
+ZYP1,B04,Omonia Nikosia,Bayer 04 Leverkusen,Dario Kresic,0,1,1,1617,2016,1,2,https://www.transfermarkt.de/jumplist/transfers/spieler/14219/transfer_id/1484025
