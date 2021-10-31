@@ -49,6 +49,15 @@ Das Transferfenster, indem das Transfergeschäft vollzogen wurde
 1 = Sommertransferfenster   
 2 = Wintertransferfenster 
 
+SEASON
+Saison des Transfers. Codierung nach Kurzbeschreibung der Saison. Bspw. 1011 für die Saison 2010/2011
+
+LIGAINTERN
+Differenziert zwischen ligainternen und ligaexternen Transfers
+
+1 = Transfer zwischen zwei Bundesliga-Vereinen
+2 = Transfer zwischen einem Bundesliga-Verein und einem Verein einer anderen Liga
+
 TRANSFERID  
 Hier steht der einzigartige Link zum Wechsel auf transfermarkt.de (bsp. https://www.transfermarkt.de/jumplist/transfers/spieler/768384/transfer_id/3017239). Dieser Link dient zum einen als Beleg und zum anderen als Überprüfungsmöglichkeit, um mögliche Duplikate schnell ausfindig zu machen.  
 
